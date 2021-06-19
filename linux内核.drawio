@@ -1,26 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T06:49:44.467Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="krGPv1bjXqPC0VIVkzBC" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-19T06:53:37.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="Z6hvjpp0cQL7t7QSyhtB" version="14.8.0" type="github">
   <diagram id="d4Ef0iPleq8nUR0kv_Nl" name="第 1 页">
     <mxGraphModel dx="983" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RurQdvNS4L2G9iKuI0Ui-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RurQdvNS4L2G9iKuI0Ui-1" value="RAM&lt;br&gt;1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RurQdvNS4L2G9iKuI0Ui-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RurQdvNS4L2G9iKuI0Ui-2" value="CPU&lt;br&gt;1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="130" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RurQdvNS4L2G9iKuI0Ui-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RurQdvNS4L2G9iKuI0Ui-3" value="CPU&lt;br&gt;2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="130" y="330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RurQdvNS4L2G9iKuI0Ui-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="230" y="310" as="sourcePoint" />
-            <mxPoint x="460" y="310" as="targetPoint" />
+            <mxPoint x="110" y="310" as="sourcePoint" />
+            <mxPoint x="660" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-12" value="总线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RurQdvNS4L2G9iKuI0Ui-4">
+          <mxGeometry x="0.3596" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RurQdvNS4L2G9iKuI0Ui-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RurQdvNS4L2G9iKuI0Ui-5" value="RAM&lt;br&gt;2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-6" value="内存仲裁器&lt;br&gt;memory arbiter" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
