@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T07:00:46.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="n99f1C4cIvC8uE6XMVTA" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-19T07:01:21.122Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="qhsaMFsqFxaEncBRXAhV" version="14.8.0" type="github">
   <diagram id="d4Ef0iPleq8nUR0kv_Nl" name="第 1 页">
     <mxGraphModel dx="983" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="RurQdvNS4L2G9iKuI0Ui-13" value="DMA" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="260" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RurQdvNS4L2G9iKuI0Ui-15" value="CPU和内存之间的数据交换要经过MMU把逻辑地址(又成为虚拟地址)转换为实际物理地址,CPU通过引脚访问内存的物理地址&lt;br&gt;内存的访问是通过总线访问的,并且是串行话访问,即同一时刻,只能有一颗CPU或者一个DMA设备访问物理内存(RAM)&lt;br&gt;为了保证内存的串行访问," style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-15" value="CPU和内存之间的数据交换要经过MMU把逻辑地址(又成为虚拟地址)转换为实际物理地址,CPU通过引脚访问内存的物理地址&lt;br&gt;内存的访问是通过总线访问的,并且是串行话访问,即同一时刻,只能有一颗CPU或者一个DMA设备访问物理内存(RAM)&lt;br&gt;为了保证内存的串行访问,总线和每个RMA芯片之间会有一个内存仲裁器" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="105" width="670" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RurQdvNS4L2G9iKuI0Ui-16" value="内存仲裁器&lt;br&gt;memory arbiter" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
