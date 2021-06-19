@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2021-06-19T07:03:21.144Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="QveCRa14p6sZ99bVypBz" version="14.8.0" type="github">
+  <diagram id="d4Ef0iPleq8nUR0kv_Nl" name="第 1 页">
+    <mxGraphModel dx="679" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RurQdvNS4L2G9iKuI0Ui-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-1" value="RAM&lt;br&gt;1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RurQdvNS4L2G9iKuI0Ui-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-2" value="CPU&lt;br&gt;1" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="130" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RurQdvNS4L2G9iKuI0Ui-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-3" value="CPU&lt;br&gt;2" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="130" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="110" y="310" as="sourcePoint" />
+            <mxPoint x="660" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-12" value="总线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RurQdvNS4L2G9iKuI0Ui-4" vertex="1" connectable="0">
+          <mxGeometry x="0.3596" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;exitX=0.027;exitY=0.012;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="RurQdvNS4L2G9iKuI0Ui-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="422" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-5" value="RAM&lt;br&gt;2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-6" value="内存仲裁器&lt;br&gt;memory arbiter" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RurQdvNS4L2G9iKuI0Ui-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-13" value="DMA" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="260" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-15" value="CPU和内存之间的数据交换要经过MMU把逻辑地址(又成为虚拟地址)转换为实际物理地址,CPU通过引脚访问内存的物理地址&lt;br&gt;内存的访问是通过总线访问的,并且是串行话访问,即同一时刻,只能有一颗CPU或者一个DMA设备访问物理内存(RAM)&lt;br&gt;为了保证内存的串行访问,总线和每个RMA芯片之间会有一个内存仲裁器" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="50" y="105" width="670" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-16" value="内存仲裁器&lt;br&gt;memory arbiter" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RurQdvNS4L2G9iKuI0Ui-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" source="RurQdvNS4L2G9iKuI0Ui-5" target="RurQdvNS4L2G9iKuI0Ui-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="310" as="targetPoint" />
+            <mxPoint x="510" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
