@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T05:33:54.619Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="BmaLTmoZGxN6OBcE_Ngh" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T05:34:18.432Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="ev_YyCyzzuIZGYl5uphb" version="14.8.0" type="github">
   <diagram id="UanFxDfiVa48uD2jYfIT" name="第 1 页">
     <mxGraphModel dx="1426" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
         </mxCell>
         <mxCell id="JTKkzrfcodYLNeWdXCRE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;startArrow=block;" edge="1" parent="1" source="JTKkzrfcodYLNeWdXCRE-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="321" y="435" as="targetPoint" />
+            <mxPoint x="321" y="448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JTKkzrfcodYLNeWdXCRE-5" value="RAM&amp;nbsp;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;80纳秒左右&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
@@ -49,6 +49,11 @@
         </mxCell>
         <mxCell id="JTKkzrfcodYLNeWdXCRE-13" value="L2 小于3纳秒" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="521" y="238" width="103" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="JTKkzrfcodYLNeWdXCRE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;strokeWidth=2;" edge="1" parent="1" source="JTKkzrfcodYLNeWdXCRE-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="657.5" y="447" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JTKkzrfcodYLNeWdXCRE-16" value="L3 小于15纳秒" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="489" y="320" width="337" height="46" as="geometry" />
