@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T05:34:27.310Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="GmnZE0HXFPjvhaCYQo4J" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T05:37:10.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="UV9ZBh1R0bdy6K75U1JG" version="14.8.0" type="github">
   <diagram id="UanFxDfiVa48uD2jYfIT" name="第 1 页">
     <mxGraphModel dx="1426" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,6 +74,9 @@
         </mxCell>
         <mxCell id="JTKkzrfcodYLNeWdXCRE-23" value="L2" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="631" y="242" width="103" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="JTKkzrfcodYLNeWdXCRE-27" value="数据一致性:&lt;br&gt;保证L1,L2,L3 与RAM的缓存一致性&lt;br&gt;如果是单核CPU,无一致性问题,只有在多核CPU的情况下回出现" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="139" width="353" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
