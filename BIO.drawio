@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T05:19:27.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="YUmiXWw4HmIVz_QeSZ8S" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T05:19:34.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="57J-sdtQ9mEoviaEnX4Y" version="14.8.0" type="github">
   <diagram id="FrQ8_CAFMjXcX87B2lNz" name="第 1 页">
     <mxGraphModel dx="1426" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
         <mxCell id="5oSFcBpaG2POD1FFRAmP-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5oSFcBpaG2POD1FFRAmP-33" target="5oSFcBpaG2POD1FFRAmP-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5oSFcBpaG2POD1FFRAmP-43" value="不阻塞" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5oSFcBpaG2POD1FFRAmP-37">
+        <mxCell id="5oSFcBpaG2POD1FFRAmP-43" value="非阻塞" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5oSFcBpaG2POD1FFRAmP-37">
           <mxGeometry x="-0.4408" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
