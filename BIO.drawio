@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T06:31:35.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="cvXnOp-xrw-giGi4wOQ4" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T05:16:18.907Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="kzSNAEQOPkKC42fG2mlQ" version="14.8.0" type="github">
   <diagram id="FrQ8_CAFMjXcX87B2lNz" name="第 1 页">
     <mxGraphModel dx="1426" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,14 +37,8 @@
         <mxCell id="5oSFcBpaG2POD1FFRAmP-7" value="系统调用accept(fd)&lt;br&gt;返回fdN" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="244" y="542" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5oSFcBpaG2POD1FFRAmP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oSFcBpaG2POD1FFRAmP-9" target="5oSFcBpaG2POD1FFRAmP-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5oSFcBpaG2POD1FFRAmP-9" value="系统调用recv(fdN)" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="244" y="854" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5oSFcBpaG2POD1FFRAmP-10" value="系统调用read(fdN)" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="244" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5oSFcBpaG2POD1FFRAmP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oSFcBpaG2POD1FFRAmP-11" target="5oSFcBpaG2POD1FFRAmP-9">
           <mxGeometry relative="1" as="geometry" />
@@ -103,44 +97,6 @@
         </mxCell>
         <mxCell id="5oSFcBpaG2POD1FFRAmP-20" value="do something" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="604" y="778" width="120" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="5oSFcBpaG2POD1FFRAmP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oSFcBpaG2POD1FFRAmP-28" target="5oSFcBpaG2POD1FFRAmP-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5oSFcBpaG2POD1FFRAmP-31" value="有接收到数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5oSFcBpaG2POD1FFRAmP-30">
-          <mxGeometry x="-0.4576" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5oSFcBpaG2POD1FFRAmP-34" value="未接收到数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oSFcBpaG2POD1FFRAmP-28" target="5oSFcBpaG2POD1FFRAmP-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5oSFcBpaG2POD1FFRAmP-28" value="是否接收到数据" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="970" width="103" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="5oSFcBpaG2POD1FFRAmP-32" value="等待系统中断唤醒" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="457" y="1110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5oSFcBpaG2POD1FFRAmP-35" value="阻塞" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oSFcBpaG2POD1FFRAmP-33" target="5oSFcBpaG2POD1FFRAmP-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5oSFcBpaG2POD1FFRAmP-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5oSFcBpaG2POD1FFRAmP-33" target="5oSFcBpaG2POD1FFRAmP-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5oSFcBpaG2POD1FFRAmP-33" value="是否阻塞" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="477" y="970" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="5oSFcBpaG2POD1FFRAmP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oSFcBpaG2POD1FFRAmP-36" target="5oSFcBpaG2POD1FFRAmP-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="776" y="1140" />
-              <mxPoint x="776" y="834" />
-              <mxPoint x="304" y="834" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5oSFcBpaG2POD1FFRAmP-36" value="do something" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="608" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
