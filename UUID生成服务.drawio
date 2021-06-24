@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T07:46:05.018Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="kbFw8hhrq11R7Cwodfgv" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T08:15:30.866Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="uwGP-GZkiqHfynhzTqZJ" version="14.8.0" type="github">
   <diagram id="_Hl0qLJGVYkEXhdcjlhU" name="第 1 页">
     <mxGraphModel dx="951" dy="529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -142,8 +142,8 @@
         <mxCell id="zeO1inaGai7XYB62lABs-24" value="Clinet" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="452" y="597" width="47" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="zeO1inaGai7XYB62lABs-49" value="设计目标: 全球有1000亿的网络设备,每台设备没10ms获取一个UUID,整个系统的全球TPS为 10万亿次/秒." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="41" y="681" width="748" height="137" as="geometry" />
+        <mxCell id="zeO1inaGai7XYB62lABs-49" value="设计目标: 全球有100亿人口,每人每1s获取一个UUID,整个系统的全球TPS为 100亿次/秒&lt;br&gt;约束:&lt;br&gt;1. 城市级节点获返回一个UUID的耗时为10微妙,即1万纳秒(CPU访问内存的时间在80纳秒左右,排除网络时间),每个城市级节点可以承载的TPS为10万次/秒,总共需要10W个城市节点.&lt;br&gt;2. 假设每个省都有一个省级节点,算全球有有1万个省,每个省级节点返回一个号段的耗时为10微妙,那么每次返回的号段长度不能小于10.如果每次返回的号段有1000个UUID,那么省级节点可以最少可以有10个.&lt;br&gt;3. 总体分析来看,最底层节点的数量和性能决定了整个系统的吞吐量.&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="41" y="681" width="748" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
