@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T02:33:54.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="YrcixTCBz3lDhuockbSf" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T02:35:55.167Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="pk2LYETnMHyuJ3uUVL36" version="14.8.0" type="github">
   <diagram id="uZbJU9xNhfvfBdfA2iXR" name="第 1 页">
     <mxGraphModel dx="815" dy="454" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,8 +79,8 @@
         <mxCell id="zsgrnOs2awig9EdUBvT2-17" value="发货单400" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="665" y="260" width="74" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="zsgrnOs2awig9EdUBvT2-26" value="1.原始库位库存按汇波单中的总量进行占用,假设需要100W件,每个库位有100件,需要占用1W个库位,完成占用时间为秒级.&lt;br&gt;2.100W单,生成拣选单,每个拣选单最多拣选500个发货单,总共需要生成2000个拣选单,生成一个拣选单并绑定好500个出库单,耗时为秒级,两千个拣选单,可以顺序生成,并发绑定(将拣选单ID和需要绑定的出库单ID转成消息发送到整个集群,通过集群并发处理),总体耗时,15分钟.&lt;br&gt;3.生成的2000个拣选单,做拣选单中的发货单级别的库存占用,每个拣选单可以使用独立线程进行,且无库存竞争.此时需要将拣选单通过消息发送到整个集群,理想情况下,假设集群有10台机器,每个台机器平均需要处理200个拣选单的库存占用.处理每个拣选单的的耗时为5秒,总共需要1000秒处理完成,即17分钟.&lt;br&gt;*** 总体耗时 : 在35分钟左右 ***" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="340" width="693" height="142" as="geometry" />
+        <mxCell id="zsgrnOs2awig9EdUBvT2-26" value="1.原始库位库存按汇波单中的总量进行占用,假设需要100W件,每个库位有100件,需要占用1W个库位,完成占用时间为秒级.&lt;br&gt;2.100W单,生成拣选单,每个拣选单最多拣选500个发货单,总共需要生成2000个拣选单,生成一个拣选单并绑定好500个出库单,耗时为秒级,两千个拣选单,可以顺序生成,并发绑定(将拣选单ID和需要绑定的出库单ID转成消息发送到整个集群,通过集群并发处理),总体耗时,15分钟.&lt;br&gt;3.生成的2000个拣选单,做拣选单中的发货单级别的库存占用,每个拣选单可以使用独立线程进行,且无库存竞争.此时需要将拣选单通过消息发送到整个集群,理想情况下,假设集群有10台机器,每个台机器平均需要处理200个拣选单的库存占用.处理每个拣选单的的耗时为5秒,总共需要1000秒处理完成,即17分钟.&lt;br&gt;*** 总体耗时 : 在35分钟左右 ***&lt;br&gt;主要性能瓶颈: 数据库单点写入;&lt;br&gt;可横向扩展点: 消息中间件分区数可横向扩展;集群节点数可横向扩展;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="708" height="156" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
