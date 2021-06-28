@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T02:32:16.783Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="E-37uFer7g8G51Cd4ca-" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T02:32:57.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Xjr18tHhpm8glblk18g9" version="14.8.1" type="github">
   <diagram id="ik2H3Wdc5D8A9ganTzva" name="第 1 页">
     <mxGraphModel dx="951" dy="529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -220,7 +220,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-96" value="Dubbo Proxy工作过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-96" value="Consumer端 Dubbo Proxy工作过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="914" width="353" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Fjd8QmpVkTL5xjd4R_bE-109" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Fjd8QmpVkTL5xjd4R_bE-99" target="Fjd8QmpVkTL5xjd4R_bE-100">
