@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T03:42:16.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="rW7-3tMQb4U-uDuFyVp1" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T03:55:34.324Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="UeiATNtCJ3TXAFeDxhT1" version="14.8.1" type="github">
   <diagram id="_3ZKDEy9R8XJDdYj2mkg" name="第 1 页">
     <mxGraphModel dx="951" dy="529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,6 +101,54 @@
         </mxCell>
         <mxCell id="GFZzpSy_-tTbSRPp0wo4-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-22" target="GFZzpSy_-tTbSRPp0wo4-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-36" value="fakeTomcat接收/返回数据流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="317" y="488" width="194" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-37" target="GFZzpSy_-tTbSRPp0wo4-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-37" value="开始" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="379.5" y="545" width="69" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-38" target="GFZzpSy_-tTbSRPp0wo4-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-38" value="server端调用Selector.select()获取可读取的socket" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="612" width="293" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-39" target="GFZzpSy_-tTbSRPp0wo4-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-39" value="从可读取的socket中读取数据" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="687" width="293" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-48" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-40" target="GFZzpSy_-tTbSRPp0wo4-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-40" value="使用http协议解析工具解析读取到的数据" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="267" y="762" width="293" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-41" target="GFZzpSy_-tTbSRPp0wo4-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-41" value="根据解析到的URL,Parma等数据,获取Controller的Method" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="267" y="834" width="293" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-42" target="GFZzpSy_-tTbSRPp0wo4-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-42" value="调用获取到的Controller方法,获取返回结果" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="904" width="293" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-43" target="GFZzpSy_-tTbSRPp0wo4-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-43" value="返回结果序列化成字节数组,并通过原socket发送" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="267" y="976" width="293" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-44" value="开始" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="379.5" y="1048" width="69" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
