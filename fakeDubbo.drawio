@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T02:32:57.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Xjr18tHhpm8glblk18g9" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T03:01:05.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="wIVMaXv0bmfjF1h2H7OR" version="14.8.1" type="github">
   <diagram id="ik2H3Wdc5D8A9ganTzva" name="第 1 页">
     <mxGraphModel dx="951" dy="529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -220,7 +220,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-96" value="Consumer端 Dubbo Proxy工作过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-96" value="Consumer端 Dubbo Proxy工作过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="914" width="353" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Fjd8QmpVkTL5xjd4R_bE-109" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Fjd8QmpVkTL5xjd4R_bE-99" target="Fjd8QmpVkTL5xjd4R_bE-100">
@@ -303,6 +303,66 @@
         </mxCell>
         <mxCell id="Fjd8QmpVkTL5xjd4R_bE-125" value="反序列化过程,要注意拆包问题&lt;br&gt;以及根据请求ID回调" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="571" y="1511" width="185" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-127" value="Dubbo Provider 工作过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="211.69" y="1715" width="328.88" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-137" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Fjd8QmpVkTL5xjd4R_bE-129" target="Fjd8QmpVkTL5xjd4R_bE-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-129" value="开始" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="333" y="1798" width="87" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-138" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Fjd8QmpVkTL5xjd4R_bE-130" target="Fjd8QmpVkTL5xjd4R_bE-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-130" value="调用Selector.select()获取可读取的socket" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="254.875" y="1876" width="243.25" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-139" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Fjd8QmpVkTL5xjd4R_bE-131" target="Fjd8QmpVkTL5xjd4R_bE-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-131" value="从可读取的socket中读取数据(byte[])" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="1944" width="228" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-140" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Fjd8QmpVkTL5xjd4R_bE-132" target="Fjd8QmpVkTL5xjd4R_bE-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-147" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Fjd8QmpVkTL5xjd4R_bE-132" target="Fjd8QmpVkTL5xjd4R_bE-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-132" value="从数据包中解析出Header和Body" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="255" y="2016" width="243" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-141" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Fjd8QmpVkTL5xjd4R_bE-133" target="Fjd8QmpVkTL5xjd4R_bE-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-145" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Fjd8QmpVkTL5xjd4R_bE-133" target="Fjd8QmpVkTL5xjd4R_bE-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-133" value="根据解析出的Service,Method,Param调用相应的Dubbo Service获得返回结果" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="255" y="2086" width="243" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-136" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Fjd8QmpVkTL5xjd4R_bE-134" target="Fjd8QmpVkTL5xjd4R_bE-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-143" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Fjd8QmpVkTL5xjd4R_bE-134" target="Fjd8QmpVkTL5xjd4R_bE-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-134" value="返回结果序列化成byte[],并选择空闲的socket发送" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="243" y="2156" width="267" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-135" value="此时可以选择接收到数据的socket发送,也可以选择其他与目标主机相连的socket发送,前者需要维护请求ID与socket的关联关系,后者需要维护Consumer 与 socket的关联关系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="571.5" y="2125" width="241.5" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-142" value="结束" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="333" y="2225" width="87" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-144" value="此处可以通过反射或者SpringBeanFactory等方案实现" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="582.75" y="2040" width="219" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Fjd8QmpVkTL5xjd4R_bE-146" value="需要注意数据包拆包问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="568" y="1987" width="156.5" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
