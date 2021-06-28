@@ -1,1 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T03:18:08.483Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.1" etag="CYxeF0m-B-Ki6KkP04oK" type="github"><diagram id="_3ZKDEy9R8XJDdYj2mkg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-28T03:42:16.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="rW7-3tMQb4U-uDuFyVp1" version="14.8.1" type="github">
+  <diagram id="_3ZKDEy9R8XJDdYj2mkg" name="第 1 页">
+    <mxGraphModel dx="951" dy="529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-1" value="fakeTomcat请求数据在内存空间的流转过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="290" y="42" width="247" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-2" value="Server端" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="206" y="103" width="550" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-3" target="GFZzpSy_-tTbSRPp0wo4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-7" value="socket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFZzpSy_-tTbSRPp0wo4-5">
+          <mxGeometry x="-0.0489" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-3" value="http 客户端&lt;br&gt;可以是:&lt;br&gt;浏览器,&lt;br&gt;POSTMAN,&lt;br&gt;HttpClinet..." style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="66" y="103" width="81" height="307" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-4" value="Kernel&lt;br&gt;epoll" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="222" y="128" width="42" height="257" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-8" value="Java进程(fakeTomcat)进程内存空间" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="284" y="128" width="437" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-9" value="buffer" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="311" y="168" width="64" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-11" value="buffer" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="311" y="205" width="64" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-12" value="buffer" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="311" y="244" width="64" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-13" target="GFZzpSy_-tTbSRPp0wo4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-13" value="buffer" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="311" y="283" width="64" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-14" target="GFZzpSy_-tTbSRPp0wo4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-14" value="buffer" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="311" y="322" width="64" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;curved=1;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-4" target="GFZzpSy_-tTbSRPp0wo4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-4" target="GFZzpSy_-tTbSRPp0wo4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-4" target="GFZzpSy_-tTbSRPp0wo4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-20" value="JVM堆" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="394" y="155" width="149" height="214" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-21" value="buffer" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="444" y="167" width="64" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-22" target="GFZzpSy_-tTbSRPp0wo4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-22" value="buffer" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="444" y="204" width="64" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-23" target="GFZzpSy_-tTbSRPp0wo4-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-23" value="buffer" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="444" y="243" width="64" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-24" value="buffer" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="444" y="282" width="64" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-25" value="buffer" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="444" y="321" width="64" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-29" value="JVM栈" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="570" y="155" width="112" height="214" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-30" value="Thread1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="576" y="179" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-31" value="Thread2" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="576" y="225" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-32" value="Thread3" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="576" y="271" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-33" value="..." style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="576" y="317.5" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-23" target="GFZzpSy_-tTbSRPp0wo4-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFZzpSy_-tTbSRPp0wo4-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFZzpSy_-tTbSRPp0wo4-22" target="GFZzpSy_-tTbSRPp0wo4-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
