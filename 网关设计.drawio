@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T02:12:39.548Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.5" etag="OFHAjlw1JGMhJxIngt-c" type="github"><diagram id="ErHu75ElswWQfkoib7nH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-12T02:32:23.098Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="pfPyrz4NHAZ3kf9I6239" version="14.8.5" type="github">
+  <diagram id="ErHu75ElswWQfkoib7nH" name="第 1 页">
+    <mxGraphModel dx="865" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J02Fz2CLK7PU1R1ziVzv-1" value="负载均衡(SLB-限定带宽)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="36" y="121" width="278" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="J02Fz2CLK7PU1R1ziVzv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="J02Fz2CLK7PU1R1ziVzv-2" target="J02Fz2CLK7PU1R1ziVzv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J02Fz2CLK7PU1R1ziVzv-2" value="PC/APP/H5" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="27" width="120" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="J02Fz2CLK7PU1R1ziVzv-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J02Fz2CLK7PU1R1ziVzv-7" target="J02Fz2CLK7PU1R1ziVzv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J02Fz2CLK7PU1R1ziVzv-7" value="第三方应用" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="508" y="27" width="120" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="J02Fz2CLK7PU1R1ziVzv-8" value="负载均衡(SLB-按量收费-不限带宽)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437" y="121" width="278" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="J02Fz2CLK7PU1R1ziVzv-11" value="C端网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="204" width="107" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="J02Fz2CLK7PU1R1ziVzv-12" value="B端网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="204" width="107" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="J02Fz2CLK7PU1R1ziVzv-13" value="回调网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437" y="204" width="107" height="37" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
