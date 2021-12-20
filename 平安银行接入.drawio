@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T03:34:19.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="n-uifR2c6ASlc-bsPux9" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T02:15:48.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jlJ2zzTrQvTEXugqWr0T" version="15.9.6" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2526" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -85,7 +85,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sRZQtEzKt_-hk_8WQD4q-12" value="供应商子账户" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="77e6c97f196da883-5" vertex="1">
+        <mxCell id="sRZQtEzKt_-hk_8WQD4q-12" value="供应商子账户" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#99FFFF;" parent="77e6c97f196da883-5" vertex="1">
           <mxGeometry x="180" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sRZQtEzKt_-hk_8WQD4q-13" value="尽微子账户" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="77e6c97f196da883-5" vertex="1">
