@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T08:48:05.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="fZ3Q7n6FvWLlCFxRvSVh" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T09:00:34.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="te0zaFCvuhVttKlXqK6j" version="16.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1056" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -169,7 +169,7 @@
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2LK_YFwhrAIKgzWSwJJ9-38" target="2LK_YFwhrAIKgzWSwJJ9-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-38" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-38" value="合作订单RPC调用" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="659" y="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-54" value="事务4:确认结算" style="swimlane;fillColor=#3399FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -181,13 +181,17 @@
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-50" value="根据分账明细&lt;br&gt;向平安银行发起分账" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-54">
           <mxGeometry x="180" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2LK_YFwhrAIKgzWSwJJ9-54" source="2LK_YFwhrAIKgzWSwJJ9-51" target="2LK_YFwhrAIKgzWSwJJ9-52">
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2LK_YFwhrAIKgzWSwJJ9-54" source="2LK_YFwhrAIKgzWSwJJ9-121" target="2LK_YFwhrAIKgzWSwJJ9-52">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="264" y="766" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="240" y="790" />
               <mxPoint x="160" y="790" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2LK_YFwhrAIKgzWSwJJ9-54" source="2LK_YFwhrAIKgzWSwJJ9-51" target="2LK_YFwhrAIKgzWSwJJ9-121">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-51" value="更新分账明细状态&lt;br&gt;申请成功" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-54">
           <mxGeometry x="180" y="570" width="120" height="60" as="geometry" />
@@ -238,11 +242,14 @@
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-66" value="根据结算明细通过易宝结算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-54">
           <mxGeometry x="30" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-121" value="客户本地见证宝子账户&lt;br&gt;可用冻结充值金额减少&lt;br&gt;分账中冻结充值金额增加" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-54">
+          <mxGeometry x="173" y="690" width="134" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-92" value="事务5:易宝转账or付款回调" style="swimlane;fillColor=#3399FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1136" y="180" width="200" height="1110" as="geometry" />
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-93" value="根据回调勾兑转账or付款状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-92">
-          <mxGeometry x="50" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-94" value="事务6:定时任务轮平安银行分账" style="swimlane;fillColor=#3399FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1376" y="180" width="200" height="1110" as="geometry" />
@@ -300,6 +307,18 @@
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-111" value="事务5:提现成功" style="swimlane;fillColor=#3399FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="882" y="180" width="227" height="1111" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2LK_YFwhrAIKgzWSwJJ9-117" target="2LK_YFwhrAIKgzWSwJJ9-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-117" value="提现成功的ROCKITMQ消息" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="961" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2LK_YFwhrAIKgzWSwJJ9-119" target="2LK_YFwhrAIKgzWSwJJ9-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-119" value="易宝支付的http回调消息" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1196" y="80" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
