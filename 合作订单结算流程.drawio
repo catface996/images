@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T06:19:05.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="M_TTlv4jIiI5KidA_6Oo" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T06:22:38.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="gyJIZYrBbSdcpFLT1Hjp" version="16.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1056" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,14 +55,36 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2LK_YFwhrAIKgzWSwJJ9-6" target="2LK_YFwhrAIKgzWSwJJ9-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="640" />
+              <mxPoint x="80" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-36" value="易宝支付" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2LK_YFwhrAIKgzWSwJJ9-35">
+          <mxGeometry x="-0.4563" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-6" value="结算通道判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="115" y="600" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2LK_YFwhrAIKgzWSwJJ9-7" target="2LK_YFwhrAIKgzWSwJJ9-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-7" value="锁定对应的支付单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2LK_YFwhrAIKgzWSwJJ9-8" target="2LK_YFwhrAIKgzWSwJJ9-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-8" value="是否已同步&lt;br&gt;平安银行" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2LK_YFwhrAIKgzWSwJJ9-9" target="2LK_YFwhrAIKgzWSwJJ9-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-9" value="获取冻结充值明细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
@@ -88,7 +110,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-15" value="是否存在&lt;br&gt;充值明细" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-15" value="是否存在&lt;br&gt;冻结充值明细" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-23" value="事务1:创建结算明细&amp;冻结充值明细" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -99,6 +121,21 @@
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-26" value="事务2:冻结充值到平安银行(异步)" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="180" width="200" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2LK_YFwhrAIKgzWSwJJ9-26" source="2LK_YFwhrAIKgzWSwJJ9-29" target="2LK_YFwhrAIKgzWSwJJ9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-29" value="冻结充值到平安银行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-26">
+          <mxGeometry x="30" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-30" value="更新冻结充值明细状态&lt;br&gt;申请成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-26">
+          <mxGeometry x="20" y="540" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-33" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="1100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2LK_YFwhrAIKgzWSwJJ9-30" target="2LK_YFwhrAIKgzWSwJJ9-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
