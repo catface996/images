@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T09:18:04.618Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="TA9-tpjZEZ6VEhZcJWSw" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T09:18:29.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uAQ87EjyJLmRmjmt6hde" version="16.0.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="客户本地的见证宝子账户(ejzb_account)" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="客户本地的见证宝子账户(ejzb_account)" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="729" height="260" as="geometry" />
         </mxCell>
         <mxCell id="30QaPLMsitgzKYDffqBi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="30QaPLMsitgzKYDffqBi-1" target="30QaPLMsitgzKYDffqBi-3">
@@ -31,7 +31,7 @@
         <mxCell id="30QaPLMsitgzKYDffqBi-5" value="分账中金额" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="309" y="160" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="30QaPLMsitgzKYDffqBi-15" value="客户本地的资金账户(capital_accont)" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
+        <mxCell id="30QaPLMsitgzKYDffqBi-15" value="客户本地的资金账户(capital_accont)" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="40" y="370" width="729" height="260" as="geometry" />
         </mxCell>
         <mxCell id="30QaPLMsitgzKYDffqBi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="30QaPLMsitgzKYDffqBi-15" source="30QaPLMsitgzKYDffqBi-19" target="30QaPLMsitgzKYDffqBi-21">
