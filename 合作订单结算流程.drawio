@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T08:26:43.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UNGpMpey9bynp1xwguUm" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T08:40:21.042Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="kAZ1lT7xdX8Cu0erLME5" version="16.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1056" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -149,21 +149,21 @@
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-29" value="冻结充值到平安银行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-26">
           <mxGeometry x="30" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2LK_YFwhrAIKgzWSwJJ9-26" source="2LK_YFwhrAIKgzWSwJJ9-30" target="2LK_YFwhrAIKgzWSwJJ9-98">
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2LK_YFwhrAIKgzWSwJJ9-26" source="2LK_YFwhrAIKgzWSwJJ9-30" target="2LK_YFwhrAIKgzWSwJJ9-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-30" value="更新冻结充值明细状态&lt;br&gt;申请成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-26">
           <mxGeometry x="20" y="540" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-98" value="见证宝子账户&lt;br&gt;冻结充值金额增加" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-26">
-          <mxGeometry x="30" y="655" width="120" height="60" as="geometry" />
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-103" value="客户本地的见证宝子账户&lt;br&gt;申请冻结金额增加" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-26">
+          <mxGeometry x="19" y="652" width="142" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-33" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="1390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2LK_YFwhrAIKgzWSwJJ9-98" target="2LK_YFwhrAIKgzWSwJJ9-33">
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2LK_YFwhrAIKgzWSwJJ9-103" target="2LK_YFwhrAIKgzWSwJJ9-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="377" y="1011" as="sourcePoint" />
+            <mxPoint x="390" y="941" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2LK_YFwhrAIKgzWSwJJ9-38" target="2LK_YFwhrAIKgzWSwJJ9-47">
@@ -245,10 +245,19 @@
           <mxGeometry x="50" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-94" value="事务6:定时任务轮平安银行分账" style="swimlane;fillColor=#3399FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1120" y="180" width="200" height="1110" as="geometry" />
+          <mxGeometry x="1120" y="179" width="200" height="1110" as="geometry" />
         </mxCell>
-        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-95" value="根据轮询结果勾兑分账结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-94">
-          <mxGeometry x="50" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-95" value="锁定客户在尽微的资金账户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-94">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-100" value="锁定客户在尽微的见证宝子账户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-94">
+          <mxGeometry x="40" y="381" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-101" value="查询支付单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-94">
+          <mxGeometry x="40" y="52" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-102" value="是否结算成功" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-94">
+          <mxGeometry x="60" y="148" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-96" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="1390" width="80" height="80" as="geometry" />
