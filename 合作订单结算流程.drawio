@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T10:09:01.602Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="LJYWqfZtrndtaAynEcCG" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T10:09:18.572Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0e38dPvnRnvvwlHpFpSh" version="16.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1056" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -263,6 +263,9 @@
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-95" value="锁定客户在尽微的资金账户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-94">
           <mxGeometry x="40" y="565" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2LK_YFwhrAIKgzWSwJJ9-94" source="2LK_YFwhrAIKgzWSwJJ9-100" target="2LK_YFwhrAIKgzWSwJJ9-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-100" value="锁定客户在尽微的见证宝子账户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-94">
           <mxGeometry x="40" y="690" width="120" height="60" as="geometry" />
         </mxCell>
@@ -290,6 +293,9 @@
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-134" value="分账是否成功" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-94">
           <mxGeometry x="60" y="430" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2LK_YFwhrAIKgzWSwJJ9-94" source="2LK_YFwhrAIKgzWSwJJ9-137" target="2LK_YFwhrAIKgzWSwJJ9-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-137" value="更新分账明细状态&lt;br&gt;分账成功" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-94">
           <mxGeometry x="40" y="803" width="120" height="60" as="geometry" />
         </mxCell>
@@ -298,6 +304,11 @@
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-139" value="客户本地资金账户&lt;br&gt;可提现金额增加&lt;br&gt;可用金额中冻结充值金额减少" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-94">
           <mxGeometry x="19.25" y="1006" width="161.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2LK_YFwhrAIKgzWSwJJ9-94" source="2LK_YFwhrAIKgzWSwJJ9-138" target="2LK_YFwhrAIKgzWSwJJ9-139">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99.99999999999955" y="995.7037037037037" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-96" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="1390" width="80" height="80" as="geometry" />
