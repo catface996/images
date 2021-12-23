@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T06:49:21.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="OdRpNZtHc4JI_2Ce9fWG" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T06:58:51.100Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="xoykTfygSPxqH3aRcv62" version="16.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1056" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -235,8 +235,8 @@
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2LK_YFwhrAIKgzWSwJJ9-54" source="2LK_YFwhrAIKgzWSwJJ9-47" target="2LK_YFwhrAIKgzWSwJJ9-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-47" value="锁定对应的支付单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-54">
-          <mxGeometry x="109" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-47" value="锁定对应的支付单&lt;br&gt;条件:已充值到到账,已收到确认结算指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2LK_YFwhrAIKgzWSwJJ9-54">
+          <mxGeometry x="53" y="51" width="234" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2LK_YFwhrAIKgzWSwJJ9-54" source="2LK_YFwhrAIKgzWSwJJ9-48" target="2LK_YFwhrAIKgzWSwJJ9-59">
           <mxGeometry relative="1" as="geometry" />
