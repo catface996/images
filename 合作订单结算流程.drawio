@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T06:35:51.198Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1JYZvYiPsVeMLtvs77qZ" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T06:38:43.783Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="RnrPYDxb05UxWT-y5d_o" version="16.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1056" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -381,11 +381,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="889" y="1429" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="961" y="393" />
               <mxPoint x="873" y="393" />
-              <mxPoint x="873" y="903" />
-              <mxPoint x="941" y="903" />
-              <mxPoint x="941" y="1421" />
+              <mxPoint x="873" y="1430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -410,6 +407,9 @@
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-109" value="客户本地的见证宝子账户&lt;br&gt;申请冻结充值金额减少&lt;br&gt;可用冻结充值金额增加" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="927" y="752" width="148" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2LK_YFwhrAIKgzWSwJJ9-110" target="2LK_YFwhrAIKgzWSwJJ9-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-110" value="更新支付单状态&lt;br&gt;提现到平安银行成功" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="941" y="868" width="120" height="60" as="geometry" />
         </mxCell>
@@ -430,9 +430,7 @@
             <mxPoint x="862.5185185185185" y="1616.4444444444443" as="targetPoint" />
             <Array as="points">
               <mxPoint x="865" y="390" />
-              <mxPoint x="865" y="910" />
-              <mxPoint x="750" y="910" />
-              <mxPoint x="750" y="1430" />
+              <mxPoint x="865" y="1430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -442,7 +440,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2LK_YFwhrAIKgzWSwJJ9-152" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="961" y="1381" width="80" height="80" as="geometry" />
+          <mxGeometry x="961" y="1390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2LK_YFwhrAIKgzWSwJJ9-102" target="2LK_YFwhrAIKgzWSwJJ9-156">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1355.8518518518517" y="1560.148148148148" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1357" y="391" />
+              <mxPoint x="1357" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-158" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2LK_YFwhrAIKgzWSwJJ9-155">
+          <mxGeometry x="-0.944" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-156" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1436" y="1390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2LK_YFwhrAIKgzWSwJJ9-134" target="2LK_YFwhrAIKgzWSwJJ9-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1357" y="650" />
+              <mxPoint x="1357" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LK_YFwhrAIKgzWSwJJ9-160" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2LK_YFwhrAIKgzWSwJJ9-159">
+          <mxGeometry x="-0.9318" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
