@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T08:01:09.043Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="xByoB2iz0vuhsl1Kl828" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T08:02:41.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="5XS4vG1cl_iRKdyqTwFY" version="16.0.0" type="github">
   <diagram id="gsf49He13MfOLdli_iRr" name="第 1 页">
     <mxGraphModel dx="1584" dy="882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -66,7 +66,7 @@
         <mxCell id="og5dSPM_AXGmNLmmMvEW-20" value="客户在尽微的资金账户体系" style="swimlane;fillColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="133" y="323" width="579" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="og5dSPM_AXGmNLmmMvEW-21" value="客户在平安银行的见证宝账户体系" style="swimlane;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="og5dSPM_AXGmNLmmMvEW-21" value="客户在平安银行的见证宝账户体系(尽微保存镜像)" style="swimlane;fillColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="133" y="623" width="579" height="310" as="geometry" />
         </mxCell>
       </root>
