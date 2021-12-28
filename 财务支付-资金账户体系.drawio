@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T06:55:36.836Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="lWzR6rmnanPl-WPr0Bj_" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T06:57:18.602Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="yhF6J0zIzh8EvxUFekHI" version="16.0.0" type="github">
   <diagram id="gsf49He13MfOLdli_iRr" name="第 1 页">
     <mxGraphModel dx="1426" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -70,7 +70,10 @@
           <mxGeometry x="429" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="og5dSPM_AXGmNLmmMvEW-21" value="客户在平安银行的见证宝账户体系(尽微保存镜像)" style="swimlane;fillColor=#FF9933;" parent="1" vertex="1">
-          <mxGeometry x="101" y="901" width="579" height="310" as="geometry" />
+          <mxGeometry x="101" y="901" width="579" height="493" as="geometry" />
+        </mxCell>
+        <mxCell id="k9vBDChI0TnORqGJ9K9F-13" value="见证宝汇总专户资金流水&lt;br&gt;来源于平安T+1对账文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="og5dSPM_AXGmNLmmMvEW-21">
+          <mxGeometry x="212" y="358" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k9vBDChI0TnORqGJ9K9F-4" value="供应商资金-&gt;易宝支付" style="swimlane;fillColor=#66FFB3;" vertex="1" parent="1">
           <mxGeometry x="104" y="256" width="573" height="301" as="geometry" />
