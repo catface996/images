@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T06:53:11.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="klQfoZRFxp9wDtV2_Hpi" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T06:55:36.836Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="lWzR6rmnanPl-WPr0Bj_" version="16.0.0" type="github">
   <diagram id="gsf49He13MfOLdli_iRr" name="第 1 页">
     <mxGraphModel dx="1426" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -66,6 +66,9 @@
         <mxCell id="og5dSPM_AXGmNLmmMvEW-20" value="客户在尽微的资金账户体系" style="swimlane;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="101" y="601" width="579" height="270" as="geometry" />
         </mxCell>
+        <mxCell id="k9vBDChI0TnORqGJ9K9F-10" value="冻结明细" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="og5dSPM_AXGmNLmmMvEW-20">
+          <mxGeometry x="429" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="og5dSPM_AXGmNLmmMvEW-21" value="客户在平安银行的见证宝账户体系(尽微保存镜像)" style="swimlane;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="101" y="901" width="579" height="310" as="geometry" />
         </mxCell>
@@ -103,6 +106,12 @@
           <mxGeometry x="393" y="57" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k9vBDChI0TnORqGJ9K9F-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k9vBDChI0TnORqGJ9K9F-1" target="og5dSPM_AXGmNLmmMvEW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k9vBDChI0TnORqGJ9K9F-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="k9vBDChI0TnORqGJ9K9F-10" target="og5dSPM_AXGmNLmmMvEW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k9vBDChI0TnORqGJ9K9F-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="k9vBDChI0TnORqGJ9K9F-10" target="og5dSPM_AXGmNLmmMvEW-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
