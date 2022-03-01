@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T09:35:20.534Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="r_HObrE2kN03R6GOYjGy" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T09:38:09.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="anLA4DAWSYp-MWkqrRnO" version="16.5.6" type="github">
   <diagram id="1AcJaDzlzkorBh6IL32U" name="第 1 页">
     <mxGraphModel dx="1747" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zcJ7lCNdR5RqkjKMGWOm-2" value="K8S集群 with Istio" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="70" width="910" height="750" as="geometry" />
+          <mxGeometry x="-40" y="70" width="910" height="660" as="geometry" />
         </mxCell>
         <mxCell id="zcJ7lCNdR5RqkjKMGWOm-3" value="K8S Service&lt;br&gt;befriend-service-gateway&lt;br&gt;prod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="200" width="150" height="60" as="geometry" />
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zcJ7lCNdR5RqkjKMGWOm-11" value="前端prod页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-140" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="-180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zcJ7lCNdR5RqkjKMGWOm-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcJ7lCNdR5RqkjKMGWOm-12" target="zcJ7lCNdR5RqkjKMGWOm-10">
           <mxGeometry relative="1" as="geometry" />
@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zcJ7lCNdR5RqkjKMGWOm-12" value="前端gray页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-140" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="-180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zcJ7lCNdR5RqkjKMGWOm-20" value="Istio Virtaul Service&lt;br&gt;befriend-service-supplier&lt;br&gt;route:&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;env=prod or null -&amp;gt; subset-prod&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;env=gray -&amp;gt; subset-gray" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="480" height="320" as="geometry" />
