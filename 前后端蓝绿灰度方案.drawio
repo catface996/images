@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T05:49:25.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="qLlUSHS7MSuhNnRS3T_J" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T05:56:04.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="gMfqtID6df7D6q0nb5g4" version="16.5.6" type="github">
   <diagram id="8Ih0H9pnuDWhTiyK6l3T" name="第 1 页">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,37 @@
         </mxCell>
         <mxCell id="vIw7g_YfVH8PTfyZ8fNS-6" value="商家端-前端-gray" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vIw7g_YfVH8PTfyZ8fNS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vIw7g_YfVH8PTfyZ8fNS-7" target="vIw7g_YfVH8PTfyZ8fNS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vIw7g_YfVH8PTfyZ8fNS-9" value="1.通过域名加载单点登录页面" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vIw7g_YfVH8PTfyZ8fNS-8">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIw7g_YfVH8PTfyZ8fNS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="vIw7g_YfVH8PTfyZ8fNS-7" target="vIw7g_YfVH8PTfyZ8fNS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="-40" />
+              <mxPoint x="530" y="-40" />
+              <mxPoint x="530" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIw7g_YfVH8PTfyZ8fNS-11" value="2.用户名+密码登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vIw7g_YfVH8PTfyZ8fNS-10">
+          <mxGeometry x="0.0909" y="4" relative="1" as="geometry">
+            <mxPoint y="-96" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIw7g_YfVH8PTfyZ8fNS-7" value="商家浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vIw7g_YfVH8PTfyZ8fNS-12" value="befriend-service-gateway(istio virtual service)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="530" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="vIw7g_YfVH8PTfyZ8fNS-13" value="befriend-service-gateway(k8s service)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="264" y="450" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
