@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T05:41:47.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="0U8O7QzcNDlxJAp5W3V4" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T05:49:25.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="qLlUSHS7MSuhNnRS3T_J" version="16.5.6" type="github">
   <diagram id="8Ih0H9pnuDWhTiyK6l3T" name="第 1 页">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,18 @@
         </mxCell>
         <mxCell id="vIw7g_YfVH8PTfyZ8fNS-2" value="Istio gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vIw7g_YfVH8PTfyZ8fNS-3" value="nginx" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="760" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="vIw7g_YfVH8PTfyZ8fNS-4" value="单点登录页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vIw7g_YfVH8PTfyZ8fNS-5" value="商家端-前端-prod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vIw7g_YfVH8PTfyZ8fNS-6" value="商家端-前端-gray" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
