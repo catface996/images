@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T09:19:45.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" version="17.2.3" etag="Qlb1w8EH-Z3uLETnEY3P" type="github"><diagram id="NkTXDc8hUBUXjb-TBbOY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-16T09:34:51.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="y1HAqMo9EXNeSRH2EdJJ" version="17.2.3" type="github">
+  <diagram id="NkTXDc8hUBUXjb-TBbOY" name="第 1 页">
+    <mxGraphModel dx="1426" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-6" value="私有网络" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="760" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VPTVzxUfHxMfCs_0RZJk-1" target="VPTVzxUfHxMfCs_0RZJk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-7" value="https://activity.demo.com/join.html&lt;br&gt;header token=12345678" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VPTVzxUfHxMfCs_0RZJk-4">
+          <mxGeometry x="-0.1" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-1" value="用户浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VPTVzxUfHxMfCs_0RZJk-2" target="VPTVzxUfHxMfCs_0RZJk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-2" value="集群入口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPTVzxUfHxMfCs_0RZJk-3" target="VPTVzxUfHxMfCs_0RZJk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-3" value="公网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="VPTVzxUfHxMfCs_0RZJk-8" target="VPTVzxUfHxMfCs_0RZJk-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-13" value="获取用户id及AB分组" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VPTVzxUfHxMfCs_0RZJk-12">
+          <mxGeometry x="-0.2698" y="2" relative="1" as="geometry">
+            <mxPoint x="-102" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-8" value="业务网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-9" value="用户中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-14" value="活动中心" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="540" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-15" value="A Group" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="184" y="460" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-16" value="B Group" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="434" y="460" width="240" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
