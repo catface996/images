@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T11:09:57.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="9txoGw5PNafz-fv7JOTq" version="17.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T11:11:18.716Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="6QfN122igol-wER6ksif" version="17.2.3" type="github">
   <diagram id="NkTXDc8hUBUXjb-TBbOY" name="第 1 页">
     <mxGraphModel dx="1426" dy="3132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -219,6 +219,9 @@
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-67" value="前端适配AB&lt;br&gt;即前端能感知AB分组并执行不同的渲染逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="7" y="-2200" width="266" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VPTVzxUfHxMfCs_0RZJk-68" value="服务端适配AB&lt;br&gt;即服务端都能感知AB并执行不同的逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="34" y="-1074" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
