@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T03:14:35.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="mG9x2mmxqIgrrtxR97na" version="17.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T11:09:32.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="ZNIAJqUY4UwEfWbpvFO4" version="17.2.3" type="github">
   <diagram id="NkTXDc8hUBUXjb-TBbOY" name="第 1 页">
-    <mxGraphModel dx="1426" dy="3132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="3132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,28 +165,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-48" value="用户浏览器" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-2280" width="380" height="130" as="geometry" />
+          <mxGeometry x="217" y="-2150" width="380" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="34" y="-1960" width="760" height="500" as="geometry" />
+          <mxGeometry x="31" y="-1830" width="760" height="500" as="geometry" />
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VPTVzxUfHxMfCs_0RZJk-50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="424" y="-2014" as="sourcePoint" />
-            <mxPoint x="418" y="-1990" as="targetPoint" />
+            <mxPoint x="421" y="-1884" as="sourcePoint" />
+            <mxPoint x="415" y="-1860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-50" value="公网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="-2094" width="120" height="80" as="geometry" />
+          <mxGeometry x="351" y="-1964" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="VPTVzxUfHxMfCs_0RZJk-51" target="VPTVzxUfHxMfCs_0RZJk-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-51" value="集群入口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="-1990" width="120" height="60" as="geometry" />
+          <mxGeometry x="351" y="-1860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-52" value="最后一步&lt;br&gt;对返回的页面和AB分组数据&lt;br&gt;做AB的不同渲染展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="-2230" width="173" height="60" as="geometry" />
+          <mxGeometry x="324.5" y="-2100" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="VPTVzxUfHxMfCs_0RZJk-56" target="VPTVzxUfHxMfCs_0RZJk-57">
           <mxGeometry relative="1" as="geometry" />
@@ -200,25 +200,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-56" value="业务网关&lt;br&gt;设置response header group=A 或者 B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="-1880" width="120" height="60" as="geometry" />
+          <mxGeometry x="351" y="-1750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-57" value="用户中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-1570" width="120" height="60" as="geometry" />
+          <mxGeometry x="627" y="-1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="173.5" y="-1783" width="481" height="193" as="geometry" />
+          <mxGeometry x="170.5" y="-1653" width="481" height="193" as="geometry" />
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-64" value="activity-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="204" y="-1710" width="120" height="60" as="geometry" />
+          <mxGeometry x="201" y="-1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-65" value="activity-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357" y="-1710" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="-1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-66" value="activity-3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-1710" width="120" height="60" as="geometry" />
+          <mxGeometry x="507" y="-1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VPTVzxUfHxMfCs_0RZJk-67" value="前端适配AB&lt;br&gt;即前端能感知AB分组并执行不同的渲染逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-2330" width="266" height="20" as="geometry" />
+          <mxGeometry x="7" y="-2200" width="266" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
