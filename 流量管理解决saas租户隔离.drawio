@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T14:39:25.295Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="y48bfXOOncKJqfBuIYhi" version="17.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T14:42:39.520Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="5I_9yHdRMR5IpxkgE0q3" version="17.2.3" type="github">
   <diagram id="xMcO6NegRns5GpdnaejM" name="第 1 页">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,42 @@
         </mxCell>
         <mxCell id="xiwiBXfIHb9HTJqX0gxW-4" value="租户..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="594" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xiwiBXfIHb9HTJqX0gxW-5" value="公网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xiwiBXfIHb9HTJqX0gxW-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="750" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="xiwiBXfIHb9HTJqX0gxW-7" value="集权入口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xiwiBXfIHb9HTJqX0gxW-8" value="app-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="103" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xiwiBXfIHb9HTJqX0gxW-9" value="app-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xiwiBXfIHb9HTJqX0gxW-10" value="app-3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="417" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xiwiBXfIHb9HTJqX0gxW-11" value="app-..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xiwiBXfIHb9HTJqX0gxW-13" value="数据库-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="133" y="690" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xiwiBXfIHb9HTJqX0gxW-14" value="数据库-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="287" y="690" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xiwiBXfIHb9HTJqX0gxW-15" value="数据库-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="447" y="690" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xiwiBXfIHb9HTJqX0gxW-16" value="数据库-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="607" y="690" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xiwiBXfIHb9HTJqX0gxW-17" value="分库分表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="103" y="590" width="597" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
