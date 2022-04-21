@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T11:44:44.030Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="G9ZCPwQcjxgn0nTzD_IU" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T11:47:38.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="4diiLrR1IRSM9FIolYfJ" version="17.4.5" type="github">
   <diagram id="97o8ci6Izp3b5Vjm318T" name="第 1 页">
     <mxGraphModel dx="1426" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
           <mxGeometry x="350" y="1360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qOLz5GaLY7_XuVJ9eIoi-86" value="VPC网络" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1500" width="760" height="700" as="geometry" />
+          <mxGeometry x="50" y="1500" width="760" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="qOLz5GaLY7_XuVJ9eIoi-87" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOLz5GaLY7_XuVJ9eIoi-89" target="qOLz5GaLY7_XuVJ9eIoi-96">
           <mxGeometry relative="1" as="geometry" />
@@ -312,17 +312,36 @@
         <mxCell id="qOLz5GaLY7_XuVJ9eIoi-108" value="金丝雀流量策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="195" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-143" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOLz5GaLY7_XuVJ9eIoi-111" target="qOLz5GaLY7_XuVJ9eIoi-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qOLz5GaLY7_XuVJ9eIoi-111" value="app-1-prod" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="505" y="1820" width="190" height="130" as="geometry" />
         </mxCell>
         <mxCell id="qOLz5GaLY7_XuVJ9eIoi-112" value="金丝雀流量策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="540" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-115" value="app-2-gray" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2030" width="190" height="130" as="geometry" />
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-148" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOLz5GaLY7_XuVJ9eIoi-115" target="qOLz5GaLY7_XuVJ9eIoi-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-150" value="60%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOLz5GaLY7_XuVJ9eIoi-148">
+          <mxGeometry x="0.1052" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-149" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOLz5GaLY7_XuVJ9eIoi-115" target="qOLz5GaLY7_XuVJ9eIoi-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-151" value="40%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOLz5GaLY7_XuVJ9eIoi-149">
+          <mxGeometry x="-0.1175" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-115" value="app-2-prod(default)" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="325" y="2030" width="190" height="130" as="geometry" />
         </mxCell>
         <mxCell id="qOLz5GaLY7_XuVJ9eIoi-116" value="金丝雀流量策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="195" y="2080" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="2080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qOLz5GaLY7_XuVJ9eIoi-132" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOLz5GaLY7_XuVJ9eIoi-122" target="qOLz5GaLY7_XuVJ9eIoi-123">
           <mxGeometry relative="1" as="geometry" />
@@ -365,6 +384,36 @@
         </mxCell>
         <mxCell id="qOLz5GaLY7_XuVJ9eIoi-142" value="app-n-prod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="555" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-157" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOLz5GaLY7_XuVJ9eIoi-144" target="qOLz5GaLY7_XuVJ9eIoi-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-144" value="app-3-gray" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="2230" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-145" value="金丝雀流量策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-158" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOLz5GaLY7_XuVJ9eIoi-146" target="qOLz5GaLY7_XuVJ9eIoi-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-146" value="app-3-prod" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="2230" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-147" value="金丝雀流量策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-153" value="app-4-gray" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="153" y="2420" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-154" value="金丝雀流量策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="185" y="2470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-155" value="app-4-prod" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="498" y="2420" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-156" value="金丝雀流量策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="530" y="2470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
