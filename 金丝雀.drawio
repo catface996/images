@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T11:25:32.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Jfh7Zo_kETWhQBSB4TMa" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T11:27:36.295Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="exEwUpakJsd54Jevg2Se" version="17.4.5" type="github">
   <diagram id="97o8ci6Izp3b5Vjm318T" name="第 1 页">
     <mxGraphModel dx="1426" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -206,7 +206,7 @@
         <mxCell id="qOLz5GaLY7_XuVJ9eIoi-70" value="app-2-prod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-73" value="一般是7层流量分发,且业务无关,不支特定用户的定向流量分发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qOLz5GaLY7_XuVJ9eIoi-73" value="4层或7层流量分发,且业务无关,不支特定用户的定向流量分发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="-750" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
