@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T13:56:03.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SFLjH7Lkub6Zl_k9IcM1" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T15:16:38.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Wu0CaWjfQmRRbVDNd_Bf" version="17.5.0" type="github">
   <diagram id="jQuxA6pWeV1bHnd_H6JM" name="第 1 页">
     <mxGraphModel dx="1019" dy="567" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -94,11 +94,13 @@
         <mxCell id="zyIKe3mE6G8FlH2QzeZu-30" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
           <mxGeometry x="826" y="360" width="48" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="zyIKe3mE6G8FlH2QzeZu-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;startArrow=none;startFill=0;" edge="1" parent="1" source="zyIKe3mE6G8FlH2QzeZu-34" target="zyIKe3mE6G8FlH2QzeZu-39">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zyIKe3mE6G8FlH2QzeZu-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;startArrow=none;startFill=0;exitX=0.489;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zyIKe3mE6G8FlH2QzeZu-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="234" y="658" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="zyIKe3mE6G8FlH2QzeZu-34" value="客户端" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Domains.svg;" vertex="1" parent="1">
-          <mxGeometry x="203.5" y="540" width="65" height="52" as="geometry" />
+        <mxCell id="zyIKe3mE6G8FlH2QzeZu-34" value="客户端-1" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Domains.svg;" vertex="1" parent="1">
+          <mxGeometry x="96" y="546" width="65" height="52" as="geometry" />
         </mxCell>
         <mxCell id="zyIKe3mE6G8FlH2QzeZu-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=-0.043;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;startArrow=none;startFill=0;" edge="1" parent="1" source="zyIKe3mE6G8FlH2QzeZu-35" target="zyIKe3mE6G8FlH2QzeZu-44">
           <mxGeometry relative="1" as="geometry" />
@@ -132,6 +134,18 @@
         </mxCell>
         <mxCell id="zyIKe3mE6G8FlH2QzeZu-44" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
           <mxGeometry x="209.5" y="926" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="zyIKe3mE6G8FlH2QzeZu-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=none;startFill=0;" edge="1" parent="1" source="zyIKe3mE6G8FlH2QzeZu-50" target="zyIKe3mE6G8FlH2QzeZu-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyIKe3mE6G8FlH2QzeZu-50" value="客户端-2" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Domains.svg;" vertex="1" parent="1">
+          <mxGeometry x="203.5" y="546" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="zyIKe3mE6G8FlH2QzeZu-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;startArrow=none;startFill=0;" edge="1" parent="1" source="zyIKe3mE6G8FlH2QzeZu-51" target="zyIKe3mE6G8FlH2QzeZu-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyIKe3mE6G8FlH2QzeZu-51" value="客户端-..." style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Domains.svg;" vertex="1" parent="1">
+          <mxGeometry x="311" y="546" width="65" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
