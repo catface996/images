@@ -1,27 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T05:34:00.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="6VVHhVUjl0Drejq8OzAk" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T05:34:52.615Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Al95tSCaVSTbDmJ_zk8n" version="17.5.0" type="github">
   <diagram id="Mbw-RBWYWKXDhVc4j8uw" name="第 1 页">
-    <mxGraphModel dx="1240" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-22" value="后端服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="20" y="320" width="790" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-2" value="Provider X&lt;br&gt;服务提供方（被低啊用方）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-2" value="Provider X&lt;br&gt;服务提供方（被低啊用方）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="480" y="360" width="310" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Ly39tRD4MLQu7KWA-Jah-1" target="Ly39tRD4MLQu7KWA-Jah-11">
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="Ly39tRD4MLQu7KWA-Jah-1" target="Ly39tRD4MLQu7KWA-Jah-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-1" value="Consumer A&lt;br&gt;服务调用方 A" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="360" width="270" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="Ly39tRD4MLQu7KWA-Jah-6">
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" target="Ly39tRD4MLQu7KWA-Jah-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="485" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Ly39tRD4MLQu7KWA-Jah-1" target="Ly39tRD4MLQu7KWA-Jah-2">
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="Ly39tRD4MLQu7KWA-Jah-1" target="Ly39tRD4MLQu7KWA-Jah-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-3" value="超时策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -30,7 +30,7 @@
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-4" value="熔断策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Ly39tRD4MLQu7KWA-Jah-5" target="Ly39tRD4MLQu7KWA-Jah-2">
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="Ly39tRD4MLQu7KWA-Jah-5" target="Ly39tRD4MLQu7KWA-Jah-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="450" />
@@ -44,7 +44,7 @@
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-6" value="限流策略 B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Ly39tRD4MLQu7KWA-Jah-8" target="Ly39tRD4MLQu7KWA-Jah-2">
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="Ly39tRD4MLQu7KWA-Jah-8" target="Ly39tRD4MLQu7KWA-Jah-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="490" as="targetPoint" />
             <Array as="points">
@@ -54,7 +54,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Ly39tRD4MLQu7KWA-Jah-8" target="Ly39tRD4MLQu7KWA-Jah-11">
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="Ly39tRD4MLQu7KWA-Jah-8" target="Ly39tRD4MLQu7KWA-Jah-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-8" value="Consumer B&lt;br&gt;服务调用方 B" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -66,7 +66,7 @@
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-10" value="熔断策略 X" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-11" value="Provider Y&lt;br&gt;服务提供方（被低啊用方）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-11" value="Provider Y&lt;br&gt;服务提供方（被低啊用方）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="640" width="310" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-13" value="限流策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
