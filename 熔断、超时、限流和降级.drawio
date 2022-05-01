@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T05:36:51.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_Xr6PwYzyNx2xm4eFofb" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T05:42:54.047Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Ht81vYtU-70ZzhICOryy" version="17.5.0" type="github">
   <diagram id="Mbw-RBWYWKXDhVc4j8uw" name="第 1 页">
     <mxGraphModel dx="1240" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -28,7 +28,7 @@
           <mxGeometry x="182" y="514" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-4" value="熔断策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="182" y="614" width="120" height="60" as="geometry" />
+          <mxGeometry x="182" y="604" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="Ly39tRD4MLQu7KWA-Jah-5" target="Ly39tRD4MLQu7KWA-Jah-2">
           <mxGeometry relative="1" as="geometry">
@@ -38,10 +38,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-5" value="限流策略 A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-5" value="限流策略 A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="522" y="514" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-6" value="限流策略 B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-6" value="限流策略 B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="522" y="604" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="Ly39tRD4MLQu7KWA-Jah-8" target="Ly39tRD4MLQu7KWA-Jah-2">
@@ -60,11 +60,11 @@
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-8" value="Consumer B&lt;br&gt;服务调用方 B" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="42" y="734" width="270" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-9" value="超时策略 X" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="182" y="784" width="120" height="60" as="geometry" />
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-9" value="超时策略 X" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="227" y="784" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-10" value="熔断策略 X" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="52" y="784" width="120" height="60" as="geometry" />
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-10" value="熔断策略 X" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="148" y="784" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-11" value="Provider Y&lt;br&gt;服务提供方（被低啊用方）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="482" y="734" width="310" height="250" as="geometry" />
@@ -72,11 +72,11 @@
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-13" value="限流策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="512" y="829" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-14" value="超时策略 Y" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="182" y="874" width="120" height="60" as="geometry" />
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-14" value="超时策略 Y" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="227" y="874" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-15" value="熔断策略 Y" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="52" y="874" width="120" height="60" as="geometry" />
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-15" value="熔断策略 Y" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="148" y="874" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="Ly39tRD4MLQu7KWA-Jah-23" target="Ly39tRD4MLQu7KWA-Jah-22">
           <mxGeometry relative="1" as="geometry" />
@@ -110,6 +110,12 @@
         </mxCell>
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-34" value="后端异常友好提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="376" y="277" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-35" value="RPC&lt;br&gt;异常处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="76" y="784.5" width="65" height="150.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-36" value="RPC&lt;br&gt;异常处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="96" y="514" width="65" height="150.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
