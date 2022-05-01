@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T03:18:35.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.5.0" etag="ogdDYKEqHizRIc6RT5CF" type="github"><diagram id="Mbw-RBWYWKXDhVc4j8uw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-01T03:21:16.614Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_zMbilqpLTkwr78YGF7e" version="17.5.0" type="github">
+  <diagram id="Mbw-RBWYWKXDhVc4j8uw" name="第 1 页">
+    <mxGraphModel dx="1240" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-1" value="Consumer&lt;br&gt;服务调用方" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="270" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-2" value="Provider&lt;br&gt;服务提供方（被低啊用方）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="280" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-3" value="超时策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-4" value="熔断策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-5" value="限流策略 A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-6" value="限流策略 B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
