@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T03:24:08.590Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="7KMassXQNuU2LJ3bN0YK" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T03:24:32.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="R99fKngjVAocD-1MdkbI" version="17.5.0" type="github">
   <diagram id="Mbw-RBWYWKXDhVc4j8uw" name="第 1 页">
     <mxGraphModel dx="1240" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,11 +34,8 @@
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-11" value="Provider Y&lt;br&gt;服务提供方（被低啊用方）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="480" y="640" width="310" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-12" value="限流策略 A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="700" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ly39tRD4MLQu7KWA-Jah-13" value="限流策略 B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="790" width="120" height="60" as="geometry" />
+        <mxCell id="Ly39tRD4MLQu7KWA-Jah-13" value="限流策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="735" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ly39tRD4MLQu7KWA-Jah-14" value="超时策略 Y" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="780" width="120" height="60" as="geometry" />
