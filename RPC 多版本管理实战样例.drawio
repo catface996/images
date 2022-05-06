@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T01:26:59.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="aGcQ18_M1g1fJYATXUwL" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-06T01:28:01.576Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Ky_pSE_f0o7lXpenIHrJ" version="17.5.0" type="github">
   <diagram id="WiGuBrc1i97fH-FrYtEF" name="第 1 页">
     <mxGraphModel dx="1426" dy="-375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,6 +137,9 @@
           <mxGeometry x="-0.3385" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TS1yVxYaO-tpHvFG9DHE-55" value="服务提供方的 main 分支已经清理 v1 版本的代码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1681.5" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
