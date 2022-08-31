@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T06:10:00.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6EYjCNxmCiYhIQjPU-OO" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T08:27:29.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="kNEfpS7RRgEVjfqqNuTK" version="20.2.7" type="github">
   <diagram id="cBwCqC7cKEnAckgL5tws" name="第 1 页">
     <mxGraphModel dx="998" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,20 +44,26 @@
         <mxCell id="a1qoHvp3q9dnZEzVA2mn-13" value="是否已创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="a1qoHvp3q9dnZEzVA2mn-6">
           <mxGeometry x="60" y="150" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1qoHvp3q9dnZEzVA2mn-7" value="事务协调推进" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="a1qoHvp3q9dnZEzVA2mn-7" value="业务一致性协调-同步" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="450" y="170" width="200" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="a1qoHvp3q9dnZEzVA2mn-11" value="协调业务一致性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a1qoHvp3q9dnZEzVA2mn-7">
+        <mxCell id="a1qoHvp3q9dnZEzVA2mn-11" value="执行交易主单业务一致性协调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a1qoHvp3q9dnZEzVA2mn-7">
           <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a1qoHvp3q9dnZEzVA2mn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="a1qoHvp3q9dnZEzVA2mn-5" target="a1qoHvp3q9dnZEzVA2mn-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="670" />
+              <mxPoint x="420" y="670" />
+              <mxPoint x="420" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="a1qoHvp3q9dnZEzVA2mn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a1qoHvp3q9dnZEzVA2mn-13" target="a1qoHvp3q9dnZEzVA2mn-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="360" />
-              <mxPoint x="430" y="250" />
+              <mxPoint x="420" y="360" />
+              <mxPoint x="420" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
