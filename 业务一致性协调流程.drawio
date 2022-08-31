@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T08:39:14.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="oF-keE52ui3R1hc5x0xZ" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T08:54:42.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Z_a8z5xp_gelAJwWtM5f" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,18 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="uOyHhmzB57W_WbhQQ3cj-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uOyHhmzB57W_WbhQQ3cj-1" value="业务一致性协调-同步" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="200" width="200" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="uOyHhmzB57W_WbhQQ3cj-2" value="获取主单的最新tcc状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uOyHhmzB57W_WbhQQ3cj-1">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uOyHhmzB57W_WbhQQ3cj-3" value="判断是否是&lt;br&gt;tcc终态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="uOyHhmzB57W_WbhQQ3cj-1">
+          <mxGeometry x="60" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uOyHhmzB57W_WbhQQ3cj-4" value="同时获取并锁定所有子单，计算出tcc的目标状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uOyHhmzB57W_WbhQQ3cj-1">
+          <mxGeometry x="40" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
