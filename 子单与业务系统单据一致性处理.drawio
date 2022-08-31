@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T12:15:49.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_sYcdWBN1uwDyVD_pFSl" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T12:17:19.086Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="pPITn715TRsAjRbo6hVC" version="20.2.7" type="github">
   <diagram id="NmENcyWyUuuAA7Jg1kr3" name="第 1 页">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,6 +21,11 @@
         </mxCell>
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DWvgcuhFIjDn6s-qHkVy-2" source="DWvgcuhFIjDn6s-qHkVy-5" target="DWvgcuhFIjDn6s-qHkVy-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DWvgcuhFIjDn6s-qHkVy-33" value="不能跳过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DWvgcuhFIjDn6s-qHkVy-11">
+          <mxGeometry x="-0.0333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-5" value="子单tcc状态&lt;br&gt;幂等检查" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="DWvgcuhFIjDn6s-qHkVy-2">
           <mxGeometry x="80" y="160" width="80" height="80" as="geometry" />
@@ -95,6 +100,23 @@
               <mxPoint x="797" y="550" />
               <mxPoint x="797" y="250" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DWvgcuhFIjDn6s-qHkVy-30" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="104" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DWvgcuhFIjDn6s-qHkVy-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DWvgcuhFIjDn6s-qHkVy-5" target="DWvgcuhFIjDn6s-qHkVy-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="370" />
+              <mxPoint x="20" y="750" />
+              <mxPoint x="164" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DWvgcuhFIjDn6s-qHkVy-32" value="幂等跳过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DWvgcuhFIjDn6s-qHkVy-31">
+          <mxGeometry x="-0.8344" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
