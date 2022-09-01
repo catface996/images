@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T03:57:42.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="EajKY3k9sKiFpVvllTzZ" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T05:56:14.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="c-6kxNtQuviJT-hDOkBV" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,12 @@
         </mxCell>
         <mxCell id="-QVXiJTxFLureI_cpFyi-1" value="事务1：决策是否允许取消" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="250" width="200" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="-QVXiJTxFLureI_cpFyi-4" value="获取并锁定主单下的子单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-QVXiJTxFLureI_cpFyi-1">
+          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QVXiJTxFLureI_cpFyi-7" value="是否允许&lt;br&gt;cancel" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="-QVXiJTxFLureI_cpFyi-1">
+          <mxGeometry x="60" y="170" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-QVXiJTxFLureI_cpFyi-2" value="循环：对子单做tcc cancel" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="250" width="240" height="450" as="geometry" />
