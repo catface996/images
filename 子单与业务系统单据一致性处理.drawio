@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T12:17:19.086Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="pPITn715TRsAjRbo6hVC" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T01:37:16.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ClhrcUz4iwFcm39UhBa6" version="20.2.7" type="github">
   <diagram id="NmENcyWyUuuAA7Jg1kr3" name="第 1 页">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="104" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-2" value="事务1：预处理子单tcc状态" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="44" y="170" width="240" height="560" as="geometry" />
+          <mxGeometry x="44" y="170" width="240" height="640" as="geometry" />
         </mxCell>
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DWvgcuhFIjDn6s-qHkVy-2" source="DWvgcuhFIjDn6s-qHkVy-4" target="DWvgcuhFIjDn6s-qHkVy-5">
           <mxGeometry relative="1" as="geometry" />
@@ -36,11 +36,17 @@
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-6" value="tcc状态机计算&lt;br&gt;下一个tcc状态&lt;br&gt;(当前状态，tcc操作，unknown结果)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DWvgcuhFIjDn6s-qHkVy-2">
           <mxGeometry x="20" y="300" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DWvgcuhFIjDn6s-qHkVy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DWvgcuhFIjDn6s-qHkVy-2" source="DWvgcuhFIjDn6s-qHkVy-7" target="DWvgcuhFIjDn6s-qHkVy-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-7" value="将计算出的tcc状态更新到子单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DWvgcuhFIjDn6s-qHkVy-2">
           <mxGeometry x="60" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DWvgcuhFIjDn6s-qHkVy-34" value="子单自动confirm&lt;br&gt;设置为true" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DWvgcuhFIjDn6s-qHkVy-2">
+          <mxGeometry x="60" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-8" value="rpc：调用业务系统tcc结果" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="324" y="170" width="200" height="560" as="geometry" />
+          <mxGeometry x="324" y="170" width="200" height="640" as="geometry" />
         </mxCell>
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DWvgcuhFIjDn6s-qHkVy-8" source="DWvgcuhFIjDn6s-qHkVy-14" target="DWvgcuhFIjDn6s-qHkVy-22">
           <mxGeometry relative="1" as="geometry" />
@@ -52,7 +58,7 @@
           <mxGeometry x="35" y="160" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-13" value="事务2：更新tcc操作后的状态" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="550" y="170" width="234" height="560" as="geometry" />
+          <mxGeometry x="550" y="170" width="234" height="640" as="geometry" />
         </mxCell>
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DWvgcuhFIjDn6s-qHkVy-13" source="DWvgcuhFIjDn6s-qHkVy-15" target="DWvgcuhFIjDn6s-qHkVy-18">
           <mxGeometry relative="1" as="geometry" />
@@ -68,15 +74,6 @@
         </mxCell>
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-20" value="将计算出的tcc状态更新到子单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DWvgcuhFIjDn6s-qHkVy-13">
           <mxGeometry x="57" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DWvgcuhFIjDn6s-qHkVy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DWvgcuhFIjDn6s-qHkVy-7" target="DWvgcuhFIjDn6s-qHkVy-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="164" y="690" />
-              <mxPoint x="310" y="690" />
-              <mxPoint x="310" y="250" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DWvgcuhFIjDn6s-qHkVy-22" target="DWvgcuhFIjDn6s-qHkVy-15">
           <mxGeometry relative="1" as="geometry">
@@ -103,20 +100,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-30" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="104" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DWvgcuhFIjDn6s-qHkVy-5" target="DWvgcuhFIjDn6s-qHkVy-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="370" />
-              <mxPoint x="20" y="750" />
-              <mxPoint x="164" y="750" />
+              <mxPoint x="20" y="830" />
+              <mxPoint x="164" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DWvgcuhFIjDn6s-qHkVy-32" value="幂等跳过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DWvgcuhFIjDn6s-qHkVy-31">
           <mxGeometry x="-0.8344" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DWvgcuhFIjDn6s-qHkVy-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DWvgcuhFIjDn6s-qHkVy-34" target="DWvgcuhFIjDn6s-qHkVy-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="164" y="790" />
+              <mxPoint x="300" y="790" />
+              <mxPoint x="300" y="250" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
