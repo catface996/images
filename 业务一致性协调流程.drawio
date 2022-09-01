@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T01:30:41.117Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="bm5pmSHtujemUeZPDSd7" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T01:44:18.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="C5WqKsxeRzBf5TOzSAQN" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uOyHhmzB57W_WbhQQ3cj-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOyHhmzB57W_WbhQQ3cj-10" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOyHhmzB57W_WbhQQ3cj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uOyHhmzB57W_WbhQQ3cj-3" target="uOyHhmzB57W_WbhQQ3cj-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -25,13 +25,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uOyHhmzB57W_WbhQQ3cj-17" value="按子单编排的拓扑序对子单发起TCC操纵" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="440" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOyHhmzB57W_WbhQQ3cj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uOyHhmzB57W_WbhQQ3cj-15" target="uOyHhmzB57W_WbhQQ3cj-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uOyHhmzB57W_WbhQQ3cj-2" value="获取并锁定主单" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOyHhmzB57W_WbhQQ3cj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uOyHhmzB57W_WbhQQ3cj-2" target="uOyHhmzB57W_WbhQQ3cj-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -40,16 +40,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uOyHhmzB57W_WbhQQ3cj-3" value="判断是否是&lt;br&gt;tcc终态" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="220" y="270" width="80" height="80" as="geometry" />
+          <mxGeometry x="200" y="930" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BZgVUSaZ6p4QW0S-Q-o2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uOyHhmzB57W_WbhQQ3cj-9" target="BZgVUSaZ6p4QW0S-Q-o2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uOyHhmzB57W_WbhQQ3cj-9" value="获取并锁定主单下的所有子单" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOyHhmzB57W_WbhQQ3cj-15" value="计算下一步要采取的tcc操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="440" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BZgVUSaZ6p4QW0S-Q-o2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BZgVUSaZ6p4QW0S-Q-o2-3" target="uOyHhmzB57W_WbhQQ3cj-15">
           <mxGeometry relative="1" as="geometry" />
@@ -68,7 +68,39 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BZgVUSaZ6p4QW0S-Q-o2-3" value="是否允许自动confirm" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="380" width="80" height="80" as="geometry" />
+          <mxGeometry x="440" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BZgVUSaZ6p4QW0S-Q-o2-9" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BZgVUSaZ6p4QW0S-Q-o2-10" value="主单tcc状态检查" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="190" width="200" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="BZgVUSaZ6p4QW0S-Q-o2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="BZgVUSaZ6p4QW0S-Q-o2-10" source="BZgVUSaZ6p4QW0S-Q-o2-12" target="BZgVUSaZ6p4QW0S-Q-o2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BZgVUSaZ6p4QW0S-Q-o2-12" value="获取最新主单数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BZgVUSaZ6p4QW0S-Q-o2-10">
+          <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BZgVUSaZ6p4QW0S-Q-o2-13" value="是否是终态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="BZgVUSaZ6p4QW0S-Q-o2-10">
+          <mxGeometry x="50" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BZgVUSaZ6p4QW0S-Q-o2-11" value="事务1：重新计算主单tcc状态并判断" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="190" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BZgVUSaZ6p4QW0S-Q-o2-18" value="获取并锁定主单下的所有子单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BZgVUSaZ6p4QW0S-Q-o2-11">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BZgVUSaZ6p4QW0S-Q-o2-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BZgVUSaZ6p4QW0S-Q-o2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BZgVUSaZ6p4QW0S-Q-o2-13" target="BZgVUSaZ6p4QW0S-Q-o2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BZgVUSaZ6p4QW0S-Q-o2-17" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BZgVUSaZ6p4QW0S-Q-o2-16">
+          <mxGeometry x="-0.3667" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
