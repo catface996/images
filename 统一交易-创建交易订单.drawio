@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T02:01:21.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XHPeNyMtq6G3cnLlhweF" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T02:05:47.962Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZGS3d3dvMqbmTkdr35AM" version="20.2.7" type="github">
   <diagram id="cBwCqC7cKEnAckgL5tws" name="第 1 页">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="a1qoHvp3q9dnZEzVA2mn-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1qoHvp3q9dnZEzVA2mn-6" value="初始化交易-本地事务" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="a1qoHvp3q9dnZEzVA2mn-6" value="事务1：初始化交易" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="200" y="170" width="200" height="490" as="geometry" />
         </mxCell>
         <mxCell id="a1qoHvp3q9dnZEzVA2mn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="a1qoHvp3q9dnZEzVA2mn-6" source="a1qoHvp3q9dnZEzVA2mn-4" target="a1qoHvp3q9dnZEzVA2mn-5" edge="1">
