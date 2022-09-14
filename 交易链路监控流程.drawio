@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T02:29:42.304Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Mn4VmJngYv9gt0LI5jqi" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T02:30:34.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Ox_3bfJuvnqV3v76Wi3R" version="20.3.0" type="github">
   <diagram id="D7YODH7v8Cu3DkDxqm7N" name="第 1 页">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="Y7YBReNhOn6DADfV4-6s-5" value="执行监控规则" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="1300" y="210" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7YBReNhOn6DADfV4-6s-6" value="监控结果处理" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="210" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
