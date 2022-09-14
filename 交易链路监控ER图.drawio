@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T09:19:25.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="RmKwxMRGuopjuy_EMGll" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T09:20:44.208Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="lNHNbhj5yh3U0sh7Yi5U" version="20.3.0" type="github">
   <diagram id="ZAWK1HXFEPgxVHu6XL7L" name="第 1 页">
     <mxGraphModel dx="895" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="VNx4k_GEtKmAveKFKE6M-1" value="业务实体配置" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="54" y="60" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="VNx4k_GEtKmAveKFKE6M-2" value="+ID&#xa;+实体名称&#xa;+日志解析配置&#xa;+binLog解析配置&#xa;+流量解析配置" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="VNx4k_GEtKmAveKFKE6M-1">
+        <mxCell id="VNx4k_GEtKmAveKFKE6M-2" value="+ID&#xa;+实体名称&#xa;+日志解析配置&#xa;+binLog解析配置&#xa;+流量解析配置&#xa;+孤岛容忍时长" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="VNx4k_GEtKmAveKFKE6M-1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VNx4k_GEtKmAveKFKE6M-3" value="业务链路配置" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="339" y="60" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="VNx4k_GEtKmAveKFKE6M-4" value="+ID&#xa;++业务链路配置名称" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="VNx4k_GEtKmAveKFKE6M-3">
+        <mxCell id="VNx4k_GEtKmAveKFKE6M-4" value="+ID&#xa;+业务链路配置名称" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="VNx4k_GEtKmAveKFKE6M-3">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VNx4k_GEtKmAveKFKE6M-6" value="业务链路配置_to_实体配置" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
