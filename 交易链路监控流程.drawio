@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T08:38:48.256Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CWbQ265tQdfaeIEmYp2D" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T08:42:02.140Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="45Rj9ct0FdXEURWTChgE" version="20.3.0" type="github">
   <diagram id="D7YODH7v8Cu3DkDxqm7N" name="第 1 页">
     <mxGraphModel dx="1298" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,10 +89,19 @@
           <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y7YBReNhOn6DADfV4-6s-6" value="监控结果处理" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="210" width="200" height="200" as="geometry" />
+          <mxGeometry x="1600" y="210" width="200" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="NrAy47tPbd4vURZMrOmv-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y7YBReNhOn6DADfV4-6s-6">
+        <mxCell id="NrAy47tPbd4vURZMrOmv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Y7YBReNhOn6DADfV4-6s-6" source="NrAy47tPbd4vURZMrOmv-30" target="NrAy47tPbd4vURZMrOmv-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NrAy47tPbd4vURZMrOmv-30" value="查询巡检任务下的所有巡检结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y7YBReNhOn6DADfV4-6s-6">
           <mxGeometry x="40" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NrAy47tPbd4vURZMrOmv-33" value="获取巡检任务对应的告警规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y7YBReNhOn6DADfV4-6s-6">
+          <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NrAy47tPbd4vURZMrOmv-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y7YBReNhOn6DADfV4-6s-6">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NrAy47tPbd4vURZMrOmv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NrAy47tPbd4vURZMrOmv-3" target="NrAy47tPbd4vURZMrOmv-1">
           <mxGeometry relative="1" as="geometry" />
@@ -112,7 +121,7 @@
         <mxCell id="NrAy47tPbd4vURZMrOmv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrAy47tPbd4vURZMrOmv-21" target="NrAy47tPbd4vURZMrOmv-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NrAy47tPbd4vURZMrOmv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NrAy47tPbd4vURZMrOmv-26">
+        <mxCell id="NrAy47tPbd4vURZMrOmv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NrAy47tPbd4vURZMrOmv-26" target="NrAy47tPbd4vURZMrOmv-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1400" y="510" as="targetPoint" />
           </mxGeometry>
