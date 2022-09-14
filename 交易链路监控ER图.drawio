@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T09:34:20.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="EgPY_gxn9h2jeRBcWCms" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T10:14:25.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="D-med-GU4pG9oqzKDWiG" version="20.3.0" type="github">
   <diagram id="ZAWK1HXFEPgxVHu6XL7L" name="第 1 页">
     <mxGraphModel dx="895" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="VNx4k_GEtKmAveKFKE6M-16" value="业务实体" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="39" y="465" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="VNx4k_GEtKmAveKFKE6M-17" value="+ID&#xa;+对应业务实体配置&#xa;+数据来源：流量|日志|binLog" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="VNx4k_GEtKmAveKFKE6M-16">
+        <mxCell id="VNx4k_GEtKmAveKFKE6M-17" value="+ID&#xa;+对应业务实体配置&#xa;+数据来源：流量|日志|binLog&#xa;+traceIds[]&#xa;+其他快照数据：json" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="VNx4k_GEtKmAveKFKE6M-16">
           <mxGeometry y="30" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VNx4k_GEtKmAveKFKE6M-18" value="巡检任务" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
