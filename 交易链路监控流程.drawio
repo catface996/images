@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T02:57:00.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="LPaeAt5DaGP9YJeETfkY" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T03:00:06.026Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Zv9SCpDfQ4UFEUPcuhdK" version="20.3.0" type="github">
   <diagram id="D7YODH7v8Cu3DkDxqm7N" name="第 1 页">
     <mxGraphModel dx="1298" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,10 +35,22 @@
           <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y7YBReNhOn6DADfV4-6s-3" value="匹配监控链路" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="710" y="210" width="200" height="200" as="geometry" />
+          <mxGeometry x="710" y="210" width="200" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="NrAy47tPbd4vURZMrOmv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Y7YBReNhOn6DADfV4-6s-3" source="NrAy47tPbd4vURZMrOmv-13" target="NrAy47tPbd4vURZMrOmv-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NrAy47tPbd4vURZMrOmv-13" value="匹配到至少一条业务链路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y7YBReNhOn6DADfV4-6s-3">
           <mxGeometry x="40" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NrAy47tPbd4vURZMrOmv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Y7YBReNhOn6DADfV4-6s-3" source="NrAy47tPbd4vURZMrOmv-14" target="NrAy47tPbd4vURZMrOmv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NrAy47tPbd4vURZMrOmv-14" value="根据业务实体所处链路的环节决策是否要立即执行巡检" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y7YBReNhOn6DADfV4-6s-3">
+          <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NrAy47tPbd4vURZMrOmv-17" value="决策巡检方向&lt;br&gt;向上/向下 or 双向" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y7YBReNhOn6DADfV4-6s-3">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y7YBReNhOn6DADfV4-6s-4" value="构造监控规则上下文" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="1010" y="210" width="200" height="200" as="geometry" />
@@ -56,6 +68,9 @@
           <mxGeometry x="160" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NrAy47tPbd4vURZMrOmv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrAy47tPbd4vURZMrOmv-5" target="NrAy47tPbd4vURZMrOmv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NrAy47tPbd4vURZMrOmv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrAy47tPbd4vURZMrOmv-9" target="NrAy47tPbd4vURZMrOmv-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
