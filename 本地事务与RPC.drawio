@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T05:59:52.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="qf6NjWynIcqEASjh35iW" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-25T06:05:25.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="yiNb-metaSE5JfEmks2P" version="20.3.2" type="github">
   <diagram id="gUfImMvI6HA2ibjVi8Yo" name="第 1 页">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -470,7 +470,7 @@
         <mxCell id="FC1-o9Rjn76wEDgKJpTY-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FC1-o9Rjn76wEDgKJpTY-161" target="FC1-o9Rjn76wEDgKJpTY-163">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FC1-o9Rjn76wEDgKJpTY-161" value="提交事务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="FC1-o9Rjn76wEDgKJpTY-161" value="回滚事务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="545" y="4625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FC1-o9Rjn76wEDgKJpTY-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FC1-o9Rjn76wEDgKJpTY-163" target="FC1-o9Rjn76wEDgKJpTY-150">
