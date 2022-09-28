@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T03:53:19.817Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="k0-mmk4CHqkEChvumCPj" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T03:53:56.304Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bA_3bdj9ic7MdkI_Dv9s" version="20.3.6" type="github">
   <diagram id="GgcckpCQSib4Y3IwgSiX" name="第 1 页">
     <mxGraphModel dx="1236" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,6 +94,17 @@
         </mxCell>
         <mxCell id="jzRAGIXybQe1sC-QjIZQ-23" value="Consumer-Y" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="418" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jzRAGIXybQe1sC-QjIZQ-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzRAGIXybQe1sC-QjIZQ-26" target="jzRAGIXybQe1sC-QjIZQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzRAGIXybQe1sC-QjIZQ-28" value="消费" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jzRAGIXybQe1sC-QjIZQ-27">
+          <mxGeometry x="0.0667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jzRAGIXybQe1sC-QjIZQ-26" value="Consumer-Z" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="568" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
