@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T06:58:04.825Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="yXZjA6bscP1u4LbhXaUJ" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T06:58:39.494Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bjrlLp758XgAK0QeDIWL" version="20.3.6" type="github">
   <diagram id="GOTn1ieC3Ofhe-Nmwbcy" name="第 1 页">
     <mxGraphModel dx="1692" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -228,7 +228,7 @@
         <mxCell id="781gfuzHS_4xl9KlONTP-60" value="数据库&lt;br&gt;mongodb,es..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="781gfuzHS_4xl9KlONTP-61" value="消息&lt;br&gt;sns/sqs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="781gfuzHS_4xl9KlONTP-61" value="消息&lt;br&gt;sns/sqs&lt;br&gt;公网接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="781gfuzHS_4xl9KlONTP-62" value="定时任务&lt;br&gt;xxl-job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -245,7 +245,7 @@
         <mxCell id="781gfuzHS_4xl9KlONTP-64" value="S3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="781gfuzHS_4xl9KlONTP-65" value="S3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="781gfuzHS_4xl9KlONTP-65" value="S3&lt;br&gt;公网接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
