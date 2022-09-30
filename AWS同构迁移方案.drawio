@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T06:58:39.494Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bjrlLp758XgAK0QeDIWL" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T07:00:34.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="SXxva1cEdMhnX6IwO1vt" version="20.3.6" type="github">
   <diagram id="GOTn1ieC3Ofhe-Nmwbcy" name="第 1 页">
     <mxGraphModel dx="1692" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="781gfuzHS_4xl9KlONTP-37" value="法兰克福" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1080" width="380" height="960" as="geometry" />
+        <mxCell id="781gfuzHS_4xl9KlONTP-37" value="法兰克福" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1080" width="380" height="920" as="geometry" />
         </mxCell>
         <mxCell id="781gfuzHS_4xl9KlONTP-42" value="Aliyun-法兰克福" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1600" width="300" height="420" as="geometry" />
+          <mxGeometry x="470" y="1600" width="300" height="370" as="geometry" />
         </mxCell>
         <mxCell id="781gfuzHS_4xl9KlONTP-66" value="阿里云专有K8S集群&lt;br&gt;ACK" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="530" y="1630" width="180" height="120" as="geometry" />
@@ -21,10 +21,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="781gfuzHS_4xl9KlONTP-5" value="爱尔兰" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="781gfuzHS_4xl9KlONTP-5" value="爱尔兰" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-100" y="110" width="370" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="781gfuzHS_4xl9KlONTP-4" value="法兰克福" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="781gfuzHS_4xl9KlONTP-4" value="法兰克福" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="430" y="110" width="380" height="880" as="geometry" />
         </mxCell>
         <mxCell id="781gfuzHS_4xl9KlONTP-1" value="AWS-爱尔兰" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -145,8 +145,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="781gfuzHS_4xl9KlONTP-36" value="爱尔兰" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="1080" width="370" height="960" as="geometry" />
+        <mxCell id="781gfuzHS_4xl9KlONTP-36" value="爱尔兰" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1080" width="370" height="920" as="geometry" />
         </mxCell>
         <mxCell id="781gfuzHS_4xl9KlONTP-38" value="AWS-爱尔兰" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-70" y="1130" width="300" height="430" as="geometry" />
@@ -174,7 +174,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="781gfuzHS_4xl9KlONTP-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=1;startArrow=none;startFill=0;" edge="1" parent="1" source="781gfuzHS_4xl9KlONTP-47" target="781gfuzHS_4xl9KlONTP-58">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="1200" />
+              <mxPoint x="260" y="1700" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="781gfuzHS_4xl9KlONTP-46" value="同构迁移" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="781gfuzHS_4xl9KlONTP-45">
           <mxGeometry x="0.0884" relative="1" as="geometry">
@@ -214,8 +219,8 @@
         <mxCell id="781gfuzHS_4xl9KlONTP-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=1;startArrow=none;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="781gfuzHS_4xl9KlONTP-57" target="781gfuzHS_4xl9KlONTP-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="1440" />
-              <mxPoint x="210" y="1900" />
+              <mxPoint x="220" y="1440" />
+              <mxPoint x="220" y="1900" />
             </Array>
           </mxGeometry>
         </mxCell>
