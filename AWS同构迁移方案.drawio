@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T06:49:53.141Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="HJA4bgizNTgrJFwaTTOR" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T06:51:11.378Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="w6hXvUWDBwjlDoTwNxs6" version="20.3.6" type="github">
   <diagram id="GOTn1ieC3Ofhe-Nmwbcy" name="第 1 页">
     <mxGraphModel dx="1692" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="781gfuzHS_4xl9KlONTP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="781gfuzHS_4xl9KlONTP-5" target="781gfuzHS_4xl9KlONTP-4">
+        <mxCell id="781gfuzHS_4xl9KlONTP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="781gfuzHS_4xl9KlONTP-5" target="781gfuzHS_4xl9KlONTP-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="781gfuzHS_4xl9KlONTP-7" value="延时30ms" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="781gfuzHS_4xl9KlONTP-6">
@@ -113,6 +113,20 @@
         </mxCell>
         <mxCell id="781gfuzHS_4xl9KlONTP-21" value="定时任务&lt;br&gt;xxl-job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="781gfuzHS_4xl9KlONTP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=1;startArrow=none;startFill=0;" edge="1" parent="1" source="781gfuzHS_4xl9KlONTP-31" target="781gfuzHS_4xl9KlONTP-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="500" />
+              <mxPoint x="620" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="781gfuzHS_4xl9KlONTP-31" value="S3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="781gfuzHS_4xl9KlONTP-32" value="S3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
