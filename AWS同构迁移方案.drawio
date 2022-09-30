@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T06:12:23.745Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CEgZs71mikvFTGZ3JKHh" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T06:13:18.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vQmiqnf6bzIGzmAl67-G" version="20.3.6" type="github">
   <diagram id="GOTn1ieC3Ofhe-Nmwbcy" name="第 1 页">
     <mxGraphModel dx="1692" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,6 +26,17 @@
         </mxCell>
         <mxCell id="781gfuzHS_4xl9KlONTP-3" value="Aliyun-法兰克福" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="470" y="520" width="300" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="781gfuzHS_4xl9KlONTP-9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="781gfuzHS_4xl9KlONTP-1" target="781gfuzHS_4xl9KlONTP-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="410" y="400" as="sourcePoint" />
+            <mxPoint x="450" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="781gfuzHS_4xl9KlONTP-10" value="同构迁移" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="781gfuzHS_4xl9KlONTP-9">
+          <mxGeometry x="-0.0778" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
