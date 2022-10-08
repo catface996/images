@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-10-08T03:10:33.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.7" etag="5yFBldsCmq9bg0-qJHMm" type="github"><diagram id="9QRmZJ_JlqpsSBRo2RrZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-08T03:34:26.884Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="rFncbSZvcTXSEhMbgty7" version="20.3.7" type="github">
+  <diagram id="9QRmZJ_JlqpsSBRo2RrZ" name="第 1 页">
+    <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yUWr70H4J0VbvN4vJr8N-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="380" width="360" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="yUWr70H4J0VbvN4vJr8N-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="380" width="360" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="yUWr70H4J0VbvN4vJr8N-3" value="DNS解析&lt;br&gt;有延时" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yUWr70H4J0VbvN4vJr8N-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yUWr70H4J0VbvN4vJr8N-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="520" y="75" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yUWr70H4J0VbvN4vJr8N-7" value="域名本地cache" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUWr70H4J0VbvN4vJr8N-8" value="域名本地cache" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
