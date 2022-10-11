@@ -1,1 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T09:49:54.042Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.4.0" etag="wH-x_9kD2wklYNESsLPv" type="github"><diagram id="OdbRNoy3vFBOWcBV_3Qq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-11T09:59:00.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="h0jakxxMF3k3HybRdNVk" version="20.4.0" type="github">
+  <diagram id="OdbRNoy3vFBOWcBV_3Qq" name="第 1 页">
+    <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q8unGH8EVhy42DJwBZNV-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="374" y="40" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="q8unGH8EVhy42DJwBZNV-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="320" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="q8unGH8EVhy42DJwBZNV-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="320" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="q8unGH8EVhy42DJwBZNV-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="q8unGH8EVhy42DJwBZNV-6" target="q8unGH8EVhy42DJwBZNV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8unGH8EVhy42DJwBZNV-10" value="镜像流量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q8unGH8EVhy42DJwBZNV-9">
+          <mxGeometry x="-0.1037" y="3" relative="1" as="geometry">
+            <mxPoint x="19" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8unGH8EVhy42DJwBZNV-6" value="Nginx&lt;br&gt;xxx.palmpay.com" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8unGH8EVhy42DJwBZNV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="q8unGH8EVhy42DJwBZNV-2" target="q8unGH8EVhy42DJwBZNV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8unGH8EVhy42DJwBZNV-8" value="Nginx&lt;br&gt;mirror.xxx.palmpay.com" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
