@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T09:52:10.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="UK8tdvcJSYlM7wbsIybp" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T09:53:11.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="2Vy5WBVMIV1C0vywpY5k" version="20.4.0" type="github">
   <diagram id="aO1gsIgiVoshPTAXAsny" name="第 1 页">
     <mxGraphModel dx="2125" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,8 +19,8 @@
         <mxCell id="lXyrdjqoIO1akCfHZl6s-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="lXyrdjqoIO1akCfHZl6s-4" target="lXyrdjqoIO1akCfHZl6s-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lXyrdjqoIO1akCfHZl6s-4" value="非白名单用户" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="185" y="30" width="50" height="80" as="geometry" />
+        <mxCell id="lXyrdjqoIO1akCfHZl6s-4" value="非白名单用户" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="185" y="20" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lXyrdjqoIO1akCfHZl6s-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="lXyrdjqoIO1akCfHZl6s-5" target="lXyrdjqoIO1akCfHZl6s-8">
           <mxGeometry relative="1" as="geometry">
