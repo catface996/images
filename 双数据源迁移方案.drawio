@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T08:13:17.360Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Z5iyGvCUBqRvBhX8I6AB" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T08:14:36.389Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="w5HsQ1NMNOnM1VQoNXIh" version="20.5.1" type="github">
   <diagram id="Bomps37VIKHpNAe9YnZH" name="第 1 页">
     <mxGraphModel dx="1298" dy="5510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -418,11 +418,24 @@
         <mxCell id="GRqfUsxwz95-C4cLxFxg-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.52;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="GRqfUsxwz95-C4cLxFxg-171" target="GRqfUsxwz95-C4cLxFxg-173">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GRqfUsxwz95-C4cLxFxg-209" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;fontSize=18;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GRqfUsxwz95-C4cLxFxg-171" target="GRqfUsxwz95-C4cLxFxg-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GRqfUsxwz95-C4cLxFxg-210" value="A2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontColor=#000000;" vertex="1" connectable="0" parent="GRqfUsxwz95-C4cLxFxg-209">
+          <mxGeometry x="-0.3247" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GRqfUsxwz95-C4cLxFxg-171" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-4480" width="50" height="70" as="geometry" />
+          <mxGeometry x="450" y="-4480" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GRqfUsxwz95-C4cLxFxg-172" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="GRqfUsxwz95-C4cLxFxg-173" target="GRqfUsxwz95-C4cLxFxg-177">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GRqfUsxwz95-C4cLxFxg-207" value="A0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontColor=#000000;" vertex="1" connectable="0" parent="GRqfUsxwz95-C4cLxFxg-172">
+          <mxGeometry x="0.2364" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GRqfUsxwz95-C4cLxFxg-188" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#b0e3e6;strokeColor=#000000;" edge="1" parent="1" source="GRqfUsxwz95-C4cLxFxg-173" target="GRqfUsxwz95-C4cLxFxg-174">
           <mxGeometry relative="1" as="geometry">
@@ -432,6 +445,11 @@
               <mxPoint x="485" y="-4300" />
               <mxPoint x="760" y="-4300" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GRqfUsxwz95-C4cLxFxg-208" value="A1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontColor=#000000;" vertex="1" connectable="0" parent="GRqfUsxwz95-C4cLxFxg-188">
+          <mxGeometry x="-0.1488" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GRqfUsxwz95-C4cLxFxg-173" value="Nginx" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
