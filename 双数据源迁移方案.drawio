@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T07:48:04.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="BDwxjAc6Njx7fxlOlkG9" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T07:57:12.096Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-j8SrTikpZT4ZlJ92vFS" version="20.5.1" type="github">
   <diagram id="Bomps37VIKHpNAe9YnZH" name="第 1 页">
     <mxGraphModel dx="1298" dy="5510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -359,8 +359,8 @@
         <mxCell id="GRqfUsxwz95-C4cLxFxg-140" value="B-serice-old（k8s service）&lt;br&gt;&lt;br&gt;原B-service的Deployment" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="140" y="-2040" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GRqfUsxwz95-C4cLxFxg-145" value="流量灰度方案一：应用外解决" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="350" y="-2710" width="290" height="30" as="geometry" />
+        <mxCell id="GRqfUsxwz95-C4cLxFxg-145" value="迁移之前" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340" y="-3640" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GRqfUsxwz95-C4cLxFxg-146" value="流量灰度方案一：应用内解决" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="340" y="-1800" width="290" height="30" as="geometry" />
@@ -402,6 +402,9 @@
         </mxCell>
         <mxCell id="GRqfUsxwz95-C4cLxFxg-165" value="B-service" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="160" y="-3070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GRqfUsxwz95-C4cLxFxg-166" value="流量灰度方案一：应用外解决" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="-2700" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
