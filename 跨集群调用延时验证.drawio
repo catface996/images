@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T07:39:55.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="pCsCHJ3tAxX__CTgLXLK" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T07:41:23.553Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="l1_eFVztXkkM9YV5HBbk" version="20.5.1" type="github">
   <diagram id="_VrD7suN4OpV3uT5Q5W5" name="第 1 页">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,6 +92,17 @@
         </mxCell>
         <mxCell id="cjM25EMCI1Wb_jvS7GmR-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="394" y="100" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cjM25EMCI1Wb_jvS7GmR-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=17;startArrow=classic;startFill=1;" edge="1" parent="1" source="cjM25EMCI1Wb_jvS7GmR-26" target="cjM25EMCI1Wb_jvS7GmR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjM25EMCI1Wb_jvS7GmR-28" value="域名解析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="cjM25EMCI1Wb_jvS7GmR-27">
+          <mxGeometry x="-0.6048" y="13" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cjM25EMCI1Wb_jvS7GmR-26" value="big-fishi.transnet.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry y="230" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
