@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T03:17:59.259Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="E2JXx9_hsydZ1Io9Wj_Z" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T11:03:43.050Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xIPu65y37aJqekrvL3lZ" version="20.5.1" type="github">
   <diagram id="GxGMouDFHkgMhzsaOCU6" name="第 1 页">
     <mxGraphModel dx="1754" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="ymVFFXbmdIwkiD_EwIhI-300" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1610" y="560" width="700" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="ymVFFXbmdIwkiD_EwIhI-184" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ymVFFXbmdIwkiD_EwIhI-184" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="10" y="1190" width="840" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="ymVFFXbmdIwkiD_EwIhI-183" value="ClickHouse" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ymVFFXbmdIwkiD_EwIhI-183" value="ClickHouse" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="10" y="730" width="830" height="420" as="geometry" />
         </mxCell>
         <mxCell id="ymVFFXbmdIwkiD_EwIhI-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
