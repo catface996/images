@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T09:41:58.001Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Y2bZH_MzyBCcoyJsZKF-" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T09:53:04.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="bIeCcrkSXJlsKHQD9Zb7" version="20.5.1" type="github">
   <diagram id="GxGMouDFHkgMhzsaOCU6" name="第 1 页">
     <mxGraphModel dx="1722" dy="575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1014,6 +1014,42 @@
         </mxCell>
         <mxCell id="Yvmjrc3NYy1qL7YYw7nj-38" value="byte" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="3166" y="652" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvmjrc3NYy1qL7YYw7nj-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontSize=12;" edge="1" parent="1" source="Yvmjrc3NYy1qL7YYw7nj-48" target="Yvmjrc3NYy1qL7YYw7nj-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvmjrc3NYy1qL7YYw7nj-48" value="开始" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="312" y="4801" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvmjrc3NYy1qL7YYw7nj-49" value="序列化Roaring64Bitmap存储到Redis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="210" y="4706" width="340" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvmjrc3NYy1qL7YYw7nj-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontSize=12;" edge="1" parent="1" source="Yvmjrc3NYy1qL7YYw7nj-50" target="Yvmjrc3NYy1qL7YYw7nj-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvmjrc3NYy1qL7YYw7nj-50" value="从ClickHouse读取&lt;br&gt;group-&amp;gt;memberIndex" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="312" y="4936" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvmjrc3NYy1qL7YYw7nj-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=12;" edge="1" parent="1" source="Yvmjrc3NYy1qL7YYw7nj-51" target="Yvmjrc3NYy1qL7YYw7nj-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvmjrc3NYy1qL7YYw7nj-51" value="memberIndex分段到Roaring64Bitmap" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="312" y="5072" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvmjrc3NYy1qL7YYw7nj-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontSize=12;" edge="1" parent="1" source="Yvmjrc3NYy1qL7YYw7nj-52" target="Yvmjrc3NYy1qL7YYw7nj-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvmjrc3NYy1qL7YYw7nj-52" value="逐段异步保存到Redis" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="312" y="5208" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvmjrc3NYy1qL7YYw7nj-56" value="结束" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="312" y="5468" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvmjrc3NYy1qL7YYw7nj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontSize=12;" edge="1" parent="1" source="Yvmjrc3NYy1qL7YYw7nj-60" target="Yvmjrc3NYy1qL7YYw7nj-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvmjrc3NYy1qL7YYw7nj-60" value="检查保存失败的分段，并记录日志" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="312" y="5338" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
