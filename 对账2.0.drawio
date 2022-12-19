@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T09:38:12.817Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="BhCjTt2ApW53a5njLm4s" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T09:42:03.147Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="33mXk0bNoebZzRAv_ipq" type="github">
   <diagram id="4bPIOxXS7Ri6mOKR6sBD" name="第 1 页">
     <mxGraphModel dx="1306" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NlrVx7OgdfCODWQ9weZM-24" value="Palmpay" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=21;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-24" value="Palmpay" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9933FF;fontSize=21;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="160" y="20" width="740" height="360" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-6" value="支付渠道" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;verticalAlign=top;fontSize=20;fontStyle=1" vertex="1" parent="1">
@@ -80,6 +80,21 @@
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-25" value="资金流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="50" y="420" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-26" value="Palmpay" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9933FF;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="240" y="880" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-27" value="支付渠道" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="602" y="880" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-28" value="信息流&amp;nbsp; 描述&amp;nbsp; 资金流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="820" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-29" value="支付流水" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="305" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-30" value="账户变动流水" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="660.5" y="930" width="133" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
