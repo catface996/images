@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T03:32:43.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="FiuLZHS83i1RHGtj097z" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T03:33:04.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="C6OdnraQXb8FvztC78h8" type="github">
   <diagram id="4bPIOxXS7Ri6mOKR6sBD" name="第 1 页">
     <mxGraphModel dx="1306" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,40 +182,40 @@
           <mxGeometry x="1135" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-68" value="账务系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="1705" width="645.75" height="590" as="geometry" />
+          <mxGeometry x="1560" y="1610" width="645.75" height="590" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-69" value="C端账户" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1672" y="1775" width="163.75" height="300" as="geometry" />
+          <mxGeometry x="1592" y="1680" width="163.75" height="300" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-70" value="B端账户" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1865.75" y="1775" width="170" height="300" as="geometry" />
+          <mxGeometry x="1785.75" y="1680" width="170" height="300" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-71" value="Palmpay账户" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2065.75" y="1775" width="180" height="300" as="geometry" />
+          <mxGeometry x="1985.75" y="1680" width="180" height="300" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-72" value="余额" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1693.88" y="1825" width="120" height="60" as="geometry" />
+          <mxGeometry x="1613.88" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-73" value="余额" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1890.75" y="1825" width="120" height="60" as="geometry" />
+          <mxGeometry x="1810.75" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-74" value="本金" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2095.75" y="1825" width="120" height="60" as="geometry" />
+          <mxGeometry x="2015.75" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-75" value="手续费" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2095.75" y="1905" width="120" height="60" as="geometry" />
+          <mxGeometry x="2015.75" y="1810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-76" value="佣金" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2095.75" y="1985" width="120" height="60" as="geometry" />
+          <mxGeometry x="2015.75" y="1890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-77" value="账户流水" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1672" y="2115" width="583.75" height="140" as="geometry" />
+          <mxGeometry x="1592" y="2020" width="583.75" height="140" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-78" value="入账流水" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1715.75" y="2165" width="120" height="60" as="geometry" />
+          <mxGeometry x="1635.75" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-79" value="出账流水" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1890.75" y="2165" width="120" height="60" as="geometry" />
+          <mxGeometry x="1810.75" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-81" value="计费快照" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="690" y="2030" width="120" height="60" as="geometry" />
