@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T03:40:03.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="47l3RDpmWxH_ECxWScCh" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T03:40:33.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="_mdwxHgzlzI32EU4tgrW" type="github">
   <diagram id="4bPIOxXS7Ri6mOKR6sBD" name="第 1 页">
     <mxGraphModel dx="1306" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,9 +138,6 @@
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-69-128.png;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="942" y="252" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="NlrVx7OgdfCODWQ9weZM-54" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-55" value="计费系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="160" y="1520" width="360" height="310" as="geometry" />
