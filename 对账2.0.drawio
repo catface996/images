@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T03:33:04.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="C6OdnraQXb8FvztC78h8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T03:33:50.745Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="3w7en__ZTqZhHHUXeNNC" type="github">
   <diagram id="4bPIOxXS7Ri6mOKR6sBD" name="第 1 页">
     <mxGraphModel dx="1306" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,19 +217,19 @@
         <mxCell id="NlrVx7OgdfCODWQ9weZM-79" value="出账流水" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1810.75" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NlrVx7OgdfCODWQ9weZM-81" value="计费快照" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-81" value="计费快照" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="2030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NlrVx7OgdfCODWQ9weZM-82" value="交易快照" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-82" value="交易快照" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NlrVx7OgdfCODWQ9weZM-84" value="支付流水" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-84" value="支付流水" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="2030" width="170" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="NlrVx7OgdfCODWQ9weZM-85" value="现金" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-85" value="现金" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="875" y="2075" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NlrVx7OgdfCODWQ9weZM-86" value="卡券积分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-86" value="卡券积分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="875" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-87" value="Palmpay侧" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
