@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T09:48:04.623Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="VbvljtRulR47jDEszvXT" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T01:48:55.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="auRXUSAqq_CiLqKIo0Gi" type="github">
   <diagram id="4bPIOxXS7Ri6mOKR6sBD" name="第 1 页">
     <mxGraphModel dx="1306" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,13 +16,16 @@
         <mxCell id="NlrVx7OgdfCODWQ9weZM-6" value="支付渠道" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;verticalAlign=top;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="920" y="20" width="180" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="NlrVx7OgdfCODWQ9weZM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NlrVx7OgdfCODWQ9weZM-1" target="NlrVx7OgdfCODWQ9weZM-2">
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NlrVx7OgdfCODWQ9weZM-1" target="NlrVx7OgdfCODWQ9weZM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-1" value="C端用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="120" width="30" height="60" as="geometry" />
+          <mxGeometry x="70" y="125" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NlrVx7OgdfCODWQ9weZM-2" target="NlrVx7OgdfCODWQ9weZM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="NlrVx7OgdfCODWQ9weZM-2" target="NlrVx7OgdfCODWQ9weZM-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-2" value="palmpay app" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#9933FF;" vertex="1" parent="1">
@@ -120,6 +123,9 @@
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-35" value="palmpay收款账户" style="image;html=1;image=img/lib/clip_art/finance/Credit_Card_128x128.png;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="666.25" y="1220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-39" value="计费系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
