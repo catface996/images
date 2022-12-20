@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T02:36:00.039Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="-JN_Ea_dUFarSK99AfsV" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T03:24:38.825Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="SK2Dxc39w14yheW8SDxo" type="github">
   <diagram id="4bPIOxXS7Ri6mOKR6sBD" name="第 1 页">
     <mxGraphModel dx="1306" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,6 +153,54 @@
         </mxCell>
         <mxCell id="NlrVx7OgdfCODWQ9weZM-60" value="折扣" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="365" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-61" value="交易系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1520" width="380" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-62" value="计费快照" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="626.25" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-63" value="交易快照" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="626.25" y="1694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-64" value="支付系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1520" width="380" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-65" value="支付流水" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1600" width="170" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-66" value="现金" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="1645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-67" value="卡券积分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-68" value="账务系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="594.25" y="1970" width="645.75" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-69" value="C端账户" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="626.25" y="2040" width="163.75" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-70" value="B端账户" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="820" y="2040" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-71" value="Palmpay账户" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="2040" width="180" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-72" value="余额" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="648.13" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-73" value="余额" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="845" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-74" value="本金" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-75" value="手续费" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="2170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrVx7OgdfCODWQ9weZM-76" value="佣金" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="2250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
