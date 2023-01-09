@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T08:28:39.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="d341gho--fePzw8ZSjVn" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T08:31:42.560Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="PuvJGjN9tJeEY3NMzw7G" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1187" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q5BtTwWZ9gBS2KeyRRET-2" target="q5BtTwWZ9gBS2KeyRRET-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-2" value="pay-route&lt;br&gt;法币" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-2" value="pay-route&lt;br&gt;法币" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="150" y="-750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-3" value="积分（points）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -73,16 +73,16 @@
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="q5BtTwWZ9gBS2KeyRRET-11" target="q5BtTwWZ9gBS2KeyRRET-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-11" value="ng-channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-11" value="ng-channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-12" value="tz-channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-12" value="tz-channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-13" value="gh-channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-13" value="gh-channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="510" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-14" value="...-channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-14" value="...-channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="700" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;startArrow=none;" edge="1" parent="1" source="q5BtTwWZ9gBS2KeyRRET-23" target="q5BtTwWZ9gBS2KeyRRET-1">
@@ -119,12 +119,12 @@
           <mxGeometry x="385" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-41" value="pay-route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="870" height="740" as="geometry" />
+          <mxGeometry x="80" y="20" width="870" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-42" value="接入层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="250" y="150" width="500" height="60" as="geometry" />
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-42" value="接入层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="250" y="80" width="500" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-45" value="路由层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-45" value="路由层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="250" y="230" width="500" height="420" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-46" value="多国路由" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
@@ -139,23 +139,29 @@
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-49" value="其他路由策略" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="270" y="555" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-50" value="渠道SPI代理层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-50" value="渠道SPI代理层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="250" y="690" width="500" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-51" value="渠道注册&lt;br&gt;1.多国配置&lt;br&gt;2.稳定性配置&lt;br&gt;3.费率配置&lt;br&gt;4.SPI配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-51" value="渠道注册&lt;br&gt;1.多国配置&lt;br&gt;2.稳定性配置&lt;br&gt;3.费率配置&lt;br&gt;4.SPI配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="780" y="230" width="130" height="520" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="120" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-53" value="入口流量监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="120" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-53" value="入口流量监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-54" value="路由决策监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-54" value="路由决策监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="120" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-55" value="渠道调用监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-55" value="渠道调用监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-56" value="palmpay调用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="130" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-57" value="渠道回调" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="530" y="130" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
