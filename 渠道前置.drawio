@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T08:43:16.972Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="-ACP2ES4u7gBj8AmCObQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T03:10:13.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="b-uG2m5K_BkrnPYFQGC5" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="ç¬¬ 1 é¡µ">
     <mxGraphModel dx="1187" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-61" value="æ ‡å‡†ä¸€ï¼špay-routeæŽ¥å…¥å±‚&lt;br&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;éœ€è¦äº§å“ååŠ©æŠ½è±¡&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="45" y="890" width="950" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-39" value="í ¼í·³í ¼í·¬í ¼í·¹í ¼í·¿í ¼í·¬í ¼í·­&lt;br&gt;å¤šå›½æœ¬åœ°å›¢é˜Ÿ&lt;br&gt;Africa" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=right;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-39" value="í ¼í·³í ¼í·¬í ¼í·¹í ¼í·¿í ¼í·¬í ¼í·­&lt;br&gt;å¤šå›½æœ¬åœ°å›¢é˜Ÿ&lt;br&gt;Africa" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=right;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="70" y="-560" width="900" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-38" value="í ¼í·¨í ¼í·³&lt;br&gt;å›½å†…å›¢é˜Ÿ&lt;br&gt;China" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=right;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-38" value="í ¼í·¨í ¼í·³&lt;br&gt;å›½å†…å›¢é˜Ÿ&lt;br&gt;China" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=right;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="70" y="-1140" width="900" height="560" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-32" value="Nigeria" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
@@ -58,7 +58,7 @@
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q5BtTwWZ9gBS2KeyRRET-2" target="q5BtTwWZ9gBS2KeyRRET-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-2" value="pay-route&lt;br&gt;æ³•å¸" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-2" value="pay-route&lt;br&gt;æ³•å¸" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="150" y="-750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-3" value="ç§¯åˆ†ï¼ˆpointsï¼‰" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -76,16 +76,16 @@
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="q5BtTwWZ9gBS2KeyRRET-11" target="q5BtTwWZ9gBS2KeyRRET-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-11" value="ng-channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-11" value="ng-channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="130" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-12" value="tz-channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-12" value="tz-channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="320" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-13" value="gh-channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-13" value="gh-channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="510" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-14" value="...-channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-14" value="...-channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="700" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;startArrow=none;" edge="1" parent="1" source="q5BtTwWZ9gBS2KeyRRET-23" target="q5BtTwWZ9gBS2KeyRRET-1">
