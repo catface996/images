@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T08:01:15.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="sDUglK6uqy07_tTZv-jY" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T08:02:43.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="LNG2t7XPmuENyHc-L13M" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1187" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,13 +140,13 @@
           <mxGeometry x="270" y="280" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-47" value="稳定性路由" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="270" y="380" width="460" height="60" as="geometry" />
+          <mxGeometry x="270" y="370" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-48" value="费率路由" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="270" y="470" width="460" height="60" as="geometry" />
+          <mxGeometry x="270" y="460" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-49" value="其他路由策略" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="270" y="555" width="460" height="60" as="geometry" />
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-49" value="用户白名单路由" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="270" y="555" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-50" value="渠道SPI代理调用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="250" y="690" width="500" height="60" as="geometry" />
@@ -300,6 +300,9 @@
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-112" value="pay-route标准回调接口调用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="645" y="2418" width="295" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-116" value="流量百分比路由" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="460" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
