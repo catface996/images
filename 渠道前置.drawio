@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T07:51:07.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="9jc17IQgICJsFuHiw0BN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T08:01:15.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="sDUglK6uqy07_tTZv-jY" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1187" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-94" value="x-channel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2338" width="905" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="2388" width="350" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-61" value="标准一：pay-route接入层&lt;br&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;需要产品协助抽象&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="45" y="890" width="950" height="680" as="geometry" />
         </mxCell>
@@ -241,23 +247,59 @@
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-93" value="场景..." style="ellipse;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="775" y="1997" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-94" value="x-channel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2240" width="960" height="400" as="geometry" />
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-105" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;fontColor=#000000;startArrow=none;startFill=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="q5BtTwWZ9gBS2KeyRRET-95" target="q5BtTwWZ9gBS2KeyRRET-96">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-95" value="pay-route spi实现" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="350" y="2300" width="600" height="60" as="geometry" />
+          <mxGeometry x="277.5" y="2418" width="295" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-106" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;fontColor=#000000;startArrow=none;startFill=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="q5BtTwWZ9gBS2KeyRRET-96" target="q5BtTwWZ9gBS2KeyRRET-97">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-96" value="spi实现--&amp;gt;第三方渠道映射" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="350" y="2400" width="600" height="60" as="geometry" />
+          <mxGeometry x="277.5" y="2518" width="295" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-111" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;fontColor=#000000;startArrow=none;startFill=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="q5BtTwWZ9gBS2KeyRRET-97" target="q5BtTwWZ9gBS2KeyRRET-109">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-97" value="第三方渠道调用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="350" y="2500" width="600" height="60" as="geometry" />
+          <mxGeometry x="277.5" y="2618" width="295" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-98" value="灰度能力" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="100" y="2300" width="90" height="260" as="geometry" />
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-99" value="TPS验证&lt;br&gt;容量验证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2388" width="90" height="322" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-99" value="TPS验证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="210" y="2300" width="90" height="260" as="geometry" />
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="615" y="2388" width="350" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-113" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontSize=17;fontColor=#000000;startArrow=none;startFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="q5BtTwWZ9gBS2KeyRRET-103" target="q5BtTwWZ9gBS2KeyRRET-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-103" value="第三方渠道回调" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="645" y="2618" width="295" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-114" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontSize=17;fontColor=#000000;startArrow=none;startFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="q5BtTwWZ9gBS2KeyRRET-104" target="q5BtTwWZ9gBS2KeyRRET-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-104" value="回调--&amp;gt;pay-route标准回调映射" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="648" y="2518" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-108" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;fontColor=#000000;startArrow=none;startFill=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="q5BtTwWZ9gBS2KeyRRET-107" target="q5BtTwWZ9gBS2KeyRRET-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-107" value="pay-route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="530" y="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-110" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=17;fontColor=#000000;startArrow=none;startFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="q5BtTwWZ9gBS2KeyRRET-109" target="q5BtTwWZ9gBS2KeyRRET-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-109" value="第三方渠道" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-115" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontSize=17;fontColor=#000000;startArrow=none;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="q5BtTwWZ9gBS2KeyRRET-112" target="q5BtTwWZ9gBS2KeyRRET-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-112" value="pay-route标准回调接口调用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="645" y="2418" width="295" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
