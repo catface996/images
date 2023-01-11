@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T07:50:47.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="p1iWwUnvEMN03xCP4ta2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T07:51:07.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="9jc17IQgICJsFuHiw0BN" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1187" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-93" value="场景..." style="ellipse;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="775" y="1997" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-94" value="x-channel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-94" value="x-channel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="40" y="2240" width="960" height="400" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-95" value="pay-route spi实现" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
@@ -254,10 +254,10 @@
           <mxGeometry x="350" y="2500" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-98" value="灰度能力" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="50" y="2300" width="90" height="260" as="geometry" />
+          <mxGeometry x="100" y="2300" width="90" height="260" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-99" value="TPS验证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2300" width="90" height="260" as="geometry" />
+          <mxGeometry x="210" y="2300" width="90" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
