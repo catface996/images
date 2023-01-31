@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T05:52:10.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="O-dDWxJYLFd9ETR6t4Si" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T02:31:07.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Vuz79XtmW55J-qfQcGYL" version="20.8.13" type="github">
   <diagram id="64ADKAVjYD1-oNhS0CQX" name="第 1 页">
     <mxGraphModel dx="2009" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -368,24 +368,6 @@
         <mxCell id="bzgshtGKe2SA54a5qkRp-132" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="435" y="2130" width="135" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="31NHZx_SUU9tBCT4PPjY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="bzgshtGKe2SA54a5qkRp-133" target="bzgshtGKe2SA54a5qkRp-135">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="503" y="2300" />
-              <mxPoint x="580" y="2300" />
-              <mxPoint x="580" y="2425" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="31NHZx_SUU9tBCT4PPjY-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="bzgshtGKe2SA54a5qkRp-133" target="bzgshtGKe2SA54a5qkRp-134">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="503" y="2340" />
-              <mxPoint x="580" y="2340" />
-              <mxPoint x="580" y="2515" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bzgshtGKe2SA54a5qkRp-133" value="nginx&amp;nbsp;172.29.204.127" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
           <mxGeometry x="489" y="2150" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
@@ -487,6 +469,12 @@
         </mxCell>
         <mxCell id="bzgshtGKe2SA54a5qkRp-155" value="国际专线 两条" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vpn;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="738" y="2458" width="77" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="31NHZx_SUU9tBCT4PPjY-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="bzgshtGKe2SA54a5qkRp-156" target="bzgshtGKe2SA54a5qkRp-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31NHZx_SUU9tBCT4PPjY-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="bzgshtGKe2SA54a5qkRp-156" target="bzgshtGKe2SA54a5qkRp-134">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bzgshtGKe2SA54a5qkRp-156" value="IP Sec VPN" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_globe.svg;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="765" y="2150" width="50" height="50" as="geometry" />
