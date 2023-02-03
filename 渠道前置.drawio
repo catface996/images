@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T07:47:04.963Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="yzuDa-cKff65hbMwKLcJ" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T07:52:25.849Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="q2Bzx1dFIgXcSkptbnLH" version="20.8.13" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1451" dy="2098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -470,7 +470,7 @@
         <mxCell id="JKctcm6P6C5rP0Paap2u-42" value="&lt;h1&gt;&lt;font color=&quot;#ff0000&quot;&gt;劣势&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;1.路由决策引擎依赖路由配置，依赖指标，易故障（相对于方案二）&lt;/div&gt;&lt;div&gt;2.路由决策故障易导致渠道路由失败&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1410" y="630" width="320" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="JKctcm6P6C5rP0Paap2u-43" value="&lt;h1&gt;&lt;font color=&quot;#009900&quot;&gt;优势&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;1.决策结果表不强依赖路由决策，即使路由决策故障，决策结果表可兜底。&lt;/div&gt;&lt;div&gt;2.易于实现人工和智能路由规则的配置。&lt;/div&gt;&lt;div&gt;3.路由决策可独立开发，独立部署。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="JKctcm6P6C5rP0Paap2u-43" value="&lt;h1&gt;&lt;font color=&quot;#009900&quot;&gt;优势&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;1.决策结果表不强依赖路由决策，即使路由决策故障，决策结果表可兜底。&lt;/div&gt;&lt;div&gt;2.易于实现人工和智能路由规则的配置。&lt;/div&gt;&lt;div&gt;3.路由决策可独立开发，独立部署。&lt;/div&gt;&lt;div&gt;4.易于灰度，决策结果推送，人工确认生效。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1880" y="630" width="340" height="190" as="geometry" />
         </mxCell>
         <mxCell id="JKctcm6P6C5rP0Paap2u-44" value="&lt;h1&gt;&lt;font color=&quot;#ff0000&quot;&gt;劣势&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;1.在高并发情况下，路由决策结果无法及时作用到支付单（相对于方案一）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
