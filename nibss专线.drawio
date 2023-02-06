@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T02:38:35.685Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="DfkgrvQtd1Ga90Ku3oiI" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T13:01:28.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="aYosNdWAeZIZfBy-ITxW" version="20.8.13" type="github">
   <diagram id="64ADKAVjYD1-oNhS0CQX" name="第 1 页">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,7 +244,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bzgshtGKe2SA54a5qkRp-94" value="nginx&amp;nbsp;10.7.1.6" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
+        <mxCell id="bzgshtGKe2SA54a5qkRp-94" value="nginx&amp;nbsp;10.7.1.6(内网)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;154.113.6.178(外网)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
           <mxGeometry x="1396" y="1450" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bzgshtGKe2SA54a5qkRp-117" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#82b366;strokeWidth=2;fontSize=26;fillColor=#d5e8d4;" parent="1" source="bzgshtGKe2SA54a5qkRp-97" target="bzgshtGKe2SA54a5qkRp-109" edge="1">
@@ -255,7 +255,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bzgshtGKe2SA54a5qkRp-97" value="nginx&amp;nbsp;10.7.1.7" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
+        <mxCell id="bzgshtGKe2SA54a5qkRp-97" value="nginx&amp;nbsp;10.7.1.7(内网)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;154.113.6.168(外网)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
           <mxGeometry x="1396" y="1540" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bzgshtGKe2SA54a5qkRp-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="bzgshtGKe2SA54a5qkRp-78" target="bzgshtGKe2SA54a5qkRp-87" edge="1">
@@ -419,7 +419,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bzgshtGKe2SA54a5qkRp-145" value="nginx&amp;nbsp;10.7.1.6" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
+        <mxCell id="bzgshtGKe2SA54a5qkRp-145" value="nginx&amp;nbsp;10.7.1.6(内网)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;154.113.6.178(外网)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
           <mxGeometry x="1396" y="2400" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bzgshtGKe2SA54a5qkRp-146" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#82b366;strokeWidth=2;fontSize=26;fillColor=#d5e8d4;" parent="1" source="bzgshtGKe2SA54a5qkRp-147" target="bzgshtGKe2SA54a5qkRp-156" edge="1">
@@ -430,7 +430,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bzgshtGKe2SA54a5qkRp-147" value="nginx&amp;nbsp;10.7.1.7" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
+        <mxCell id="bzgshtGKe2SA54a5qkRp-147" value="nginx&amp;nbsp;10.7.1.7(内网)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;154.113.6.168(外网)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
           <mxGeometry x="1396" y="2490" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bzgshtGKe2SA54a5qkRp-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="bzgshtGKe2SA54a5qkRp-133" target="bzgshtGKe2SA54a5qkRp-138" edge="1">
@@ -608,7 +608,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="31NHZx_SUU9tBCT4PPjY-28" value="nginx&amp;nbsp;10.7.1.6" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
+        <mxCell id="31NHZx_SUU9tBCT4PPjY-28" value="nginx&amp;nbsp;10.7.1.6(内网)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;154.113.6.178(外网)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
           <mxGeometry x="1396" y="3320" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="31NHZx_SUU9tBCT4PPjY-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#82b366;strokeWidth=2;fontSize=26;fillColor=#d5e8d4;" parent="1" source="31NHZx_SUU9tBCT4PPjY-30" target="31NHZx_SUU9tBCT4PPjY-41" edge="1">
@@ -627,7 +627,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="31NHZx_SUU9tBCT4PPjY-30" value="nginx&amp;nbsp;10.7.1.7" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
+        <mxCell id="31NHZx_SUU9tBCT4PPjY-30" value="nginx&amp;nbsp;10.7.1.7(内网)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;154.113.6.168(外网)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
           <mxGeometry x="1396" y="3410" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="31NHZx_SUU9tBCT4PPjY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="31NHZx_SUU9tBCT4PPjY-14" target="31NHZx_SUU9tBCT4PPjY-21" edge="1">
