@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T10:46:55.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="b-Ce5vOdadZqFVCClVSh" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T10:48:11.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="R59MGyii9VT38nB-5HZB" version="20.8.13" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1434" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -583,7 +583,7 @@
         <mxCell id="coelvOtr9oTJT-cIlqe5-33" value="HUAWEI Cloud&lt;br&gt;Tanzania" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2340" y="-530" width="180" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-34" value="ng-channel&lt;br&gt;标准接口实现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-34" value="ng-channel&lt;br&gt;标准SPI接口实现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2180" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-35" value="tz-channel&lt;br&gt;标准接口实现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -621,7 +621,7 @@
         <mxCell id="coelvOtr9oTJT-cIlqe5-43" value="pay-route" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2280" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.35;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="coelvOtr9oTJT-cIlqe5-46" target="coelvOtr9oTJT-cIlqe5-38">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.35;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="coelvOtr9oTJT-cIlqe5-46" target="coelvOtr9oTJT-cIlqe5-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-48" value="配置方式调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="coelvOtr9oTJT-cIlqe5-47">
@@ -632,10 +632,7 @@
         <mxCell id="coelvOtr9oTJT-cIlqe5-46" value="paynet-switch-center" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2530" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-49" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2250" y="-750" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-52" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-52" value="标准SPI定义" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="2580" y="-860" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
