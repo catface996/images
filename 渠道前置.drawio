@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T11:34:36.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sfWKjzWiFY28rMr8cGCN" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-14T02:04:28.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Cem7_2a0n3tndUCZI4bv" version="20.8.13" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1593" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -756,13 +756,16 @@
           <mxGeometry x="1100" y="2338" width="470" height="400" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-91" value="渠道订单持久化，幂等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="2418" width="340" height="60" as="geometry" />
+          <mxGeometry x="1165" y="2418" width="385" height="60" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-92" value="渠道订单状态推进" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="2518" width="340" height="60" as="geometry" />
+          <mxGeometry x="1165" y="2518" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-93" value="渠道订单发送到第三方渠道" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="2618" width="340" height="60" as="geometry" />
+          <mxGeometry x="1165" y="2618" width="385" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="coelvOtr9oTJT-cIlqe5-94" value="状态变更异步通知" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="2518" width="185" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
