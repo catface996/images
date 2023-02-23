@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T07:11:18.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="L7TZiKpdvUpo8wXU-lKW" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T07:32:49.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="-E7zTzc2rn5nAETqEIMX" version="20.8.20" type="github">
   <diagram name="第 1 页" id="JsFVFnQjQQqzFxVrbvde">
     <mxGraphModel dx="1306" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-76" value="兜底方案" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2210" width="1080" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-98" value="Nigeria" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="545" y="2260" width="555" height="560" as="geometry" />
+        </mxCell>
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-52" value="优化方案" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="40" y="1280" width="1080" height="890" as="geometry" />
         </mxCell>
@@ -16,16 +22,16 @@
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-3" value="法兰克福（Frankfurt）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="480" y="90" width="280" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-4" value="拉各斯（Logas）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-4" value="拉各斯（Logas）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="800" y="90" width="280" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-5" value="AWS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-5" value="AWS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="90" y="110" width="330" height="260" as="geometry" />
         </mxCell>
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-6" value="POSP" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" vertex="1" parent="1">
           <mxGeometry x="280" y="210" width="24" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-8" value="Aliyun" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-8" value="Aliyun" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="117.5" width="275" height="235" as="geometry" />
         </mxCell>
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-7" value="tcp代理" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" vertex="1" parent="1">
@@ -70,7 +76,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-2/24/pos-128.png;imageBackground=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-16" value="POS机" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-2/24/pos-128.png;imageBackground=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="371" y="1080" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-21" value="NIBSS" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" vertex="1" parent="1">
@@ -106,10 +112,10 @@
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-30" value="爱尔兰（Ireland）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="60" y="1340" width="370" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-32" value="拉各斯（Logas）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-32" value="拉各斯（Logas）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="790" y="1340" width="280" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-33" value="AWS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-33" value="AWS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="80" y="1360" width="330" height="260" as="geometry" />
         </mxCell>
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-34" value="POSP" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" vertex="1" parent="1">
@@ -124,7 +130,12 @@
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="mW-XwAZCUUG-4dTvZ9Kb-40" target="mW-XwAZCUUG-4dTvZ9Kb-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-2/24/pos-128.png;imageBackground=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-77" value="收单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="mW-XwAZCUUG-4dTvZ9Kb-39">
+          <mxGeometry x="-0.1433" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-40" value="POS机" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-2/24/pos-128.png;imageBackground=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="907" y="1560" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="mW-XwAZCUUG-4dTvZ9Kb-34" target="mW-XwAZCUUG-4dTvZ9Kb-48">
@@ -214,8 +225,71 @@
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-69" value="NIBSS" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" vertex="1" parent="1">
           <mxGeometry x="976" y="1839" width="24" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-76" value="兜底方案" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2210" width="1080" height="890" as="geometry" />
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-79" value="爱尔兰（Ireland）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="2260" width="370" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-80" value="AWS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2280" width="330" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-81" value="POSP" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" vertex="1" parent="1">
+          <mxGeometry x="280" y="2380" width="24" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-82" value="拉各斯（Logas）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="562" y="2310" width="528" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-84" value="MainOne" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="721" y="2380" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-85" value="NIBSS" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" vertex="1" parent="1">
+          <mxGeometry x="816" y="2395" width="24" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-89" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="mW-XwAZCUUG-4dTvZ9Kb-86" target="mW-XwAZCUUG-4dTvZ9Kb-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-90" value="1.收单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="mW-XwAZCUUG-4dTvZ9Kb-89">
+          <mxGeometry x="-0.1534" y="-44" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-93" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="mW-XwAZCUUG-4dTvZ9Kb-89">
+          <mxGeometry x="0.4585" y="-70" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-95" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="mW-XwAZCUUG-4dTvZ9Kb-86" target="mW-XwAZCUUG-4dTvZ9Kb-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-96" value="TCP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="mW-XwAZCUUG-4dTvZ9Kb-95">
+          <mxGeometry x="-0.1162" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-97" value="3.请求NIBSS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="mW-XwAZCUUG-4dTvZ9Kb-95">
+          <mxGeometry x="-0.303" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-86" value="POS机" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-2/24/pos-128.png;imageBackground=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="675" y="2700" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-87" value="POS机" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-2/24/pos-128.png;imageBackground=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="940" y="2730" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-88" value="POS机" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-2/24/pos-128.png;imageBackground=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="952" y="2510" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-91" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="mW-XwAZCUUG-4dTvZ9Kb-81" target="mW-XwAZCUUG-4dTvZ9Kb-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-92" value="2.支付密文" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="mW-XwAZCUUG-4dTvZ9Kb-91">
+          <mxGeometry x="-0.1554" y="-8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-94" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="mW-XwAZCUUG-4dTvZ9Kb-91">
+          <mxGeometry x="0.0231" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
