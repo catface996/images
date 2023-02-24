@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T08:37:22.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UrTUUbILYyynBpa1PS6D" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T08:39:29.043Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xF7cWrn3w4uMG2p5oY1x" version="20.8.23" type="github">
   <diagram name="第 1 页" id="JsFVFnQjQQqzFxVrbvde">
     <mxGraphModel dx="1088" dy="1866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,7 +141,7 @@
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.986;entryY=0.763;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" parent="1" source="mW-XwAZCUUG-4dTvZ9Kb-40" target="mW-XwAZCUUG-4dTvZ9Kb-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-77" value="HTTP request&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="mW-XwAZCUUG-4dTvZ9Kb-39" vertex="1" connectable="0">
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-77" value="HTTP&lt;br&gt;1.send create order request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="mW-XwAZCUUG-4dTvZ9Kb-39" vertex="1" connectable="0">
           <mxGeometry x="-0.1433" y="-5" relative="1" as="geometry">
             <mxPoint x="14" y="-8" as="offset" />
           </mxGeometry>
@@ -165,13 +165,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-50" value="1.HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mW-XwAZCUUG-4dTvZ9Kb-41" vertex="1" connectable="0">
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-50" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="mW-XwAZCUUG-4dTvZ9Kb-41" vertex="1" connectable="0">
           <mxGeometry x="-0.0224" y="13" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="9" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zezhGnaJwtV398cyJZ45-18" value="leased line&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mW-XwAZCUUG-4dTvZ9Kb-41">
           <mxGeometry x="0.2049" y="-19" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zezhGnaJwtV398cyJZ45-44" value="2.send request encrypted for NIBSS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="mW-XwAZCUUG-4dTvZ9Kb-41">
+          <mxGeometry x="-0.1244" y="13" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
