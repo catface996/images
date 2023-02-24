@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T08:11:37.828Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="iFz0BvffvwvhNbgaWFqC" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T08:12:36.437Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="kfbknIkEHQptTM5d6J63" version="20.8.23" type="github">
   <diagram name="第 1 页" id="JsFVFnQjQQqzFxVrbvde">
     <mxGraphModel dx="1088" dy="1866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -190,9 +190,9 @@
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=-0.071;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=1;fontSize=16;dashed=1;" parent="1" source="mW-XwAZCUUG-4dTvZ9Kb-55" target="mW-XwAZCUUG-4dTvZ9Kb-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-63" value="幂等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="mW-XwAZCUUG-4dTvZ9Kb-59" vertex="1" connectable="0">
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-63" value="idempotent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="mW-XwAZCUUG-4dTvZ9Kb-59" vertex="1" connectable="0">
           <mxGeometry x="-0.0192" y="-13" relative="1" as="geometry">
-            <mxPoint x="12" y="33" as="offset" />
+            <mxPoint x="12" y="52" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-71" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=2;fontSize=16;" parent="1" source="mW-XwAZCUUG-4dTvZ9Kb-55" target="mW-XwAZCUUG-4dTvZ9Kb-69" edge="1">
