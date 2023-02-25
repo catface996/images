@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T03:33:50.312Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qcOoDPyXn9bIGbbAGP7E" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T03:34:03.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="VI2Krc0fCvZeJse0aOR_" version="20.8.23" type="github">
   <diagram name="第 1 页" id="DVFmI6osQzUwB4YthNxx">
     <mxGraphModel dx="1306" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="RubAwYdfnnHtyNUK6HA--31" value="日志记录接收到重复入金&lt;br&gt;级别：WARN" style="rounded=0;whiteSpace=wrap;html=1;" parent="RubAwYdfnnHtyNUK6HA--3" vertex="1">
           <mxGeometry x="40" y="271" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RubAwYdfnnHtyNUK6HA--6" value="扩展业务规则" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RubAwYdfnnHtyNUK6HA--6" value="扩展业务逻辑" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="160" width="200" height="490" as="geometry" />
         </mxCell>
         <mxCell id="RubAwYdfnnHtyNUK6HA--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="RubAwYdfnnHtyNUK6HA--6" source="RubAwYdfnnHtyNUK6HA--5" target="RubAwYdfnnHtyNUK6HA--7" edge="1">
