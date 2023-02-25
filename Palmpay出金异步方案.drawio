@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T10:17:29.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CCsY78qXFJlxo8GLPczp" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T10:17:41.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6zYb_3mOTL2C4uDqZBaW" version="20.8.23" type="github">
   <diagram name="第 1 页" id="Jk1bQOxPS3HD9sCwl8Wc">
     <mxGraphModel dx="1136" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
         <mxCell id="ZcJrrVffbv_kd-z43Npl-32" value="调度执行器&lt;br&gt;条件触发&lt;br&gt;or&lt;br&gt;周期触发" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ZcJrrVffbv_kd-z43Npl-3">
           <mxGeometry x="254" y="850" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZcJrrVffbv_kd-z43Npl-36" value="指定渠道的限流" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="ZcJrrVffbv_kd-z43Npl-3">
+        <mxCell id="ZcJrrVffbv_kd-z43Npl-36" value="指定渠道的限流" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ZcJrrVffbv_kd-z43Npl-3">
           <mxGeometry x="13" y="565" width="330" height="425" as="geometry" />
         </mxCell>
         <mxCell id="ZcJrrVffbv_kd-z43Npl-4" value="xx渠道接入网关" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
