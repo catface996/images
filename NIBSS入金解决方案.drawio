@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T08:56:51.208Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0ZVXnqePkH8YaEGyxldC" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T08:58:41.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="LLgy64UXGM0EIk9FkUfh" version="20.8.23" type="github">
   <diagram name="第 1 页" id="DVFmI6osQzUwB4YthNxx">
     <mxGraphModel dx="768" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -538,6 +538,9 @@
         </mxCell>
         <mxCell id="w1pWEiKStRJaA9r7xI7A-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w1pWEiKStRJaA9r7xI7A-114" target="RubAwYdfnnHtyNUK6HA--25">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1pWEiKStRJaA9r7xI7A-119" value="兼容原有的mongodb存储，供原有详情接口使用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="159" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
