@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T03:40:16.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zZsCa1udBUvq7nFo8gMc" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T03:40:53.185Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="t1OmWCzzIE214IAe7KWM" version="20.8.23" type="github">
   <diagram name="第 1 页" id="DVFmI6osQzUwB4YthNxx">
     <mxGraphModel dx="1306" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -314,6 +314,9 @@
         </mxCell>
         <mxCell id="w1pWEiKStRJaA9r7xI7A-62" value="记录日志并告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w1pWEiKStRJaA9r7xI7A-38">
           <mxGeometry x="13" y="409" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1pWEiKStRJaA9r7xI7A-74" value="不存在的可能原因，订单已经被归档" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w1pWEiKStRJaA9r7xI7A-38">
+          <mxGeometry x="-50" y="150" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w1pWEiKStRJaA9r7xI7A-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w1pWEiKStRJaA9r7xI7A-47" target="w1pWEiKStRJaA9r7xI7A-39">
           <mxGeometry relative="1" as="geometry">
