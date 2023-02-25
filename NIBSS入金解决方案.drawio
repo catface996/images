@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T03:34:24.000Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="IqWhe3i8Ix5muxtt9Ezp" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T03:40:16.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zZsCa1udBUvq7nFo8gMc" version="20.8.23" type="github">
   <diagram name="第 1 页" id="DVFmI6osQzUwB4YthNxx">
     <mxGraphModel dx="1306" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -356,22 +356,46 @@
             <mxPoint x="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w1pWEiKStRJaA9r7xI7A-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w1pWEiKStRJaA9r7xI7A-56" target="w1pWEiKStRJaA9r7xI7A-20">
+        <mxCell id="w1pWEiKStRJaA9r7xI7A-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w1pWEiKStRJaA9r7xI7A-56" target="w1pWEiKStRJaA9r7xI7A-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1850" y="690" />
-              <mxPoint x="1571" y="690" />
+              <mxPoint x="1850" y="670" />
+              <mxPoint x="1940" y="670" />
+              <mxPoint x="1940" y="200" />
+              <mxPoint x="2068" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="w1pWEiKStRJaA9r7xI7A-65" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1511" y="820" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w1pWEiKStRJaA9r7xI7A-68" value="抛出异常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w1pWEiKStRJaA9r7xI7A-68" value="抛出特定异常&lt;br&gt;终态不一致" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w1pWEiKStRJaA9r7xI7A-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w1pWEiKStRJaA9r7xI7A-62" target="w1pWEiKStRJaA9r7xI7A-68">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1693" y="670" />
+              <mxPoint x="1730" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w1pWEiKStRJaA9r7xI7A-70" value="通知业务系统状态变更" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1968" y="160" width="200" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="w1pWEiKStRJaA9r7xI7A-71" value="发送MQ消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w1pWEiKStRJaA9r7xI7A-70">
+          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1pWEiKStRJaA9r7xI7A-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w1pWEiKStRJaA9r7xI7A-71" target="w1pWEiKStRJaA9r7xI7A-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2070" y="690" />
+              <mxPoint x="1571" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w1pWEiKStRJaA9r7xI7A-73" value="开始&lt;br&gt;延时消息触发轮询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="40" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
