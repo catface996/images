@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T08:24:45.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="mDgmbTP0iW1qZeuJ8apG" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T08:36:23.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9bGmJP4EtOdd-tjn2neq" version="20.8.23" type="github">
   <diagram name="第 1 页" id="DVFmI6osQzUwB4YthNxx">
     <mxGraphModel dx="768" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,14 +42,20 @@
         <mxCell id="RubAwYdfnnHtyNUK6HA--5" value="记录日志入库成功" style="rounded=0;whiteSpace=wrap;html=1;" parent="RubAwYdfnnHtyNUK6HA--6" vertex="1">
           <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RubAwYdfnnHtyNUK6HA--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="RubAwYdfnnHtyNUK6HA--6" source="RubAwYdfnnHtyNUK6HA--7" target="RubAwYdfnnHtyNUK6HA--8" edge="1">
+        <mxCell id="w1pWEiKStRJaA9r7xI7A-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RubAwYdfnnHtyNUK6HA--6" source="RubAwYdfnnHtyNUK6HA--7" target="w1pWEiKStRJaA9r7xI7A-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RubAwYdfnnHtyNUK6HA--7" value="累计Redis中的pending额度&lt;br&gt;异常保护" style="rounded=0;whiteSpace=wrap;html=1;" parent="RubAwYdfnnHtyNUK6HA--6" vertex="1">
+        <mxCell id="RubAwYdfnnHtyNUK6HA--7" value="累计Redis中的pending额度&lt;br&gt;异常保护" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="RubAwYdfnnHtyNUK6HA--6" vertex="1">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RubAwYdfnnHtyNUK6HA--8" value="发送延时消息&lt;br&gt;RocketMQ&lt;br&gt;异常保护&lt;br&gt;轮询次数：1" style="rounded=0;whiteSpace=wrap;html=1;" parent="RubAwYdfnnHtyNUK6HA--6" vertex="1">
-          <mxGeometry x="40" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1pWEiKStRJaA9r7xI7A-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RubAwYdfnnHtyNUK6HA--6" source="w1pWEiKStRJaA9r7xI7A-107" target="RubAwYdfnnHtyNUK6HA--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1pWEiKStRJaA9r7xI7A-107" value="通知业务系统消息&lt;br&gt;nibss_in_order_status_change&lt;br&gt;pending" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RubAwYdfnnHtyNUK6HA--6">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RubAwYdfnnHtyNUK6HA--9" value="记录入口流量" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="160" width="200" height="490" as="geometry" />
@@ -153,7 +159,14 @@
           <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w1pWEiKStRJaA9r7xI7A-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RubAwYdfnnHtyNUK6HA--8" target="w1pWEiKStRJaA9r7xI7A-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="600" />
+              <mxPoint x="710" y="600" />
+              <mxPoint x="710" y="200" />
+              <mxPoint x="830" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="w1pWEiKStRJaA9r7xI7A-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w1pWEiKStRJaA9r7xI7A-10" target="RubAwYdfnnHtyNUK6HA--14">
           <mxGeometry relative="1" as="geometry">
@@ -386,7 +399,7 @@
         <mxCell id="w1pWEiKStRJaA9r7xI7A-70" value="通知业务系统状态变更" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1968" y="160" width="200" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="w1pWEiKStRJaA9r7xI7A-71" value="发送MQ消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w1pWEiKStRJaA9r7xI7A-70">
+        <mxCell id="w1pWEiKStRJaA9r7xI7A-71" value="发送MQ消息&lt;br&gt;nibss_in_order_status_change&lt;br&gt;success or fail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w1pWEiKStRJaA9r7xI7A-70">
           <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w1pWEiKStRJaA9r7xI7A-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w1pWEiKStRJaA9r7xI7A-71" target="w1pWEiKStRJaA9r7xI7A-20">
