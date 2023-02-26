@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T06:50:54.137Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="3zI4m9Zl2UlwVclVkZK6" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-26T10:59:50.174Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="VslgyDW_IabzpLBXaU6x" version="20.8.23" type="github">
   <diagram name="第 1 页" id="JsFVFnQjQQqzFxVrbvde">
     <mxGraphModel dx="1304" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-40" value="POS机" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-2/24/pos-128.png;imageBackground=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-40" value="POS" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-2/24/pos-128.png;imageBackground=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="760" y="1640" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#b85450;strokeWidth=2;fillColor=#f8cecc;" parent="1" source="mW-XwAZCUUG-4dTvZ9Kb-34" target="zezhGnaJwtV398cyJZ45-13" edge="1">
@@ -567,8 +567,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zezhGnaJwtV398cyJZ45-50" value="第1,2步异常，通过POS机的重试+POSP的幂等来解决&lt;br&gt;第3步分两种情况：&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;3.1 通信失败，可以重新发送&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;3.2 通信成功，未获得响应，即第4步出现异常，调用Reversal&lt;br&gt;第5,6步异常，可以通过重试+POSP幂等来解决" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2790" width="450" height="140" as="geometry" />
+        <mxCell id="zezhGnaJwtV398cyJZ45-50" value="第1,2步异常，通过POS机的重试+POSP的幂等来解决&lt;br&gt;第3步分两种情况：&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;3.1 通信失败，可以重新发送&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;3.2 通信成功，未获得响应，即第4步出现异常，调用Reversal&lt;br&gt;第5,6步异常，可以通过重试+POSP幂等来解决&lt;br&gt;&lt;br&gt;第3步通信成功，第4步异常，即超时，PB&lt;br&gt;第6步返回91，PA" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2790" width="450" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
