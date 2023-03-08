@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T05:46:20.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jJ3Lu7bheHQ0_Mxl8Tzq" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T05:50:40.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="QJAKno1BuFyKd4MRAMqI" version="20.8.23" type="github">
   <diagram name="第 1 页" id="JsFVFnQjQQqzFxVrbvde">
     <mxGraphModel dx="1434" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,10 @@
         <mxCell id="shE-_bD5n5mWNWRbsqsG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="1280" width="960" height="890" as="geometry" />
         </mxCell>
-        <mxCell id="shE-_bD5n5mWNWRbsqsG-5" value="VirtualMachine-1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="shE-_bD5n5mWNWRbsqsG-19" value="VirtualMachine-4&lt;br&gt;2C 4G 50~100G" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1409" width="410" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="shE-_bD5n5mWNWRbsqsG-5" value="VirtualMachine-1&lt;br&gt;4C 8G 100G" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1290" y="1409" width="410" height="210" as="geometry" />
         </mxCell>
         <mxCell id="mW-XwAZCUUG-4dTvZ9Kb-76" value="fallback solution" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;" parent="1" vertex="1">
@@ -580,12 +583,12 @@
           <mxGeometry x="1350" y="1466" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="shE-_bD5n5mWNWRbsqsG-7" value="master" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="1479" width="50" height="42" as="geometry" />
+          <mxGeometry x="1900" y="1479" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="shE-_bD5n5mWNWRbsqsG-8" value="sentinel1" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="1590" y="1479" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="shE-_bD5n5mWNWRbsqsG-9" value="VirtualMachine-2" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="shE-_bD5n5mWNWRbsqsG-9" value="VirtualMachine-2&lt;br&gt;4C 8G 100G" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1290" y="1649" width="410" height="210" as="geometry" />
         </mxCell>
         <mxCell id="shE-_bD5n5mWNWRbsqsG-10" value="WebServer" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;fontSize=16;" vertex="1" parent="1">
@@ -597,7 +600,7 @@
         <mxCell id="shE-_bD5n5mWNWRbsqsG-12" value="sentinel2" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="1590" y="1719" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="shE-_bD5n5mWNWRbsqsG-13" value="VirtualMachine-3" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="shE-_bD5n5mWNWRbsqsG-13" value="VirtualMachine-3&lt;br&gt;4C 8G 100G" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1290" y="1889" width="410" height="210" as="geometry" />
         </mxCell>
         <mxCell id="shE-_bD5n5mWNWRbsqsG-14" value="WebServer" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;fontSize=16;" vertex="1" parent="1">
