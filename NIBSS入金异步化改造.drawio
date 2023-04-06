@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T06:14:49.379Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="k3HKk4CXhrmS10l-8XXO" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T06:15:29.345Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VA-y2XhN4sRauYjOI0hF" version="21.1.1" type="github">
   <diagram name="第 1 页" id="T2vmHhKR4XjcTjqLVEOl">
     <mxGraphModel dx="1103" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,6 +49,15 @@
         </mxCell>
         <mxCell id="-RsiTzVQ_q_hdSGPjQla-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-7" target="-RsiTzVQ_q_hdSGPjQla-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-7" target="-RsiTzVQ_q_hdSGPjQla-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="550" />
+              <mxPoint x="380" y="20" />
+              <mxPoint x="680" y="20" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-RsiTzVQ_q_hdSGPjQla-7" value="新版本账号校验结果组装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="520" width="120" height="60" as="geometry" />
