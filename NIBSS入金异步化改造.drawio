@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T05:43:33.824Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="CqpxlBtipGjA36r-JSxT" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T06:12:48.306Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="reqkBZRV27SNiB7vR16M" version="21.1.1" type="github">
   <diagram name="第 1 页" id="T2vmHhKR4XjcTjqLVEOl">
     <mxGraphModel dx="1930" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,20 +41,95 @@
         <mxCell id="-RsiTzVQ_q_hdSGPjQla-4" value="会员系统是否已支持该业务类型的识别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-RsiTzVQ_q_hdSGPjQla-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-5" target="-RsiTzVQ_q_hdSGPjQla-6">
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-5" target="-RsiTzVQ_q_hdSGPjQla-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-RsiTzVQ_q_hdSGPjQla-5" value="原有账号校验逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-RsiTzVQ_q_hdSGPjQla-6" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="720" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-RsiTzVQ_q_hdSGPjQla-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-7" target="-RsiTzVQ_q_hdSGPjQla-6">
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-7" target="-RsiTzVQ_q_hdSGPjQla-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-RsiTzVQ_q_hdSGPjQla-7" value="新版本账号校验结果组装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-18" target="-RsiTzVQ_q_hdSGPjQla-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-18" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-19" target="-RsiTzVQ_q_hdSGPjQla-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-23" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-RsiTzVQ_q_hdSGPjQla-22">
+          <mxGeometry x="-0.4462" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-19" target="-RsiTzVQ_q_hdSGPjQla-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-RsiTzVQ_q_hdSGPjQla-25">
+          <mxGeometry x="-0.4338" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-19" value="判断是否是有效账号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-21" target="-RsiTzVQ_q_hdSGPjQla-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="710" />
+              <mxPoint x="680" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-21" value="设置NIBSS响应码&lt;br&gt;07（Invalid Account）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-24" target="-RsiTzVQ_q_hdSGPjQla-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-24" value="设置NIBSS响应码&lt;br&gt;00（Approved or completed successfully&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-27" target="-RsiTzVQ_q_hdSGPjQla-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-27" value="设置返回给NIBSS的&lt;br&gt;accountName" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-28" target="-RsiTzVQ_q_hdSGPjQla-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-28" value="设置返回给NIBSS的&lt;br&gt;bvn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-29" target="-RsiTzVQ_q_hdSGPjQla-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-29" value="设置返回给NIBSS的&lt;br&gt;kycLevel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-30" target="-RsiTzVQ_q_hdSGPjQla-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-30" value="加密返回给NIBSS的报文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RsiTzVQ_q_hdSGPjQla-33" target="-RsiTzVQ_q_hdSGPjQla-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-33" value="响应给NIBSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-34" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-37" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
