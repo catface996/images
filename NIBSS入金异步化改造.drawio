@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T08:33:48.557Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_kmSrbwWmVtjnBOl7R2L" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T08:38:13.855Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SxAaUVbg6p0eVAQAe28P" version="21.1.1" type="github">
   <diagram name="第 1 页" id="T2vmHhKR4XjcTjqLVEOl">
     <mxGraphModel dx="1005" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -415,6 +415,18 @@
         </mxCell>
         <mxCell id="-RsiTzVQ_q_hdSGPjQla-117" value="发送RocketMQ消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1654" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-123" value="异步处理消息确认" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-124" value="解析消息中的sessionId" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-125" value="根据sessionId查询订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-RsiTzVQ_q_hdSGPjQla-127" value="更新订单消息发送状态&lt;br&gt;已发送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="370" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
