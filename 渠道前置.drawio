@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T06:14:55.351Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="HCqDbP0gmXTS0Ak98Yur" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T06:16:09.273Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="S5MI4X5Cb1rFeYo6ToDg" version="21.1.7" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1562" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1042,6 +1042,21 @@
         </mxCell>
         <mxCell id="PZ8QbeHjo2qA5pqmokMM-62" value="通知上游交易or支付" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6416" y="-30" width="200" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-63" value="是否需要通知" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PZ8QbeHjo2qA5pqmokMM-62">
+          <mxGeometry x="60" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.45;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PZ8QbeHjo2qA5pqmokMM-54" target="PZ8QbeHjo2qA5pqmokMM-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="PZ8QbeHjo2qA5pqmokMM-57" target="PZ8QbeHjo2qA5pqmokMM-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6130" y="205" />
+              <mxPoint x="6130" y="20" />
+              <mxPoint x="6250" y="20" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
