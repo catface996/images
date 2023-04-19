@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T05:52:10.823Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="LvyAIvvxHk-Tp97JsIVP" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T06:06:52.010Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ddoRdbLQm2FNCJZNEkmb" version="21.1.7" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1562" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -895,7 +895,7 @@
         <mxCell id="PZ8QbeHjo2qA5pqmokMM-3" value="是否幂等" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5110" y="-600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PZ8QbeHjo2qA5pqmokMM-5" value="渠道网关幂等&amp;amp;落单（事务）" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-5" value="渠道接入网关收单&amp;amp;幂等（事务）" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="5030" y="-785" width="240" height="455" as="geometry" />
         </mxCell>
         <mxCell id="KICXaMbsa3GoAPLgfhbV-2" value="业务参数校验" style="rounded=0;whiteSpace=wrap;html=1;" parent="PZ8QbeHjo2qA5pqmokMM-5" vertex="1">
@@ -907,16 +907,16 @@
         <mxCell id="PZ8QbeHjo2qA5pqmokMM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PZ8QbeHjo2qA5pqmokMM-9" source="PZ8QbeHjo2qA5pqmokMM-10" target="PZ8QbeHjo2qA5pqmokMM-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PZ8QbeHjo2qA5pqmokMM-10" value="渠道单转渠道请求参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PZ8QbeHjo2qA5pqmokMM-9">
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-10" value="渠道单转渠道请求参数&lt;br&gt;（目前：硬编码）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PZ8QbeHjo2qA5pqmokMM-9">
           <mxGeometry x="40" y="85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZ8QbeHjo2qA5pqmokMM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PZ8QbeHjo2qA5pqmokMM-9" source="PZ8QbeHjo2qA5pqmokMM-11" target="PZ8QbeHjo2qA5pqmokMM-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PZ8QbeHjo2qA5pqmokMM-11" value="调用外部渠道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PZ8QbeHjo2qA5pqmokMM-9">
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-11" value="调用外部渠道&lt;br&gt;（目前：硬编码）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PZ8QbeHjo2qA5pqmokMM-9">
           <mxGeometry x="40" y="201" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PZ8QbeHjo2qA5pqmokMM-12" value="响应码及状态转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PZ8QbeHjo2qA5pqmokMM-9">
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-12" value="响应码及状态转换&lt;br&gt;（目前：硬编码）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PZ8QbeHjo2qA5pqmokMM-9">
           <mxGeometry x="40" y="315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZ8QbeHjo2qA5pqmokMM-13" value="更新渠道单状态（事务）" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -948,6 +948,91 @@
         </mxCell>
         <mxCell id="PZ8QbeHjo2qA5pqmokMM-28" value="差异化逻辑" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5290" y="-1060" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZ8QbeHjo2qA5pqmokMM-29" target="PZ8QbeHjo2qA5pqmokMM-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-29" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZ8QbeHjo2qA5pqmokMM-30" target="PZ8QbeHjo2qA5pqmokMM-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-30" value="业务参数校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZ8QbeHjo2qA5pqmokMM-31" target="PZ8QbeHjo2qA5pqmokMM-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-31" value="路由单是否幂等" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5110" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZ8QbeHjo2qA5pqmokMM-32" target="PZ8QbeHjo2qA5pqmokMM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-32" value="保存路由单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-33" value="路由收单&amp;amp;幂等（事务）" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="5050" y="-30" width="200" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-35" value="队列容量检查" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="5330" y="-30" width="200" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PZ8QbeHjo2qA5pqmokMM-35" source="PZ8QbeHjo2qA5pqmokMM-42" target="PZ8QbeHjo2qA5pqmokMM-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-42" value="是否超过上限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PZ8QbeHjo2qA5pqmokMM-35">
+          <mxGeometry x="60" y="59" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PZ8QbeHjo2qA5pqmokMM-35" source="PZ8QbeHjo2qA5pqmokMM-43" target="PZ8QbeHjo2qA5pqmokMM-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-43" value="调整订单优先级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PZ8QbeHjo2qA5pqmokMM-35">
+          <mxGeometry x="40" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-46" value="按优先级调度路由单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PZ8QbeHjo2qA5pqmokMM-35">
+          <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-36" value="路由决策" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="5620" y="-30" width="200" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PZ8QbeHjo2qA5pqmokMM-36" source="PZ8QbeHjo2qA5pqmokMM-49" target="PZ8QbeHjo2qA5pqmokMM-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-49" value="路由决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PZ8QbeHjo2qA5pqmokMM-36">
+          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-51" value="记录决策结果到路由单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PZ8QbeHjo2qA5pqmokMM-36">
+          <mxGeometry x="40" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-37" value="渠道单分发" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="5890" y="-30" width="200" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-54" value="调用渠道接入网关&lt;br&gt;（目前：硬编码）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PZ8QbeHjo2qA5pqmokMM-37">
+          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-57" value="调用渠道接入网关&lt;br&gt;（目标：配置化）" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="PZ8QbeHjo2qA5pqmokMM-37">
+          <mxGeometry x="40" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-41" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5940" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZ8QbeHjo2qA5pqmokMM-46" target="PZ8QbeHjo2qA5pqmokMM-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PZ8QbeHjo2qA5pqmokMM-51" target="PZ8QbeHjo2qA5pqmokMM-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="PZ8QbeHjo2qA5pqmokMM-51" target="PZ8QbeHjo2qA5pqmokMM-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5720" y="280" />
+              <mxPoint x="5870" y="280" />
+              <mxPoint x="5870" y="155" />
+              <mxPoint x="5990" y="155" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
