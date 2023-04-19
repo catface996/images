@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T05:30:31.651Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="GkLPZiZnoESf3AHywotl" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T05:32:37.210Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="d65uX52RG1Vc0U260qWW" version="21.1.7" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1562" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -860,11 +860,17 @@
             <mxPoint x="1910" y="2310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KICXaMbsa3GoAPLgfhbV-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4660" y="-720" width="120" height="60" as="geometry" />
+        <mxCell id="KICXaMbsa3GoAPLgfhbV-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5090" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KICXaMbsa3GoAPLgfhbV-2" value="业务参数校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4660" y="-584" width="120" height="60" as="geometry" />
+        <mxCell id="KICXaMbsa3GoAPLgfhbV-2" value="业务参数校验" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5090" y="-730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-2" value="保存渠道单据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="-470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-3" value="是否幂等" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5110" y="-600" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
