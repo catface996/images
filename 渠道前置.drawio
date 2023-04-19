@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T05:42:17.056Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZsJy8-QY8A2Admqc1R_x" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T05:52:10.823Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="LvyAIvvxHk-Tp97JsIVP" version="21.1.7" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1562" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -896,7 +896,7 @@
           <mxGeometry x="5110" y="-600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PZ8QbeHjo2qA5pqmokMM-5" value="渠道网关幂等&amp;amp;落单（事务）" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="5030" y="-785" width="240" height="450" as="geometry" />
+          <mxGeometry x="5030" y="-785" width="240" height="455" as="geometry" />
         </mxCell>
         <mxCell id="KICXaMbsa3GoAPLgfhbV-2" value="业务参数校验" style="rounded=0;whiteSpace=wrap;html=1;" parent="PZ8QbeHjo2qA5pqmokMM-5" vertex="1">
           <mxGeometry x="60" y="85" width="120" height="60" as="geometry" />
