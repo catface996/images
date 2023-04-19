@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T05:41:37.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3ZdogvExcTb0NAfwi8ms" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T05:42:17.056Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZsJy8-QY8A2Admqc1R_x" version="21.1.7" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1562" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -942,6 +942,12 @@
         </mxCell>
         <mxCell id="PZ8QbeHjo2qA5pqmokMM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZ8QbeHjo2qA5pqmokMM-17" target="PZ8QbeHjo2qA5pqmokMM-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-27" value="通用逻辑" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="5050" y="-1060" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ8QbeHjo2qA5pqmokMM-28" value="差异化逻辑" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="5290" y="-1060" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
