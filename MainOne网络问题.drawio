@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-30T11:14:17.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="u2z1RSbQ_IqTQFQabf78" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-30T11:25:14.716Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UqcizOLwXOM2RXKC39im" version="21.2.3" type="github">
   <diagram name="第 1 页" id="8qyMGJ87DmlZgQ9qgqyo">
     <mxGraphModel dx="775" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,6 +55,213 @@
         </mxCell>
         <mxCell id="6cx3cl8xf1TaEpaAPbhR-22" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="297.5" y="637" width="35" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-23" value="MainOne" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="350" y="820" width="580" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-24" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;" edge="1" parent="1" target="6cx3cl8xf1TaEpaAPbhR-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="884.9728450571906" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.055;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="6cx3cl8xf1TaEpaAPbhR-26" target="6cx3cl8xf1TaEpaAPbhR-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="544.405" y="890.1399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-26" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="881" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6cx3cl8xf1TaEpaAPbhR-28" target="6cx3cl8xf1TaEpaAPbhR-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560.5" y="1078" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-28" value="Palmpay Server" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1070" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-29" value="NIBSS NIP Server" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="817" y="1055" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-30" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;" edge="1" parent="1" target="6cx3cl8xf1TaEpaAPbhR-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1104.9728450571906" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6cx3cl8xf1TaEpaAPbhR-32" target="6cx3cl8xf1TaEpaAPbhR-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-32" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="1101" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-37" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="860" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-38" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="1087" width="35" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-39" value="NIBSS NIP Server" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="817" y="845" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-40" value="Case 1：connect directly" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="780" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-41" value="MainOne" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1260" width="580" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-42" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;" edge="1" parent="1" target="6cx3cl8xf1TaEpaAPbhR-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1324.9728450571906" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6cx3cl8xf1TaEpaAPbhR-44" target="6cx3cl8xf1TaEpaAPbhR-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="544.405" y="1330.1399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-44" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="1321" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="6cx3cl8xf1TaEpaAPbhR-46" target="6cx3cl8xf1TaEpaAPbhR-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560.5" y="1518" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-46" value="Palmpay Server" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1510" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-47" value="NIBSS NIP Server" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="817" y="1380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-48" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;" edge="1" parent="1" target="6cx3cl8xf1TaEpaAPbhR-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1544.9728450571906" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6cx3cl8xf1TaEpaAPbhR-50" target="6cx3cl8xf1TaEpaAPbhR-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-50" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="1541" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6cx3cl8xf1TaEpaAPbhR-57" target="6cx3cl8xf1TaEpaAPbhR-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="699.9999969648468" y="1527.5135135135135" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-55" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1300" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-56" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="1527" width="35" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-57" value="http proxy" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.proxy_server;" vertex="1" parent="1">
+          <mxGeometry x="589.5" y="1491" width="76" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-58" value="Case 2：Connect through http proxy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1230" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-59" value="MainOne" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1690" width="580" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-60" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;" edge="1" parent="1" target="6cx3cl8xf1TaEpaAPbhR-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1754.9728450571906" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6cx3cl8xf1TaEpaAPbhR-62" target="6cx3cl8xf1TaEpaAPbhR-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="544.405" y="1760.1399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-62" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="1751" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="6cx3cl8xf1TaEpaAPbhR-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="589.5" y="1957.027027027027" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-64" value="Palmpay Server" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1940" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-65" value="NIBSS NIP Server" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="817" y="1810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-66" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;" edge="1" parent="1" target="6cx3cl8xf1TaEpaAPbhR-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1974.9728450571906" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6cx3cl8xf1TaEpaAPbhR-68" target="6cx3cl8xf1TaEpaAPbhR-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-68" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="1971" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" target="6cx3cl8xf1TaEpaAPbhR-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665.5" y="1957.027027027027" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-70" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1730" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-71" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="1957" width="35" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-73" value="Case 3: connect through nat" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1660" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-74" value="NAT" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_nat_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="593" y="1921" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-75" value="MainOne" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="820" width="580" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-76" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;" edge="1" parent="1" target="6cx3cl8xf1TaEpaAPbhR-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="884.9728450571906" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6cx3cl8xf1TaEpaAPbhR-78" target="6cx3cl8xf1TaEpaAPbhR-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1552.5999999999995" y="885.1599999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-78" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="881" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6cx3cl8xf1TaEpaAPbhR-80" target="6cx3cl8xf1TaEpaAPbhR-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300.5" y="1078" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-80" value="Palmpay Server" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1070" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-81" value="NIBSS NIP Server" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1570" y="960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-82" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;" edge="1" parent="1" target="6cx3cl8xf1TaEpaAPbhR-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="1104.9728450571906" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6cx3cl8xf1TaEpaAPbhR-84" target="6cx3cl8xf1TaEpaAPbhR-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-84" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="1101" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-85" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="860" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-86" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1027.5" y="1087" width="35" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-89" value="How to connect to NIBSS NIP service？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
