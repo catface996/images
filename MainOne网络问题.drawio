@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-30T11:29:21.771Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="micj0ySxcvvxJNaQ99KQ" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-30T11:31:32.653Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="d0FgHES2wEtsbUTSWOXp" version="21.2.3" type="github">
   <diagram name="第 1 页" id="8qyMGJ87DmlZgQ9qgqyo">
     <mxGraphModel dx="775" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -263,8 +263,8 @@
         <mxCell id="6cx3cl8xf1TaEpaAPbhR-89" value="How to connect to NIBSS NIP service？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="340" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6cx3cl8xf1TaEpaAPbhR-90" value="Question List：&lt;br&gt;&lt;br&gt;1.How dose Palmpay Server connects to NIBSS NIP Server？&lt;br&gt;A：directly ip route&lt;br&gt;B：NAT&lt;br&gt;C：http proxy&lt;br&gt;&lt;br&gt;2.How many segment line between Palmpay Server and NIBSS NIP Server？&lt;br&gt;&lt;br&gt;3.How to distinguish network unavailable and NIBSS NIP service unavailable？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="352" y="2060" width="350" height="160" as="geometry" />
+        <mxCell id="6cx3cl8xf1TaEpaAPbhR-90" value="Question List：&lt;br&gt;&lt;br&gt;1.How dose Palmpay Server connects to NIBSS NIP Server？&lt;br&gt;A：directly ip route&lt;br&gt;B：NAT&lt;br&gt;C：http proxy&lt;br&gt;&lt;br&gt;2.How many segment line between Palmpay Server and NIBSS NIP Server？&lt;br&gt;&lt;br&gt;3.How to distinguish network unavailable and NIBSS NIP service unavailable？&lt;br&gt;&lt;br&gt;4.We need monitor the whole line，not only money in line，but also money out line.&lt;br&gt;Is there any other way to reach the goal？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="2060" width="538" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
