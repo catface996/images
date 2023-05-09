@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T12:43:19.998Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kCOSZN1SEz2QZbIApJwj" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T14:00:09.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="bRxX0u8x91RWd9-I8FPh" version="21.2.9" type="github">
   <diagram name="第 1 页" id="Pzz4Q9QrGixZpusPEQ9X">
-    <mxGraphModel dx="2389" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,16 +51,16 @@
         <mxCell id="o08fIgoM3E5RgiDcFMRu-9" value="Ghana" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o08fIgoM3E5RgiDcFMRu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o08fIgoM3E5RgiDcFMRu-11" target="o08fIgoM3E5RgiDcFMRu-5">
+        <mxCell id="o08fIgoM3E5RgiDcFMRu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="o08fIgoM3E5RgiDcFMRu-11" target="o08fIgoM3E5RgiDcFMRu-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="690" y="360" />
+              <mxPoint x="785" y="360" />
               <mxPoint x="960" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="o08fIgoM3E5RgiDcFMRu-11" value="C-Side Channel R&amp;amp;D Team" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="370" width="230" height="60" as="geometry" />
+          <mxGeometry x="670" y="370" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o08fIgoM3E5RgiDcFMRu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o08fIgoM3E5RgiDcFMRu-13" target="o08fIgoM3E5RgiDcFMRu-5">
           <mxGeometry relative="1" as="geometry">
@@ -72,6 +72,36 @@
         </mxCell>
         <mxCell id="o08fIgoM3E5RgiDcFMRu-13" value="B-Side Channel R&amp;amp;D Team" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="370" width="199" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o08fIgoM3E5RgiDcFMRu-14" value="Aishat Moshood" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o08fIgoM3E5RgiDcFMRu-15" value="Jacob Ajao" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o08fIgoM3E5RgiDcFMRu-18" value="EmmanuelIrabor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o08fIgoM3E5RgiDcFMRu-21" value="Mayowa" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o08fIgoM3E5RgiDcFMRu-22" value="Kingsley" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o08fIgoM3E5RgiDcFMRu-30" value="Pedahel Emmanuel Kojo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o08fIgoM3E5RgiDcFMRu-31" value="SamuelAyirebi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="534" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o08fIgoM3E5RgiDcFMRu-32" value="孙志远（Kris）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o08fIgoM3E5RgiDcFMRu-33" value="劳兵兵" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o08fIgoM3E5RgiDcFMRu-34" value="汪旭" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="510" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
