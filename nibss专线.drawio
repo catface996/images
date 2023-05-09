@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T03:39:31.545Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="o0zINTlf0_ZGAbjZQAdD" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T05:52:02.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0SnzKvCltZRJPfBwwKA0" version="21.2.9" type="github">
   <diagram id="64ADKAVjYD1-oNhS0CQX" name="第 1 页">
-    <mxGraphModel dx="4043" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3901" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1298,7 +1298,7 @@
         <mxCell id="PT8CHzVSH5IFKYpNim7F-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="PT8CHzVSH5IFKYpNim7F-55" target="PT8CHzVSH5IFKYpNim7F-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PT8CHzVSH5IFKYpNim7F-55" value="elb 172.29.204.167" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+        <mxCell id="PT8CHzVSH5IFKYpNim7F-55" value="elb 172.29.204.167&lt;br&gt;tcp/ip load balance" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="4949" y="3950" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PT8CHzVSH5IFKYpNim7F-57" value="nginx 172.29.203.200" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
