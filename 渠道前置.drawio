@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T08:28:32.587Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="cu8ic_A20Ug2lBHK5HvJ" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T08:31:23.825Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="lgMuyzySygs5CdaziuJL" version="21.2.9" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1562" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -690,7 +690,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-69" value="step2：路由单据持久化，幂等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="coelvOtr9oTJT-cIlqe5-68" vertex="1" connectable="0">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-69" value="step2：route order persistent，idempotent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="coelvOtr9oTJT-cIlqe5-68" vertex="1" connectable="0">
           <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
             <mxPoint x="18" y="-11" as="offset" />
           </mxGeometry>
@@ -731,7 +731,7 @@
         <mxCell id="coelvOtr9oTJT-cIlqe5-81" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="coelvOtr9oTJT-cIlqe5-70" target="coelvOtr9oTJT-cIlqe5-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-82" value="step3：渠道调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="coelvOtr9oTJT-cIlqe5-81" vertex="1" connectable="0">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-82" value="step3：call channel gateway" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="coelvOtr9oTJT-cIlqe5-81" vertex="1" connectable="0">
           <mxGeometry x="-0.1371" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -747,7 +747,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-85" value="step2：渠道调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="coelvOtr9oTJT-cIlqe5-84" vertex="1" connectable="0">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-85" value="step2：call channel gateway" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="coelvOtr9oTJT-cIlqe5-84" vertex="1" connectable="0">
           <mxGeometry x="-0.3635" y="-19" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
