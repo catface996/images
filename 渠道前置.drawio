@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T08:02:48.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FYFxcdQgfFjH9W_QTtRc" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T08:24:06.525Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Np0ABHfnrsEIPtXHJ4pI" version="21.2.9" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1562" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -482,7 +482,7 @@
         <mxCell id="JKctcm6P6C5rP0Paap2u-44" value="&lt;h1&gt;&lt;font color=&quot;#ff0000&quot;&gt;劣势&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;1.在高并发情况下，路由决策结果无法及时作用到支付单（相对于方案一）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2230" y="630" width="330" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-1" value="路由单据持久化，幂等演进路线（方案一）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-1" value="route order persistence,&amp;nbsp;idempotent road map（Solution A）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1140" y="-1144" width="900" height="560" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.35;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="coelvOtr9oTJT-cIlqe5-2" target="coelvOtr9oTJT-cIlqe5-59" edge="1">
@@ -498,7 +498,7 @@
         <mxCell id="coelvOtr9oTJT-cIlqe5-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="coelvOtr9oTJT-cIlqe5-2" target="coelvOtr9oTJT-cIlqe5-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-28" value="最终方案：标准渠道路由API调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="coelvOtr9oTJT-cIlqe5-27" vertex="1" connectable="0">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-28" value="final way：call standard api" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="coelvOtr9oTJT-cIlqe5-27" vertex="1" connectable="0">
           <mxGeometry x="-0.0683" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -511,18 +511,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-58" value="过渡方案：定制API调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="coelvOtr9oTJT-cIlqe5-57" vertex="1" connectable="0">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-58" value="temp：call compatible api" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="coelvOtr9oTJT-cIlqe5-57" vertex="1" connectable="0">
           <mxGeometry x="0.0558" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-2" value="业务系统（支付核心 pay-core）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="-1090" width="180" height="60" as="geometry" />
+        <mxCell id="coelvOtr9oTJT-cIlqe5-2" value="business system(trade or pay-core)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1342" y="-1090" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="coelvOtr9oTJT-cIlqe5-3" target="coelvOtr9oTJT-cIlqe5-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-18" value="step2：路由单据持久化，幂等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="coelvOtr9oTJT-cIlqe5-17" vertex="1" connectable="0">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-18" value="step2：persistent ， idempotent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="coelvOtr9oTJT-cIlqe5-17" vertex="1" connectable="0">
           <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
             <mxPoint x="18" y="-11" as="offset" />
           </mxGeometry>
@@ -563,7 +563,7 @@
         <mxCell id="coelvOtr9oTJT-cIlqe5-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="coelvOtr9oTJT-cIlqe5-3" target="coelvOtr9oTJT-cIlqe5-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-22" value="step3：渠道调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="coelvOtr9oTJT-cIlqe5-21" vertex="1" connectable="0">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-22" value="step3：call channel gateway" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="coelvOtr9oTJT-cIlqe5-21" vertex="1" connectable="0">
           <mxGeometry x="-0.1371" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -579,7 +579,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-26" value="step2：渠道调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="coelvOtr9oTJT-cIlqe5-25" vertex="1" connectable="0">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-26" value="step2：call channel gateway" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="coelvOtr9oTJT-cIlqe5-25" vertex="1" connectable="0">
           <mxGeometry x="-0.3635" y="-19" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -651,16 +651,16 @@
         <mxCell id="coelvOtr9oTJT-cIlqe5-52" value="标准SPI定义" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontColor=#000000;fillColor=#60a917;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="3768" y="-860" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-55" value="&lt;font color=&quot;#000000&quot;&gt;兼容pay-route的API&lt;/font&gt;" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-55" value="&lt;font color=&quot;#000000&quot;&gt;compatible old api&lt;/font&gt;" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1770" y="-930" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-56" value="&lt;font color=&quot;#000000&quot;&gt;标准API&lt;/font&gt;" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontColor=#ffffff;fillColor=#008a00;strokeColor=#005700;" parent="1" vertex="1">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-56" value="&lt;font color=&quot;#000000&quot;&gt;standard api&lt;/font&gt;" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontColor=#ffffff;fillColor=#008a00;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="1870" y="-930" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-59" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1440" y="-930" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-60" value="（推荐）路由单据持久化，幂等演进路线（方案二）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-60" value="（Recommend）route order persistence,&amp;nbsp;idempotent road map（Solution B）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="2200" y="-1144" width="900" height="560" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.35;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="coelvOtr9oTJT-cIlqe5-67" target="coelvOtr9oTJT-cIlqe5-88" edge="1">
@@ -676,13 +676,13 @@
         <mxCell id="coelvOtr9oTJT-cIlqe5-63" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="coelvOtr9oTJT-cIlqe5-67" target="coelvOtr9oTJT-cIlqe5-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-64" value="最终方案：标准渠道路由API调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="coelvOtr9oTJT-cIlqe5-63" vertex="1" connectable="0">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-64" value="final way：call standard api" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="coelvOtr9oTJT-cIlqe5-63" vertex="1" connectable="0">
           <mxGeometry x="-0.0683" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-67" value="业务系统（支付核心 pay-core）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2420" y="-1090" width="180" height="60" as="geometry" />
+        <mxCell id="coelvOtr9oTJT-cIlqe5-67" value="business system(trade or pay-core)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2409" y="-1090" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.517;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="coelvOtr9oTJT-cIlqe5-70" target="coelvOtr9oTJT-cIlqe5-87" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -752,7 +752,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-87" value="&lt;font color=&quot;#000000&quot;&gt;标准API&lt;/font&gt;" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontColor=#ffffff;fillColor=#008a00;strokeColor=#005700;" parent="1" vertex="1">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-87" value="&lt;font color=&quot;#000000&quot;&gt;standard api&lt;/font&gt;" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontColor=#ffffff;fillColor=#008a00;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="2930" y="-930" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-88" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
