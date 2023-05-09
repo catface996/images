@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T08:47:18.258Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="SsyhL-dHDOMnSQc6pjV6" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T08:53:57.647Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="dnkl4juZxKEMTgy_VkiV" version="21.2.9" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1562" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,7 +137,7 @@
           <mxGeometry x="385" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-41" value="paynet-switch-center" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="80" y="-10" width="870" height="1010" as="geometry" />
+          <mxGeometry x="80" y="-10" width="970" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-42" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="250" y="50" width="660" height="130" as="geometry" />
@@ -160,8 +160,8 @@
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-50" value="Call Channel Gateway Standard SPI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="250" y="890" width="500" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-51" value="渠道注册&lt;br&gt;1.多国配置&lt;br&gt;2.稳定性配置&lt;br&gt;3.费率配置&lt;br&gt;4.SPI配置&lt;br&gt;5.错误码映射" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="780" y="200" width="130" height="542" as="geometry" />
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-51" value="Register Channel&lt;br&gt;1.Multi Contury Configuration&lt;br&gt;2.Stability Configuration&lt;br&gt;3.Fee Configuration&lt;br&gt;4.SPI Configuration&lt;br&gt;5.Response Code Mapping Config" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="780" y="200" width="260" height="750" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="120" y="150" width="120" height="800" as="geometry" />
