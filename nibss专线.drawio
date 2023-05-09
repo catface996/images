@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T12:35:31.376Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3ikRiLO9sxUWEd3tcztL" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T03:07:46.812Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="1P-UeCK3PkJPDANwgCGX" version="21.2.9" type="github">
   <diagram id="64ADKAVjYD1-oNhS0CQX" name="第 1 页">
     <mxGraphModel dx="1562" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1328,7 +1328,7 @@
         <mxCell id="PT8CHzVSH5IFKYpNim7F-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="4895" y="3930" width="135" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="PT8CHzVSH5IFKYpNim7F-55" value="nginx 172.29.204.167" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+        <mxCell id="PT8CHzVSH5IFKYpNim7F-55" value="elb 172.29.204.167" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="4949" y="3950" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PT8CHzVSH5IFKYpNim7F-57" value="nginx 172.29.203.200" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
@@ -1362,17 +1362,11 @@
         <mxCell id="PT8CHzVSH5IFKYpNim7F-66" value="nginx&amp;nbsp;10.7.1.4" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="5856" y="3950" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PT8CHzVSH5IFKYpNim7F-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="PT8CHzVSH5IFKYpNim7F-55" target="PT8CHzVSH5IFKYpNim7F-61">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PT8CHzVSH5IFKYpNim7F-69" value="nginx&amp;nbsp;10.7.1.6(intra)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;154.113.6.178(inter)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="5856" y="4200" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PT8CHzVSH5IFKYpNim7F-71" value="nginx&amp;nbsp;10.7.1.7(intra)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;154.113.6.168(inter)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="5856" y="4290" width="28.000000000000004" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PT8CHzVSH5IFKYpNim7F-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="PT8CHzVSH5IFKYpNim7F-55" target="PT8CHzVSH5IFKYpNim7F-62">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PT8CHzVSH5IFKYpNim7F-73" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="PT8CHzVSH5IFKYpNim7F-75" target="PT8CHzVSH5IFKYpNim7F-66">
           <mxGeometry relative="1" as="geometry" />
