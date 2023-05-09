@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T08:38:27.759Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="2-hbv3dRIcK9GsrUgRvm" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T08:41:37.271Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Wr7qnUAMC2Oj6XIxWF_k" version="21.2.9" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1562" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,13 +151,13 @@
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-47" value="stability route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="270" y="360" width="460" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-48" value="费率路由" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-48" value="Fee Route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="270" y="500" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-49" value="用户白名单路由" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-49" value="White List Route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="270" y="575" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-50" value="渠道SPI代理调用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-50" value="Call Channel Gateway Standard SPI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="250" y="690" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-51" value="渠道注册&lt;br&gt;1.多国配置&lt;br&gt;2.稳定性配置&lt;br&gt;3.费率配置&lt;br&gt;4.SPI配置&lt;br&gt;5.错误码映射" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=left;" parent="1" vertex="1">
@@ -172,7 +172,7 @@
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="120" y="230" width="120" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-55" value="渠道调用监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-55" value="Monitor&lt;br&gt;Calling Channnel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="120" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-56" value="Intra Call" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
@@ -310,7 +310,7 @@
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-112" value="paynet-switch-center标准回调接口调用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="595" y="2418" width="295" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-116" value="流量百分比路由" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-116" value="Flow Percent Route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="510" y="500" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-118" value="determine channel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
@@ -325,7 +325,7 @@
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-123" value="指标采集&lt;br&gt;BigData" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="120" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q5BtTwWZ9gBS2KeyRRET-124" value="智能路由（基于指标）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="q5BtTwWZ9gBS2KeyRRET-124" value="Smart Route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="510" y="575" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-125" value="Alert" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
