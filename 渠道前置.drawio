@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T08:24:06.525Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Np0ABHfnrsEIPtXHJ4pI" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T08:27:46.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="LfoAfAWwJeeOMO2pq6Lk" version="21.2.9" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="1562" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -533,7 +533,7 @@
         <mxCell id="coelvOtr9oTJT-cIlqe5-4" value="paynet-switch-center" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1730" y="-920" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-5" value="多国本地团队&lt;br&gt;Africa" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=right;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-5" value="International&lt;br&gt;Team in Africa" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=right;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1140" y="-560" width="900" height="240" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-6" value="Microsoft Azure&lt;br&gt;Nigeria" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
@@ -584,7 +584,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-29" value="多国本地团队&lt;br&gt;Africa" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=right;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-29" value="International&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Team in Africa" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=right;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="3308" y="-560" width="900" height="240" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-30" value="Microsoft Azure&lt;br&gt;Nigeria" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
@@ -599,17 +599,17 @@
         <mxCell id="coelvOtr9oTJT-cIlqe5-33" value="HUAWEI Cloud&lt;br&gt;Tanzania" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3528" y="-530" width="180" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-34" value="ng-channel&lt;br&gt;标准SPI接口实现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="3368" y="-480" width="120" height="60" as="geometry" />
+        <mxCell id="coelvOtr9oTJT-cIlqe5-34" value="ng-channel&lt;br&gt;implement standard spi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="3362" y="-480" width="132" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-35" value="tz-channel&lt;br&gt;标准接口实现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="3558" y="-480" width="120" height="60" as="geometry" />
+        <mxCell id="coelvOtr9oTJT-cIlqe5-35" value="tz-channel&lt;br&gt;implement standard spi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="3558" y="-480" width="132" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-36" value="gh-channel&lt;br&gt;标准接口实现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="3748" y="-480" width="120" height="60" as="geometry" />
+        <mxCell id="coelvOtr9oTJT-cIlqe5-36" value="gh-channel&lt;br&gt;implement standard spi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="3748" y="-480" width="132" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-37" value="...-channel&lt;br&gt;标准接口实现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="3938" y="-480" width="120" height="60" as="geometry" />
+        <mxCell id="coelvOtr9oTJT-cIlqe5-37" value="...-channel&lt;br&gt;implement standard spi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="3938" y="-480" width="132" height="60" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-38" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="3428" y="-490" width="20" height="20" as="geometry" />
@@ -701,7 +701,7 @@
         <mxCell id="coelvOtr9oTJT-cIlqe5-71" value="paynet-switch-center" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2790" y="-920" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-72" value="多国本地团队&lt;br&gt;Africa" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=right;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-72" value="International&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Team in Africa" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=right;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="2200" y="-560" width="900" height="240" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-73" value="Microsoft Azure&lt;br&gt;Nigeria" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
