@@ -1,9 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T06:32:29.179Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.9" etag="n-CjR8E3PqERSCtqZB_T" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T07:21:43.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="r4HxQwNYUZDnKcT3cG-h" version="21.2.9" type="github">
   <diagram name="第 1 页" id="v69j2Ke4j7GUUFdfAC2q">
-    <mxGraphModel>
+    <mxGraphModel dx="1562" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-1" value="&lt;br&gt;&lt;br&gt;Cash In Async &amp;amp; Cash In Directly" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-2" value="INBSS Async Cash In" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-3" value="ACCESS Directly Money In" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="S0U23tPo6Suk-2sK_wPV-4" target="S0U23tPo6Suk-2sK_wPV-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="965" y="230" />
+              <mxPoint x="590" y="230" />
+              <mxPoint x="590" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-40" value="NIBSS Cash In Async&lt;br&gt;cast: 1 month" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0U23tPo6Suk-2sK_wPV-5">
+          <mxGeometry x="-0.0356" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;curved=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="S0U23tPo6Suk-2sK_wPV-4" target="S0U23tPo6Suk-2sK_wPV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-13" value="Directly Cash In For Access" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0U23tPo6Suk-2sK_wPV-11">
+          <mxGeometry x="0.093" y="-8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-4" value="张钟(Owen)&lt;br&gt;cost: 8" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="S0U23tPo6Suk-2sK_wPV-6" target="S0U23tPo6Suk-2sK_wPV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-12" value="Directly Cash In For Access&lt;br&gt;Cost: 1 week" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0U23tPo6Suk-2sK_wPV-10">
+          <mxGeometry x="-0.1143" y="14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;curved=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="S0U23tPo6Suk-2sK_wPV-6" target="S0U23tPo6Suk-2sK_wPV-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-41" value="Directly Cash In For KUDA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0U23tPo6Suk-2sK_wPV-38">
+          <mxGeometry x="-0.3509" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-6" value="顾丰荣(Aiden)&lt;br&gt;cost: 7 +1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-14" value="Split Channel" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-15" value="mtn&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-16" value="post pay" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-17" value="uba" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="S0U23tPo6Suk-2sK_wPV-18" target="S0U23tPo6Suk-2sK_wPV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-31" value="Cost: 1 week" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0U23tPo6Suk-2sK_wPV-19">
+          <mxGeometry x="0.1618" y="9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;curved=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="S0U23tPo6Suk-2sK_wPV-18" target="S0U23tPo6Suk-2sK_wPV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-28" value="Split Post Pay" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0U23tPo6Suk-2sK_wPV-22">
+          <mxGeometry x="0.1964" y="-19" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-18" value="孙志远(Kris)&lt;br&gt;cost: 7" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="610" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;curved=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="S0U23tPo6Suk-2sK_wPV-20" target="S0U23tPo6Suk-2sK_wPV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-26" value="Split Post Pay&lt;br&gt;cost: 3days" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0U23tPo6Suk-2sK_wPV-21">
+          <mxGeometry x="0.2105" y="7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="S0U23tPo6Suk-2sK_wPV-20" target="S0U23tPo6Suk-2sK_wPV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-20" value="徐嘉琪(Jiaqi)&lt;br&gt;cost: 6" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="770" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;curved=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="S0U23tPo6Suk-2sK_wPV-23" target="S0U23tPo6Suk-2sK_wPV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-27" value="Split Uba&lt;br&gt;cost:3days" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0U23tPo6Suk-2sK_wPV-24">
+          <mxGeometry x="-0.1778" y="-16" relative="1" as="geometry">
+            <mxPoint x="17" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-23" value="王文宇(Wenyu)&lt;br&gt;cost: 5" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="880" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="S0U23tPo6Suk-2sK_wPV-33" target="S0U23tPo6Suk-2sK_wPV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-37" value="Directly Cash In For KUDA&lt;br&gt;cost: 1 week" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0U23tPo6Suk-2sK_wPV-35">
+          <mxGeometry x="0.0211" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-33" value="余超(Fishier)&lt;br&gt;cost: 7 + 1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S0U23tPo6Suk-2sK_wPV-39" value="KUDA&lt;br&gt;&amp;nbsp;Directly Money In" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
