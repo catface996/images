@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T16:18:13.129Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kNa3mA8wCqKXFusfP2D9" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T16:22:13.461Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fXtvRoO1yGBFzWP787SN" version="21.3.7" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="2133" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1389,7 +1389,7 @@
         <mxCell id="twl5hJdaW2RtLlUji5Gn-55" value="Solution B" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="550" y="3300" width="412.5" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="twl5hJdaW2RtLlUji5Gn-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-56" value="JVM" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;fontStyle=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="171.25" y="3545" width="285" height="110" as="geometry" />
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-57" value="Thread Pool 1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
@@ -1418,6 +1418,36 @@
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-64" value="service-query" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="342.25" y="3370" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-69" value="POD" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;fontStyle=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="605" y="3542.5" width="285" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-72" value="8080" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="650" y="3517.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-73" value="9090" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="785" y="3517.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0.485;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="twl5hJdaW2RtLlUji5Gn-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="677.75" y="3477.5" as="sourcePoint" />
+            <mxPoint x="675" y="3517.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-75" value="service-transaction" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="641.75" y="3367.5" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="twl5hJdaW2RtLlUji5Gn-77" target="twl5hJdaW2RtLlUji5Gn-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-77" value="service-query" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="776" y="3367.5" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-78" value="JVM 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="3570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-79" value="JVM 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="3570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
