@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T14:24:01.323Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NWSIwjNdB0kCBU3f-0y0" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T14:25:54.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9dmDXXzAMpSvElfzXY_O" version="21.3.7" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="2133" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1382,6 +1382,12 @@
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-51" value="Different Thread Pool For Different Function" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="90" y="3240" width="890" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-54" value="Solution A" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="3300" width="412.5" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-55" value="Solution B" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="550" y="3300" width="412.5" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
