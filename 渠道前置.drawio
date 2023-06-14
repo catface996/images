@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T10:54:09.623Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Q1PtLtXPQIRaO0Fp3JLx" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T14:04:53.743Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MZJ8F_09Pz8GTxhues__" version="21.3.7" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="2133" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="twl5hJdaW2RtLlUji5Gn-30" value="Aliyun-Frankfurt" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2489" y="3360" width="751" height="492" as="geometry" />
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-30" value="Aliyun-Frankfurt" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=15;fillColor=none;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2489" y="3360" width="751" height="300" as="geometry" />
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-18" value="MainOne-Lagos" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="3480" y="2616" width="751" height="632" as="geometry" />
@@ -1328,6 +1328,20 @@
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-39" value="http protocol" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="twl5hJdaW2RtLlUji5Gn-38">
           <mxGeometry x="-0.0357" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="twl5hJdaW2RtLlUji5Gn-31" target="twl5hJdaW2RtLlUji5Gn-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2653" y="3320" />
+              <mxPoint x="3250" y="3320" />
+              <mxPoint x="3250" y="3014" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-50" value="http protocol" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="twl5hJdaW2RtLlUji5Gn-49">
+          <mxGeometry x="-0.3296" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
