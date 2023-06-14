@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T10:50:41.502Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="94ifKCc_14pJZlOc7jAm" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T10:54:09.623Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Q1PtLtXPQIRaO0Fp3JLx" version="21.3.7" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="2133" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="2489" y="3360" width="751" height="492" as="geometry" />
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-18" value="MainOne-Lagos" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="3300" y="2618" width="751" height="632" as="geometry" />
+          <mxGeometry x="3480" y="2616" width="751" height="632" as="geometry" />
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-17" value="VM" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3318" y="2659" width="520" height="501" as="geometry" />
+          <mxGeometry x="3498" y="2657" width="520" height="501" as="geometry" />
         </mxCell>
         <mxCell id="NEtKtBejalxUPlMGCe4--1" value="AWS-Ireland" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="2489" y="2618" width="751" height="632" as="geometry" />
@@ -1230,11 +1230,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="twl5hJdaW2RtLlUji5Gn-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="NEtKtBejalxUPlMGCe4--2" target="twl5hJdaW2RtLlUji5Gn-21">
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NEtKtBejalxUPlMGCe4--2" target="twl5hJdaW2RtLlUji5Gn-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="twl5hJdaW2RtLlUji5Gn-23" value="rpc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="twl5hJdaW2RtLlUji5Gn-22">
-          <mxGeometry x="0.4552" y="-1" relative="1" as="geometry">
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-47" value="rpc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="twl5hJdaW2RtLlUji5Gn-46">
+          <mxGeometry x="0.3773" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1309,10 +1309,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-19" value="ng-adec-channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3540" y="2986" width="120" height="60" as="geometry" />
+          <mxGeometry x="3720" y="2984" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-20" value="ng-aedc-channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3540" y="2856" width="120" height="60" as="geometry" />
+          <mxGeometry x="3720" y="2854" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="twl5hJdaW2RtLlUji5Gn-21" target="twl5hJdaW2RtLlUji5Gn-20">
           <mxGeometry relative="1" as="geometry" />
@@ -1321,7 +1321,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-21" value="nginx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3338" y="2986" width="120" height="60" as="geometry" />
+          <mxGeometry x="3518" y="2984" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="twl5hJdaW2RtLlUji5Gn-31" target="twl5hJdaW2RtLlUji5Gn-36">
           <mxGeometry relative="1" as="geometry" />
@@ -1349,6 +1349,12 @@
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-36" value="Nginx/Ingress&lt;br&gt;IP white list" style="shape=mxgraph.bpmn.conversation;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;aspect=fixed;bpmnConversationType=conv;" vertex="1" parent="1">
           <mxGeometry x="2606.67" y="3120" width="93.33" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="twl5hJdaW2RtLlUji5Gn-45" target="twl5hJdaW2RtLlUji5Gn-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-45" value="VPN" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.client_vpn;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="2975" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
