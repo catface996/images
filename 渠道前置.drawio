@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T13:02:22.103Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="DOjA8mspwBSwd2p1QlnF" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T10:18:32.026Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZrRcTx2j--W6xn3xBCs4" version="21.3.7" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
-    <mxGraphModel dx="1872" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2133" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NEtKtBejalxUPlMGCe4--1" value="AWS-Ireland" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2489" y="2618" width="751" height="492" as="geometry" />
+        </mxCell>
+        <mxCell id="NEtKtBejalxUPlMGCe4--5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="2670" width="520" height="410" as="geometry" />
+        </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-42" value="call standard spi of channel gateway，from pay-route to paynet-switch-center" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="3308" y="-1144" width="900" height="560" as="geometry" />
         </mxCell>
@@ -1198,6 +1204,21 @@
         </mxCell>
         <mxCell id="lTapNSnO-1PR-Cagxl3t-19" value="Channel Order&lt;br&gt;Query Delay Message" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="482" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEtKtBejalxUPlMGCe4--2" value="pay-route" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="2807" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEtKtBejalxUPlMGCe4--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;curved=1;" edge="1" parent="1" source="NEtKtBejalxUPlMGCe4--3" target="NEtKtBejalxUPlMGCe4--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEtKtBejalxUPlMGCe4--3" value="trade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="2697" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEtKtBejalxUPlMGCe4--4" value="ng-mtn-channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="2957" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEtKtBejalxUPlMGCe4--6" value="Consul" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3100" y="2697" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
