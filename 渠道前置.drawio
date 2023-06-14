@@ -1,20 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T10:40:58.445Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zxuT6W13QfBFdA_j-pCq" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T10:50:41.502Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="94ifKCc_14pJZlOc7jAm" version="21.3.7" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="2133" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-30" value="Aliyun-Frankfurt" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2489" y="3360" width="751" height="492" as="geometry" />
+        </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-18" value="MainOne-Lagos" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="3300" y="2618" width="751" height="492" as="geometry" />
+          <mxGeometry x="3300" y="2618" width="751" height="632" as="geometry" />
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-17" value="VM" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3318" y="2659" width="520" height="431" as="geometry" />
+          <mxGeometry x="3318" y="2659" width="520" height="501" as="geometry" />
         </mxCell>
         <mxCell id="NEtKtBejalxUPlMGCe4--1" value="AWS-Ireland" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="2489" y="2618" width="751" height="492" as="geometry" />
+          <mxGeometry x="2489" y="2618" width="751" height="632" as="geometry" />
         </mxCell>
         <mxCell id="NEtKtBejalxUPlMGCe4--5" value="K8S" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="2530" y="2659" width="520" height="431" as="geometry" />
+          <mxGeometry x="2530" y="2659" width="520" height="501" as="geometry" />
         </mxCell>
         <mxCell id="coelvOtr9oTJT-cIlqe5-42" value="call standard spi of channel gateway，from pay-route to paynet-switch-center" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="3308" y="-1144" width="900" height="560" as="geometry" />
@@ -1260,6 +1263,19 @@
         <mxCell id="twl5hJdaW2RtLlUji5Gn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.456;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;dashed=1;" edge="1" parent="1" source="NEtKtBejalxUPlMGCe4--4" target="twl5hJdaW2RtLlUji5Gn-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;startArrow=classic;startFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="NEtKtBejalxUPlMGCe4--4" target="twl5hJdaW2RtLlUji5Gn-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2640" y="3130" />
+              <mxPoint x="3060" y="3130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-41" value="publish/consume&lt;br&gt;tcp/ip" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="twl5hJdaW2RtLlUji5Gn-40">
+          <mxGeometry x="0.5324" y="-22" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NEtKtBejalxUPlMGCe4--4" value="ng-mtn-channel&lt;br&gt;pod-1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2580" y="3006" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1284,6 +1300,14 @@
         <mxCell id="twl5hJdaW2RtLlUji5Gn-12" value="apollo" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/App_Configuration.svg;" vertex="1" parent="1">
           <mxGeometry x="3128" y="2803" width="64" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="twl5hJdaW2RtLlUji5Gn-19" target="twl5hJdaW2RtLlUji5Gn-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-43" value="publish/consume&lt;br&gt;tcp/ip" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="twl5hJdaW2RtLlUji5Gn-42">
+          <mxGeometry x="0.3183" y="30" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-19" value="ng-adec-channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3540" y="2986" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1298,6 +1322,33 @@
         </mxCell>
         <mxCell id="twl5hJdaW2RtLlUji5Gn-21" value="nginx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3338" y="2986" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="twl5hJdaW2RtLlUji5Gn-31" target="twl5hJdaW2RtLlUji5Gn-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-39" value="http protocol" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="twl5hJdaW2RtLlUji5Gn-38">
+          <mxGeometry x="-0.0357" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-31" value="ScheduleX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2593.34" y="3480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-32" value="RocketMQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3000" y="3480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="twl5hJdaW2RtLlUji5Gn-36" target="twl5hJdaW2RtLlUji5Gn-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2653" y="3100" />
+              <mxPoint x="2550" y="3100" />
+              <mxPoint x="2550" y="2894" />
+              <mxPoint x="2705" y="2894" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twl5hJdaW2RtLlUji5Gn-36" value="Nginx/Ingress&lt;br&gt;IP white list" style="shape=mxgraph.bpmn.conversation;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;aspect=fixed;bpmnConversationType=conv;" vertex="1" parent="1">
+          <mxGeometry x="2606.67" y="3120" width="93.33" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
