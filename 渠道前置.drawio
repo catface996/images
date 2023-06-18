@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-18T10:50:13.559Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="o3DbM0gWFJ3lGwpfAAST" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-18T12:49:05.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0okjeHcbEcNWGMnh2VO2" version="21.4.0" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="2133" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="2720" y="50" width="1354" height="990" as="geometry" />
         </mxCell>
         <mxCell id="IGqOfhYhCRDn4Xoctelt-120" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="IGqOfhYhCRDn4Xoctelt-66">
-          <mxGeometry x="20" y="470" width="1220" height="490" as="geometry" />
+          <mxGeometry x="20" y="470" width="1310" height="500" as="geometry" />
         </mxCell>
         <mxCell id="IGqOfhYhCRDn4Xoctelt-76" value="Response Code Mapping" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="IGqOfhYhCRDn4Xoctelt-120">
           <mxGeometry x="130" y="228" width="200" height="200" as="geometry" />
@@ -1556,7 +1556,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGqOfhYhCRDn4Xoctelt-33" value="AirtimeOrder" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="3234" y="560" width="200" height="450" as="geometry" />
+          <mxGeometry x="3234" y="560" width="200" height="440" as="geometry" />
         </mxCell>
         <mxCell id="IGqOfhYhCRDn4Xoctelt-41" value="Country" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IGqOfhYhCRDn4Xoctelt-33">
           <mxGeometry y="28" width="200" height="32" as="geometry" />
@@ -1645,7 +1645,31 @@
           <mxGeometry y="92" width="200" height="32" as="geometry" />
         </mxCell>
         <mxCell id="IGqOfhYhCRDn4Xoctelt-35" value="Electricity" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="3782" y="560" width="200" height="200" as="geometry" />
+          <mxGeometry x="3782" y="560" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="IGqOfhYhCRDn4Xoctelt-121" value="Country" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IGqOfhYhCRDn4Xoctelt-35">
+          <mxGeometry y="28" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IGqOfhYhCRDn4Xoctelt-122" value="Business Case" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IGqOfhYhCRDn4Xoctelt-35">
+          <mxGeometry y="60" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IGqOfhYhCRDn4Xoctelt-123" value="Customer Number" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IGqOfhYhCRDn4Xoctelt-35">
+          <mxGeometry y="124" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IGqOfhYhCRDn4Xoctelt-124" value="Channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="IGqOfhYhCRDn4Xoctelt-35">
+          <mxGeometry y="92" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IGqOfhYhCRDn4Xoctelt-125" value="Electricity Provider" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IGqOfhYhCRDn4Xoctelt-35">
+          <mxGeometry y="156" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IGqOfhYhCRDn4Xoctelt-126" value="Amount" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IGqOfhYhCRDn4Xoctelt-35">
+          <mxGeometry y="188" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IGqOfhYhCRDn4Xoctelt-127" value="PrePay / PostPay" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IGqOfhYhCRDn4Xoctelt-35">
+          <mxGeometry y="220" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IGqOfhYhCRDn4Xoctelt-128" value="Token For Electricity&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IGqOfhYhCRDn4Xoctelt-35">
+          <mxGeometry y="252" width="200" height="32" as="geometry" />
         </mxCell>
         <mxCell id="IGqOfhYhCRDn4Xoctelt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="IGqOfhYhCRDn4Xoctelt-20" target="IGqOfhYhCRDn4Xoctelt-41">
           <mxGeometry relative="1" as="geometry">
