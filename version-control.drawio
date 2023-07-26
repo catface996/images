@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T08:24:03.236Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pzoA08q_6yHDS3Up-1nz" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T08:25:17.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fuHKDNksB8F1ElYb-BN4" version="21.6.3" type="github">
   <diagram name="第 1 页" id="z0Ltoj8eWmJkIahDTdDF">
     <mxGraphModel dx="2133" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,6 +162,21 @@
         </mxCell>
         <mxCell id="0uwjctdGdJ8ZIo5__Zef-48" value="palmpay-channels-base&lt;br&gt;feature/betting-xx&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;version: betting.3-SNAPSHOT&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1654" y="520" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0uwjctdGdJ8ZIo5__Zef-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0uwjctdGdJ8ZIo5__Zef-48" target="0uwjctdGdJ8ZIo5__Zef-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1812" y="500" />
+              <mxPoint x="1950" y="500" />
+              <mxPoint x="1950" y="600" />
+              <mxPoint x="1759" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uwjctdGdJ8ZIo5__Zef-54" value="do some develop" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0uwjctdGdJ8ZIo5__Zef-53">
+          <mxGeometry x="0.5442" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
