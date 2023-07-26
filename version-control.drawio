@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T11:04:24.305Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="26fRJiYSHPQR95rsYxWZ" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T11:11:19.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QzHEDXwo9XynXHMNxpos" version="21.6.3" type="github">
   <diagram name="第 1 页" id="z0Ltoj8eWmJkIahDTdDF">
     <mxGraphModel dx="2278" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -241,8 +241,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0uwjctdGdJ8ZIo5__Zef-60" value="palmpay-channels&lt;br&gt;master&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;version：1.23.release&lt;br&gt;dependency version：1.1.release&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1412" y="220" width="200" height="80" as="geometry" />
+        <mxCell id="0uwjctdGdJ8ZIo5__Zef-60" value="palmpay-channels&lt;br&gt;master&lt;br&gt;&lt;b style=&quot;color: rgb(255, 51, 51);&quot;&gt;version：1.23.release&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;color: rgb(255, 51, 51);&quot;&gt;dependency version：1.1.release&lt;/b&gt;&lt;br&gt;after step 4.x&lt;br&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;color: rgb(255, 51, 51);&quot;&gt;version：1.25.release&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-weight: bold; border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff3333&quot;&gt;dependency version：1.2.release&lt;br&gt;&lt;/font&gt;&lt;/b&gt;after step 7&lt;br&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-weight: bold; border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff3333&quot;&gt;version：1.26.release&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff3333&quot;&gt;dependency version：1.2.release&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1412" y="120" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="0uwjctdGdJ8ZIo5__Zef-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0uwjctdGdJ8ZIo5__Zef-61" target="0uwjctdGdJ8ZIo5__Zef-103">
           <mxGeometry relative="1" as="geometry" />
@@ -436,7 +436,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0uwjctdGdJ8ZIo5__Zef-126" value="palmpay-channels&lt;br&gt;master&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;version：1.25.release&lt;br&gt;dependency version：1.2.release&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="220" width="200" height="80" as="geometry" />
+          <mxGeometry x="1041" y="170" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0uwjctdGdJ8ZIo5__Zef-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0uwjctdGdJ8ZIo5__Zef-135" target="0uwjctdGdJ8ZIo5__Zef-60">
           <mxGeometry relative="1" as="geometry">
@@ -445,6 +445,11 @@
               <mxPoint x="1100" y="340" />
               <mxPoint x="1462" y="340" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uwjctdGdJ8ZIo5__Zef-139" value="7 merge to master" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0uwjctdGdJ8ZIo5__Zef-134">
+          <mxGeometry x="-0.2381" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0uwjctdGdJ8ZIo5__Zef-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0uwjctdGdJ8ZIo5__Zef-129" target="0uwjctdGdJ8ZIo5__Zef-135">
@@ -458,7 +463,7 @@
         <mxCell id="0uwjctdGdJ8ZIo5__Zef-129" value="palmpay-channels&lt;br&gt;feature/xxx&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;version：1.25.release&lt;br&gt;dependency version：1.2.release&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1195" y="1060" width="290" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0uwjctdGdJ8ZIo5__Zef-135" value="palmpay-channels&lt;br&gt;feature/xxx&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;version：1.25.release&lt;br&gt;dependency version：1.2.release&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="0uwjctdGdJ8ZIo5__Zef-135" value="palmpay-channels&lt;br&gt;feature/xxx&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;version：1.26.release&lt;br&gt;dependency version：1.3.release&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1195" y="1220" width="290" height="70" as="geometry" />
         </mxCell>
       </root>
