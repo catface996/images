@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T10:04:18.654Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="x3JJZrhE6cJTfQarq1Y4" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T10:07:31.710Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="r4eHq2CqabkgTTiHQT0Y" version="21.6.3" type="github">
   <diagram name="第 1 页" id="z0Ltoj8eWmJkIahDTdDF">
     <mxGraphModel dx="2278" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,10 +235,10 @@
         <mxCell id="0uwjctdGdJ8ZIo5__Zef-60" value="palmpay-channels&lt;br&gt;master&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;version：1.23.release&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1411" y="240" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0uwjctdGdJ8ZIo5__Zef-61" value="palmpay-channels&lt;br&gt;master&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;version：betting.12-SNAPSHOT&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="0uwjctdGdJ8ZIo5__Zef-61" value="palmpay-channels&lt;br&gt;&lt;font style=&quot;&quot;&gt;feature/xxx&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;version：betting.12-SNAPSHOT&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1241" y="420" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0uwjctdGdJ8ZIo5__Zef-63" value="palmpay-channels&lt;br&gt;master&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;version：electricity.23-SNAPSHOT&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="0uwjctdGdJ8ZIo5__Zef-63" value="palmpay-channels&lt;br&gt;&lt;font style=&quot;&quot;&gt;feature/zzzz&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-weight: bold;&quot; color=&quot;#ff3333&quot;&gt;version：electricity.23-SNAPSHOT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1571" y="420" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0uwjctdGdJ8ZIo5__Zef-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;dashed=1;" edge="1" parent="1" source="0uwjctdGdJ8ZIo5__Zef-66" target="0uwjctdGdJ8ZIo5__Zef-63">
@@ -315,6 +315,9 @@
         </mxCell>
         <mxCell id="0uwjctdGdJ8ZIo5__Zef-98" value="service-impl.jar&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;version: 1.3.release&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/dompicon-glyph-file-format-2/256/file-jar-format-type-128.png" vertex="1" parent="1">
           <mxGeometry x="2014" y="535" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0uwjctdGdJ8ZIo5__Zef-103" value="palmpay-channels&lt;br&gt;feature/xxx&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;version：betting.12-SNAPSHOT&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="580" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
