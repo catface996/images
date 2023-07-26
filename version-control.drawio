@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T08:25:17.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fuHKDNksB8F1ElYb-BN4" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T08:32:57.878Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KZg3njvKZtOU5fdAOKd-" version="21.6.3" type="github">
   <diagram name="第 1 页" id="z0Ltoj8eWmJkIahDTdDF">
     <mxGraphModel dx="2133" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,24 +158,38 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0uwjctdGdJ8ZIo5__Zef-47" value="palmpay-channels-base&lt;br&gt;feature/betting-xx&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;version: 1.1.release&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="360" width="210" height="60" as="geometry" />
+          <mxGeometry x="1850" y="400" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0uwjctdGdJ8ZIo5__Zef-48" value="palmpay-channels-base&lt;br&gt;feature/betting-xx&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;version: betting.3-SNAPSHOT&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="520" width="210" height="60" as="geometry" />
+          <mxGeometry x="1850" y="560" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0uwjctdGdJ8ZIo5__Zef-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0uwjctdGdJ8ZIo5__Zef-48" target="0uwjctdGdJ8ZIo5__Zef-48">
+        <mxCell id="0uwjctdGdJ8ZIo5__Zef-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="0uwjctdGdJ8ZIo5__Zef-48" target="0uwjctdGdJ8ZIo5__Zef-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1812" y="500" />
-              <mxPoint x="1950" y="500" />
-              <mxPoint x="1950" y="600" />
-              <mxPoint x="1759" y="600" />
+              <mxPoint x="2008" y="530" />
+              <mxPoint x="2140" y="530" />
+              <mxPoint x="2140" y="650" />
+              <mxPoint x="1955" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0uwjctdGdJ8ZIo5__Zef-54" value="do some develop" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0uwjctdGdJ8ZIo5__Zef-53">
+        <mxCell id="0uwjctdGdJ8ZIo5__Zef-54" value="do some development" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0uwjctdGdJ8ZIo5__Zef-53">
           <mxGeometry x="0.5442" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="85" y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uwjctdGdJ8ZIo5__Zef-55" value="maven&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="210" width="340" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="0uwjctdGdJ8ZIo5__Zef-56" value="service-impl.jar&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;version: betting.3-SNAPSHOT&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/dompicon-glyph-file-format-2/256/file-jar-format-type-128.png" vertex="1" parent="1">
+          <mxGeometry x="1569" y="380" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0uwjctdGdJ8ZIo5__Zef-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="0uwjctdGdJ8ZIo5__Zef-48" target="0uwjctdGdJ8ZIo5__Zef-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0uwjctdGdJ8ZIo5__Zef-59" value="mvn deploy" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0uwjctdGdJ8ZIo5__Zef-57">
+          <mxGeometry x="-0.1466" y="-4" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
