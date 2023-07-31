@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T10:48:36.571Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="LZj6NTJLf4Vto7WEVIUC" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T10:50:00.735Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="OX3xqL4S8yoQajsDiEWK" version="21.6.5" type="github">
   <diagram name="第 1 页" id="faRtsbHU78OzbmwTVvDm">
     <mxGraphModel dx="2133" dy="1999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,12 @@
         </mxCell>
         <mxCell id="BzFszZulR6ruQ1HLFXBk-14" value="Palmpay Standard Code" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-101" y="260" width="560" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="BzFszZulR6ruQ1HLFXBk-15" target="BzFszZulR6ruQ1HLFXBk-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;dashed=1;dashPattern=8 8;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="BzFszZulR6ruQ1HLFXBk-15" target="BzFszZulR6ruQ1HLFXBk-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BzFszZulR6ruQ1HLFXBk-15" value="Palmpay Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-11" y="300" width="120" height="60" as="geometry" />
