@@ -1,9 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T09:56:35.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.5" etag="SV81TiPGNyw1Ofz7tEZm" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T10:36:24.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="10LK36m84lVCyJeIfxE-" version="21.6.5" type="github">
   <diagram name="第 1 页" id="faRtsbHU78OzbmwTVvDm">
-    <mxGraphModel>
+    <mxGraphModel dx="2133" dy="1999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-27" value="A Side" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=18;strokeColor=#FFF2CC;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="730" width="260" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-24" value="B Side" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=18;strokeColor=#FFF2CC;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="320" width="260" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-23" value="A Side" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=18;strokeColor=#FFF2CC;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-600" width="260" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-2" value="Trade" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="600" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-3" value="Other Business System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="760" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-5" value="Channel Gateway" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="600" width="440" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-6" value="Response Code&lt;br&gt;From Channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="630" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-8" value="Channels" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="440" y="600" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="140" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BzFszZulR6ruQ1HLFXBk-12" target="BzFszZulR6ruQ1HLFXBk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-12" value="Response Code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="630" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="320" width="560" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-15" value="Palmpay Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-16" value="source" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=120;entryDy=25;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="BzFszZulR6ruQ1HLFXBk-17" target="BzFszZulR6ruQ1HLFXBk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-17" value="message" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-18" value="Palmpay Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="10" y="630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-19" value="Transaction&lt;br&gt;Status" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-20" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome" vertex="1" parent="1">
+          <mxGeometry x="-514.8" y="460" width="74.8" height="75.4" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-507.4" y="570" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-25" value="message" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-26" value="message" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="870" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-29" value="message" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-37" value="Palmpay Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="870" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-39" value="Palmpay Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-40" value="Palmpay Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="490" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BzFszZulR6ruQ1HLFXBk-41" value="Palmpay Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="115" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
