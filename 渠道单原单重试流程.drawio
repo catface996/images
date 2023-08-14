@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T12:29:18.693Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="mJPO42-OUH4U30MucUmC" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T12:29:35.170Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="BT9un-DaNsYoYyl5fx3x" version="21.6.7" type="github">
   <diagram name="第 1 页" id="7-asn-W6Vfpx6dhAvmud">
     <mxGraphModel dx="1136" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
           <mxGeometry x="380" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lHnGf2nChSw19JR8nuZ5-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff3333&quot;&gt;Attention： If request reference already exist in database，reuse the request reference&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="940" width="340" height="100" as="geometry" />
+          <mxGeometry x="520" y="955" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lHnGf2nChSw19JR8nuZ5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lHnGf2nChSw19JR8nuZ5-19" target="lHnGf2nChSw19JR8nuZ5-16">
           <mxGeometry relative="1" as="geometry" />
