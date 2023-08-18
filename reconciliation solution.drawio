@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T16:29:48.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Ey9hVLaSuDuogYwLg4nM" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T16:30:39.941Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RyGHSTn19HyOtldRay5J" version="21.6.8" type="github">
   <diagram name="第 1 页" id="IDC6OgUZG76HqQoy6pAl">
     <mxGraphModel dx="1306" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="8EhN2QBnAJq9SpPhxFZ0-15" value="Reconciliation" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="40" y="720" width="440" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-19" value="Transfer Order" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-19" value="Transfer Order（Channel Order）" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="189.5" width="200" height="370.5" as="geometry" />
         </mxCell>
         <mxCell id="8EhN2QBnAJq9SpPhxFZ0-20" value="Access" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -202,6 +202,9 @@
         </mxCell>
         <mxCell id="exneHYosglLth6qOWhdi-23" value="comparing result" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;dashPattern=8 8;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="530" y="1230" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="exneHYosglLth6qOWhdi-24" value="Trade Order" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
