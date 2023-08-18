@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T14:45:30.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="n47LN76cXXASTU2ZZ5jL" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T16:02:22.363Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="OAVWxGPne6P3QjiTpTXU" version="21.6.8" type="github">
   <diagram name="第 1 页" id="IDC6OgUZG76HqQoy6pAl">
     <mxGraphModel dx="1306" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
           <mxGeometry x="40" y="720" width="440" height="640" as="geometry" />
         </mxCell>
         <mxCell id="8EhN2QBnAJq9SpPhxFZ0-19" value="Transfer Order" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="270" width="200" height="200" as="geometry" />
+          <mxGeometry x="650" y="270" width="200" height="280" as="geometry" />
         </mxCell>
         <mxCell id="8EhN2QBnAJq9SpPhxFZ0-20" value="Access" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="430" width="380" height="265" as="geometry" />
@@ -48,7 +48,7 @@
         <mxCell id="8EhN2QBnAJq9SpPhxFZ0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="8EhN2QBnAJq9SpPhxFZ0-20" source="8EhN2QBnAJq9SpPhxFZ0-25" target="8EhN2QBnAJq9SpPhxFZ0-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/online-marketing-hand-drawn-vol-1/52/coin__dollar__money__payment__finance__fund__cash-128.png" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-20">
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-25" value="fund" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/online-marketing-hand-drawn-vol-1/52/coin__dollar__money__payment__finance__fund__cash-128.png" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-20">
           <mxGeometry x="260" y="35" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8EhN2QBnAJq9SpPhxFZ0-26" value="UBA" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -66,8 +66,82 @@
         <mxCell id="8EhN2QBnAJq9SpPhxFZ0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="8EhN2QBnAJq9SpPhxFZ0-26" source="8EhN2QBnAJq9SpPhxFZ0-31" target="8EhN2QBnAJq9SpPhxFZ0-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/online-marketing-hand-drawn-vol-1/52/coin__dollar__money__payment__finance__fund__cash-128.png" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-26">
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-31" value="fund" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/online-marketing-hand-drawn-vol-1/52/coin__dollar__money__payment__finance__fund__cash-128.png" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-26">
           <mxGeometry x="260" y="35" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=12 12;strokeWidth=1;" edge="1" parent="1" source="8EhN2QBnAJq9SpPhxFZ0-39" target="8EhN2QBnAJq9SpPhxFZ0-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-42" value="sync" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="8EhN2QBnAJq9SpPhxFZ0-41">
+          <mxGeometry x="-0.3333" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-40" value="Transfer Order (Mirror)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="895" width="200" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-44" value="Reconciliation&amp;nbsp; Record" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="895" width="200" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="294" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-32" value="beneficiary bank" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-45">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-33" value="beneficiary account number" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-45">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-34" value="beneficiary account name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-45">
+          <mxGeometry y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-35" value="originator bank" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-45">
+          <mxGeometry y="90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-36" value="originator account number" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-45">
+          <mxGeometry y="120" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-37" value="originator account name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-45">
+          <mxGeometry y="150" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-38" value="amount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-45">
+          <mxGeometry y="180" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-39" value="request_reference/sessionId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-45">
+          <mxGeometry y="210" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="530" y="919" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-47" value="beneficiary bank" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-46">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-48" value="beneficiary account number" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-46">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-49" value="beneficiary account name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-46">
+          <mxGeometry y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-50" value="originator bank" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-46">
+          <mxGeometry y="90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-51" value="originator account number" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-46">
+          <mxGeometry y="120" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-52" value="originator account name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-46">
+          <mxGeometry y="150" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-53" value="amount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-46">
+          <mxGeometry y="180" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-54" value="request_reference/sessionId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="8EhN2QBnAJq9SpPhxFZ0-46">
+          <mxGeometry y="210" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-55" value="reconciliation file (copy)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="8EhN2QBnAJq9SpPhxFZ0-27" target="8EhN2QBnAJq9SpPhxFZ0-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
