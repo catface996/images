@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T15:33:24.176Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0Z9CFVKO6KazACiD-NVQ" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T15:36:30.963Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="7qplMtThsaLmxEEdbp5_" version="21.6.9" type="github">
   <diagram id="y8nd4SXiOJbdPAyT8sHm" name="第 1 页">
     <mxGraphModel dx="1306" dy="1999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -603,11 +603,30 @@
         <mxCell id="ba_UE_2rI5_hPQJ9xum3-52" value="electricity-repository" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3570" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ba_UE_2rI5_hPQJ9xum3-56" value="repository-mysql-impl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3025" y="1169" width="120" height="60" as="geometry" />
+        <mxCell id="ba_UE_2rI5_hPQJ9xum3-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="ba_UE_2rI5_hPQJ9xum3-56" target="ba_UE_2rI5_hPQJ9xum3-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3000" y="1000" />
+              <mxPoint x="3630" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ba_UE_2rI5_hPQJ9xum3-60" value="implement" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ba_UE_2rI5_hPQJ9xum3-59">
+          <mxGeometry x="-0.1044" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ba_UE_2rI5_hPQJ9xum3-56" value="betting-repository-mysql-impl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ba_UE_2rI5_hPQJ9xum3-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="ba_UE_2rI5_hPQJ9xum3-4" target="ba_UE_2rI5_hPQJ9xum3-52">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ba_UE_2rI5_hPQJ9xum3-61" value="rpc-impl" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3370" y="1110" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ba_UE_2rI5_hPQJ9xum3-62" value="electricity-repository-mysql-impl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
