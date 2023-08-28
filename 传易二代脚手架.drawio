@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T15:39:33.396Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="s5GOmwl4aDnD4nzPcsne" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T15:40:46.384Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3nMme8FgKw2YJGvgN4fh" version="21.6.9" type="github">
   <diagram id="y8nd4SXiOJbdPAyT8sHm" name="第 1 页">
     <mxGraphModel dx="1306" dy="1999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -644,6 +644,21 @@
         </mxCell>
         <mxCell id="ba_UE_2rI5_hPQJ9xum3-67" value="betting-rpc-impl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3715" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ba_UE_2rI5_hPQJ9xum3-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="ba_UE_2rI5_hPQJ9xum3-68" target="ba_UE_2rI5_hPQJ9xum3-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3935" y="1010" />
+              <mxPoint x="4070" y="1010" />
+              <mxPoint x="4070" y="670" />
+              <mxPoint x="3900" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ba_UE_2rI5_hPQJ9xum3-70" value="implement" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ba_UE_2rI5_hPQJ9xum3-69">
+          <mxGeometry x="-0.0689" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ba_UE_2rI5_hPQJ9xum3-68" value="electricity-rpc-impl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3875" y="1160" width="120" height="60" as="geometry" />
