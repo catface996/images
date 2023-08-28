@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T12:58:46.231Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-ZczYo7bFO4P6DiNxhIY" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T13:22:34.400Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WSeblrqcL9v1sABg2Dwa" version="21.6.9" type="github">
   <diagram name="第 1 页" id="IDC6OgUZG76HqQoy6pAl">
     <mxGraphModel dx="2133" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6gVN2SOM8mbUTCLRi7c8-2" value="Account" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-780" y="541" width="290" height="429" as="geometry" />
-        </mxCell>
         <mxCell id="8EhN2QBnAJq9SpPhxFZ0-15" value="Reconciliation" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-430" y="720" width="440" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-11" value="&lt;div style=&quot;text-align: left; font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;Reconciliation File Parsing&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="50" y="720" width="970" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-28" value="&lt;b&gt;Standard Fund Data&lt;br&gt;（Atomic）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1350.5" width="100" height="289.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-2" value="Account" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-780" y="541" width="290" height="429" as="geometry" />
         </mxCell>
         <mxCell id="6gVN2SOM8mbUTCLRi7c8-9" value="Standard Account Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-513" y="737.5" width="100" height="182.5" as="geometry" />
@@ -19,11 +25,8 @@
         <mxCell id="6gVN2SOM8mbUTCLRi7c8-6" value="Standard Trde Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-365" y="670" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-11" value="&lt;div style=&quot;text-align: left; font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;Reconciliation File Parsing&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="50" y="720" width="970" height="950" as="geometry" />
-        </mxCell>
         <mxCell id="6gVN2SOM8mbUTCLRi7c8-5" value="&lt;b&gt;Standard Channel Data&lt;br&gt;（Trade）&lt;br&gt;&lt;/b&gt;&lt;br&gt;Per Standard &lt;br&gt;Per Business Type" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="737.5" width="100" height="602.5" as="geometry" />
+          <mxGeometry x="-20" y="737.5" width="100" height="482.5" as="geometry" />
         </mxCell>
         <mxCell id="mXisu1iTDLMtMhRkeNwS-14" value="Route" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="50" y="40" width="440" height="640" as="geometry" />
@@ -104,7 +107,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-55" value="reconciliation file (copy)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="8EhN2QBnAJq9SpPhxFZ0-55" target="6gVN2SOM8mbUTCLRi7c8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-23" value="extract" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6gVN2SOM8mbUTCLRi7c8-20">
+          <mxGeometry x="-0.0625" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="8EhN2QBnAJq9SpPhxFZ0-55" target="6gVN2SOM8mbUTCLRi7c8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8EhN2QBnAJq9SpPhxFZ0-55" value="reconciliation file a (copy)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="1237" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8EhN2QBnAJq9SpPhxFZ0-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="8EhN2QBnAJq9SpPhxFZ0-27" target="8EhN2QBnAJq9SpPhxFZ0-55" edge="1">
@@ -517,6 +531,75 @@
           <mxGeometry x="-264.87" y="1237" width="109.73" height="83" as="geometry" />
         </mxCell>
         <mxCell id="6gVN2SOM8mbUTCLRi7c8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mXisu1iTDLMtMhRkeNwS-69" target="6gVN2SOM8mbUTCLRi7c8-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-14" value="Fund Flow X" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1380" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-15" value="atomic field" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="6gVN2SOM8mbUTCLRi7c8-14">
+          <mxGeometry y="40" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-16" value="Fund Summary Y" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1520" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-17" value="atomic field" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="6gVN2SOM8mbUTCLRi7c8-16">
+          <mxGeometry y="40" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6gVN2SOM8mbUTCLRi7c8-18" target="6gVN2SOM8mbUTCLRi7c8-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-25" value="extract and format" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6gVN2SOM8mbUTCLRi7c8-24">
+          <mxGeometry x="0.003" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-18" value="reconciliation file b (copy)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="8EhN2QBnAJq9SpPhxFZ0-27" target="6gVN2SOM8mbUTCLRi7c8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-21" value="atomic field" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1450" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-22" value="atomic field" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1590" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-27" value="Attention!&amp;nbsp; Only extract and format, no calculation for fund flow analysis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF3333;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1490" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-29" value="Fund Flow" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1390" width="200" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-30" value="atomic field" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="6gVN2SOM8mbUTCLRi7c8-29">
+          <mxGeometry y="50" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-31" value="aggregated field" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="6gVN2SOM8mbUTCLRi7c8-29">
+          <mxGeometry y="80" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6gVN2SOM8mbUTCLRi7c8-30" target="6gVN2SOM8mbUTCLRi7c8-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="1455" />
+              <mxPoint x="-90" y="1435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;compare&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6gVN2SOM8mbUTCLRi7c8-32">
+          <mxGeometry x="-0.6558" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6gVN2SOM8mbUTCLRi7c8-34" target="6gVN2SOM8mbUTCLRi7c8-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6gVN2SOM8mbUTCLRi7c8-34" target="6gVN2SOM8mbUTCLRi7c8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-34" value="calculation" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.calculator;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1545" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6gVN2SOM8mbUTCLRi7c8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="6gVN2SOM8mbUTCLRi7c8-31" target="6gVN2SOM8mbUTCLRi7c8-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
