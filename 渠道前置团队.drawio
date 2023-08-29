@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T15:13:03.615Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Wow5uZKI-22ATTYJ-AoD" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T15:18:39.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="50PiKivLZLkKnW-C_tF0" version="21.6.9" type="github">
   <diagram name="Page-1" id="KtC437doS44tO2pb6mZ8">
     <mxGraphModel dx="2133" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -323,8 +323,11 @@
         <mxCell id="--BedkbPNoYJuqEjWQFw-120" value="unknown&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2085" y="900" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="--BedkbPNoYJuqEjWQFw-137" value="&lt;h1&gt;HC&lt;/h1&gt;&lt;p&gt;1. Senior Software Enginer&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="1340" width="520" height="210" as="geometry" />
+        <mxCell id="--BedkbPNoYJuqEjWQFw-137" value="&lt;h1&gt;HC&lt;/h1&gt;&lt;p&gt;1. Senior Software Enginer (manager)&amp;nbsp; 3， POS 1， Biller 1， Fund 1&lt;/p&gt;&lt;p&gt;2. Junior or middle Software Engineer 6 (include TZ 4)&lt;/p&gt;&lt;p&gt;3. Senior DevOps 1&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="1340" width="520" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="--BedkbPNoYJuqEjWQFw-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="--BedkbPNoYJuqEjWQFw-137" target="--BedkbPNoYJuqEjWQFw-137">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
