@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T16:15:55.031Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ODDRGeu76AJ96JxOHZm2" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T16:30:20.066Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="AZK-4ahOZo0GAYHY4CiQ" version="21.7.1" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
-    <mxGraphModel dx="2446" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3029" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2299,6 +2299,39 @@
         </mxCell>
         <mxCell id="eTekOxELLFIa57RMStHF-7" value="set the old request reference to request bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7840" y="-560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTekOxELLFIa57RMStHF-16" value="set request reference to request response bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7840" y="-440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTekOxELLFIa57RMStHF-17" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8290" y="-1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTekOxELLFIa57RMStHF-18" value="new a request response object as result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8290" y="-960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTekOxELLFIa57RMStHF-19" value="create reqeust bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8290" y="-840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTekOxELLFIa57RMStHF-20" value="set request reference" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8290" y="-720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTekOxELLFIa57RMStHF-21" value="convert rpc param to request bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8290" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTekOxELLFIa57RMStHF-22" value="convert credentials to request bean or headers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8290" y="-480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTekOxELLFIa57RMStHF-23" value="set request body to request response bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8290" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTekOxELLFIa57RMStHF-24" value="send request to cahnnel and get the response body and response code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8290" y="-240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTekOxELLFIa57RMStHF-25" value="response body is empty" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8310" y="-120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eTekOxELLFIa57RMStHF-26" value="response body is wrong" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8310" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
