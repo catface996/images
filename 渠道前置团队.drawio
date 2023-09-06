@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T22:12:27.316Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="etBwTGuIGOr_jO0c8GKU" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T22:12:56.350Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XtwDnOBBttz6vhoua_zE" version="21.7.2" type="github">
   <diagram name="Page-1" id="KtC437doS44tO2pb6mZ8">
     <mxGraphModel dx="2133" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -481,13 +481,13 @@
         <mxCell id="7PJ_ouQir3WMNDnTUorK-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="7PJ_ouQir3WMNDnTUorK-3" target="7PJ_ouQir3WMNDnTUorK-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7PJ_ouQir3WMNDnTUorK-3" value="Offered" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="7PJ_ouQir3WMNDnTUorK-3" value="Offered" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="2190" y="900" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7PJ_ouQir3WMNDnTUorK-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="7PJ_ouQir3WMNDnTUorK-4" target="7PJ_ouQir3WMNDnTUorK-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7PJ_ouQir3WMNDnTUorK-4" value="unknown" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="7PJ_ouQir3WMNDnTUorK-4" value="unknown" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="2260" y="900" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7PJ_ouQir3WMNDnTUorK-9" value="Junior / Middle Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
