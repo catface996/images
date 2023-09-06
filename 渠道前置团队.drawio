@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T19:39:55.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NX1JukcX1m-I-rNzrZMw" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T19:42:58.737Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="gIxz5XMLqa3l_bbEQPq1" version="21.7.2" type="github">
   <diagram name="Page-1" id="KtC437doS44tO2pb6mZ8">
     <mxGraphModel dx="2133" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -470,7 +470,7 @@
         <mxCell id="bkGjmUBSHdw2T1_qUfAA-67" value="unknown" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1040" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bkGjmUBSHdw2T1_qUfAA-75" value="&lt;h1&gt;Tester HC&amp;nbsp;&lt;/h1&gt;&lt;p&gt;1. Senior Tester Enginer (manager)&amp;nbsp; 3， POS 1， Biller 1， Fund 1&lt;/p&gt;&lt;p&gt;2. Junior or middle Tester Engineer 5&lt;/p&gt;&lt;p&gt;3. Senior DevOps 1&lt;/p&gt;&lt;p&gt;PS: Developer : Tester = 2.5:1&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bkGjmUBSHdw2T1_qUfAA-75" value="&lt;h1&gt;Tester HC&amp;nbsp;&lt;/h1&gt;&lt;p&gt;1. Senior Tester Enginer (manager)&amp;nbsp; 3， POS 1， Biller 1， Fund 1&lt;/p&gt;&lt;p&gt;2. Junior or middle Tester Engineer 5&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PS: Developer : Tester = 2.5:1&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="1320" width="520" height="150" as="geometry" />
         </mxCell>
       </root>
