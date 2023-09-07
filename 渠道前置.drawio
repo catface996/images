@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T10:08:53.978Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9hCicgxpzWYxGbIlhUO7" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T10:10:05.757Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0C-qZbns0XQltikqXx31" version="21.7.2" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="2659" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2339,7 +2339,7 @@
         <mxCell id="r0fb6YG10OdeBfwIxHy6-1" value="Aliyun" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1140" y="-120" width="660" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="r0fb6YG10OdeBfwIxHy6-2" value="&lt;br style=&quot;font-size: 15px;&quot;&gt;paynet-switch-center" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-2" value="&lt;br&gt;order-siwitch" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-1049" y="45" width="460" height="145" as="geometry" />
         </mxCell>
         <mxCell id="r0fb6YG10OdeBfwIxHy6-4" value="AWS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;align=left;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
@@ -2360,7 +2360,7 @@
         <mxCell id="r0fb6YG10OdeBfwIxHy6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1" source="r0fb6YG10OdeBfwIxHy6-5" target="r0fb6YG10OdeBfwIxHy6-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r0fb6YG10OdeBfwIxHy6-5" value="&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;channel-switch" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-5" value="&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;channel-switch" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-1044" y="341" width="470" height="269" as="geometry" />
         </mxCell>
         <mxCell id="r0fb6YG10OdeBfwIxHy6-6" value="AirTime&amp;amp;Data" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
