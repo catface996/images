@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T10:13:55.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sx38L57JqV0wQRGF_OHB" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T10:20:08.552Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JVIbmrHDvqjyHDvvNwh3" version="21.7.2" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
-    <mxGraphModel dx="5746" dy="3244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3932" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2363,7 +2363,7 @@
         <mxCell id="r0fb6YG10OdeBfwIxHy6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1" source="r0fb6YG10OdeBfwIxHy6-5" target="r0fb6YG10OdeBfwIxHy6-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r0fb6YG10OdeBfwIxHy6-5" value="&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;channel-distribute" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-5" value="&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;channel-distribute-execution" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-1704" y="-600" width="470" height="269" as="geometry" />
         </mxCell>
         <mxCell id="r0fb6YG10OdeBfwIxHy6-6" value="AirTime&amp;amp;Data" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
