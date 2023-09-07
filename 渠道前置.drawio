@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T09:12:48.512Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8YaqYuToCZrsz7XCBQ4P" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T09:47:00.106Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="SF7hvummWWKcO_iAiZaY" version="21.7.2" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="2659" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2352,10 +2352,10 @@
           <mxGeometry x="-1020" y="329" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r0fb6YG10OdeBfwIxHy6-7" value="Betting" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="329" width="20" height="20" as="geometry" />
+          <mxGeometry x="-950" y="329" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r0fb6YG10OdeBfwIxHy6-8" value="Betting" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="-855" y="329" width="20" height="20" as="geometry" />
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-8" value="Electricity" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-891" y="329" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
