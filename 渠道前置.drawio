@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T16:31:29.843Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="G1JAL59tU-_wpw7_IJLJ" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T09:04:52.325Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="n2EPTDvdBqBs2SnZm_Ae" version="21.7.2" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
-    <mxGraphModel dx="3029" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2659" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2251,90 +2251,93 @@
         <mxCell id="F5EeiO8y-2rGbmsvdMmW-36" value="DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="5242.88" y="3610" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTekOxELLFIa57RMStHF-1" target="eTekOxELLFIa57RMStHF-2">
+        <mxCell id="eTekOxELLFIa57RMStHF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eTekOxELLFIa57RMStHF-1" target="eTekOxELLFIa57RMStHF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7840" y="-1060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTekOxELLFIa57RMStHF-2" target="eTekOxELLFIa57RMStHF-5">
+        <mxCell id="eTekOxELLFIa57RMStHF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eTekOxELLFIa57RMStHF-2" target="eTekOxELLFIa57RMStHF-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-2" value="new a request response object as result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-2" value="new a request response object as result" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7840" y="-940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTekOxELLFIa57RMStHF-3" target="eTekOxELLFIa57RMStHF-4">
+        <mxCell id="eTekOxELLFIa57RMStHF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eTekOxELLFIa57RMStHF-3" target="eTekOxELLFIa57RMStHF-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-12" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTekOxELLFIa57RMStHF-11">
+        <mxCell id="eTekOxELLFIa57RMStHF-12" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eTekOxELLFIa57RMStHF-11" vertex="1" connectable="0">
           <mxGeometry x="-0.078" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTekOxELLFIa57RMStHF-3" target="eTekOxELLFIa57RMStHF-7">
+        <mxCell id="eTekOxELLFIa57RMStHF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eTekOxELLFIa57RMStHF-3" target="eTekOxELLFIa57RMStHF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-14" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTekOxELLFIa57RMStHF-13">
+        <mxCell id="eTekOxELLFIa57RMStHF-14" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eTekOxELLFIa57RMStHF-13" vertex="1" connectable="0">
           <mxGeometry x="-0.3736" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-3" value="request reference is blank" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-3" value="request reference is blank" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7860" y="-690" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTekOxELLFIa57RMStHF-4" target="eTekOxELLFIa57RMStHF-6">
+        <mxCell id="eTekOxELLFIa57RMStHF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eTekOxELLFIa57RMStHF-4" target="eTekOxELLFIa57RMStHF-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-4" value="generate request reference" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-4" value="generate request reference" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8030" y="-680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTekOxELLFIa57RMStHF-5" target="eTekOxELLFIa57RMStHF-3">
+        <mxCell id="eTekOxELLFIa57RMStHF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eTekOxELLFIa57RMStHF-5" target="eTekOxELLFIa57RMStHF-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-5" value="create reqeust bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-5" value="create reqeust bean" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7840" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-6" value="set rquest reference to&amp;nbsp; request bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-6" value="set rquest reference to&amp;nbsp; request bean" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8030" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-7" value="set the old request reference to request bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-7" value="set the old request reference to request bean" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7840" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-16" value="set request reference to request response bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-16" value="set request reference to request response bean" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7840" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-17" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-17" value="start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8290" y="-1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-18" value="new a request response object as result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-18" value="new a request response object as result" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8290" y="-960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-19" value="create reqeust bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-19" value="create reqeust bean" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8290" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-20" value="set request reference" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-20" value="set request reference" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8290" y="-720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-21" value="convert rpc param to request bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-21" value="convert rpc param to request bean" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8290" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-22" value="convert credentials to request bean or headers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-22" value="convert credentials to request bean or headers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8290" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-23" value="set request body to request response bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-23" value="set request body to request response bean" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8290" y="-360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-24" value="send request to cahnnel and get the response body and response code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-24" value="send request to cahnnel and get the response body and response code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8290" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-25" value="response body is empty" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-25" value="response body is empty" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8310" y="-120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-26" value="response body is wrong" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-26" value="response body is wrong" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8310" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eTekOxELLFIa57RMStHF-27" value="set response body to request response bean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eTekOxELLFIa57RMStHF-27" value="set response body to request response bean" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8290" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-1" value="Aliyun" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-1140" y="20" width="780" height="338" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
