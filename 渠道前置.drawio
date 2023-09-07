@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T09:47:00.106Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="SF7hvummWWKcO_iAiZaY" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T09:49:10.571Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="2COYBrv7nKmX5v0AgeDe" version="21.7.2" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="2659" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2343,10 +2343,10 @@
           <mxGeometry x="-910" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r0fb6YG10OdeBfwIxHy6-4" value="AWS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="281" width="640" height="259" as="geometry" />
+          <mxGeometry x="-1140" y="281" width="640" height="359" as="geometry" />
         </mxCell>
-        <mxCell id="r0fb6YG10OdeBfwIxHy6-5" value="&lt;br&gt;&lt;br&gt;channel-switch" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="340" width="470" height="150" as="geometry" />
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-5" value="&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;channel-switch" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="340" width="470" height="210" as="geometry" />
         </mxCell>
         <mxCell id="r0fb6YG10OdeBfwIxHy6-6" value="AirTime&amp;amp;Data" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-1020" y="329" width="20" height="20" as="geometry" />
@@ -2356,6 +2356,15 @@
         </mxCell>
         <mxCell id="r0fb6YG10OdeBfwIxHy6-8" value="Electricity" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-891" y="329" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-9" value="Transfer Outward" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="329" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-10" value="Card Inward" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="329" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-11" value="POS" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-635" y="329" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
