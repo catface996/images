@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T10:01:13.850Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Fof5neKdxgTWHvREeg_0" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T10:06:28.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="QvvELMSE0u91TM6p2s66" version="21.7.2" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="2659" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2337,10 +2337,10 @@
           <mxGeometry x="8290" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r0fb6YG10OdeBfwIxHy6-1" value="Aliyun" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="20" width="640" height="230" as="geometry" />
+          <mxGeometry x="-1140" y="-120" width="640" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="r0fb6YG10OdeBfwIxHy6-2" value="paynet-switch-center" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="105" width="120" height="60" as="geometry" />
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-2" value="&lt;br style=&quot;font-size: 15px;&quot;&gt;paynet-switch-center" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="45" width="460" height="145" as="geometry" />
         </mxCell>
         <mxCell id="r0fb6YG10OdeBfwIxHy6-4" value="AWS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-1140" y="281" width="660" height="599" as="geometry" />
@@ -2425,6 +2425,36 @@
         </mxCell>
         <mxCell id="r0fb6YG10OdeBfwIxHy6-26" value="ng-xxx-channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-610" y="752" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-32" value="Route Order Manage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-33" value="Route Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-34" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-751" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-35" value="Trade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-891" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-37" value="AirTime&amp;amp;Data" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-1019" y="30" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-38" value="Betting" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-949" y="30" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-39" value="Electricity" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-887" y="30" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-40" value="Transfer Outward" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-805" y="30" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-41" value="Card Inward" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-714" y="30" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r0fb6YG10OdeBfwIxHy6-42" value="POS" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-645" y="30" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
