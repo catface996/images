@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T08:03:39.480Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Q2lzd33rFk08mB_aRqfY" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T08:13:45.721Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="LmUf0LEFw2xbjyZ0MZ6S" version="21.7.4" type="github">
   <diagram name="Page-1" id="7rrlnRDn3Ey-M3PMKUC_">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QGLvtWHG-Ezv7xg63Fkx-2" value="MainOne" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QGLvtWHG-Ezv7xg63Fkx-2" value="MainOne" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="560" height="430" as="geometry" />
         </mxCell>
         <mxCell id="QGLvtWHG-Ezv7xg63Fkx-4" value="Room A" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -13,7 +13,7 @@
         <mxCell id="QGLvtWHG-Ezv7xg63Fkx-5" value="Room B" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="420" y="460" width="230" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="QGLvtWHG-Ezv7xg63Fkx-6" value="NIBSS" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QGLvtWHG-Ezv7xg63Fkx-6" value="NIBSS" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="560" height="280" as="geometry" />
         </mxCell>
         <mxCell id="QGLvtWHG-Ezv7xg63Fkx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#007FFF;strokeWidth=2;" edge="1" parent="1" source="QGLvtWHG-Ezv7xg63Fkx-7" target="QGLvtWHG-Ezv7xg63Fkx-9">
@@ -59,7 +59,7 @@
         <mxCell id="QGLvtWHG-Ezv7xg63Fkx-11" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
           <mxGeometry x="360" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QGLvtWHG-Ezv7xg63Fkx-18" value="AWS" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="QGLvtWHG-Ezv7xg63Fkx-18" value="AWS" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="120" y="920" width="560" height="280" as="geometry" />
         </mxCell>
         <mxCell id="QGLvtWHG-Ezv7xg63Fkx-20" value="Nginx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
