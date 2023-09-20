@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T17:06:16.594Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="U-yV0AB6KarbWBrXU6su" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T17:11:07.682Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ZolM0nsQq7Vr7wrFyOVY" version="21.7.5" type="github">
   <diagram name="第 1 页" id="faRtsbHU78OzbmwTVvDm">
     <mxGraphModel dx="2261" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="680" y="490" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BzFszZulR6ruQ1HLFXBk-14" value="Palmpay Standard Code" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry y="250" width="560" height="160" as="geometry" />
+          <mxGeometry y="245" width="560" height="160" as="geometry" />
         </mxCell>
         <mxCell id="BzFszZulR6ruQ1HLFXBk-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="BzFszZulR6ruQ1HLFXBk-15" target="BzFszZulR6ruQ1HLFXBk-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -78,10 +78,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BzFszZulR6ruQ1HLFXBk-15" value="Palmpay Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="285" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BzFszZulR6ruQ1HLFXBk-16" value="condition" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="210" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="285" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BzFszZulR6ruQ1HLFXBk-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BzFszZulR6ruQ1HLFXBk-18" target="AeNvjZw-Mt88mZepkle8-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -168,7 +168,7 @@
           <mxGeometry x="-210" y="670" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BzFszZulR6ruQ1HLFXBk-48" value="message" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="330" y="290" width="121" height="90" as="geometry" />
+          <mxGeometry x="330" y="285" width="121" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BzFszZulR6ruQ1HLFXBk-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="BzFszZulR6ruQ1HLFXBk-65" target="BzFszZulR6ruQ1HLFXBk-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -202,6 +202,9 @@
         </mxCell>
         <mxCell id="AeNvjZw-Mt88mZepkle8-2" value="Transaction&lt;br&gt;Status" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-90" y="670" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AeNvjZw-Mt88mZepkle8-5" value="&lt;h1&gt;Condition&lt;/h1&gt;&lt;div&gt;value: INVALID_PHONE_NUMBER&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;effect: resultCode | errorCode | messageCode | actionCode&lt;/div&gt;&lt;div&gt;description:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;value: The phone number is invalid.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;language: English&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;people: customer&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;terminal: PalmpayApp&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;platform: android&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;version: 1.0&lt;/div&gt;&lt;/div&gt;&lt;ul&gt;&lt;ul&gt;&lt;br&gt;  &lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="410" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
