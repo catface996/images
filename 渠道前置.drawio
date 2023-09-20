@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T03:10:31.783Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lhjLnvVwM4PYANWvTgeB" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T06:47:20.050Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="AuI_y2Cf24xI3RzJD38N" version="21.7.5" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="3728" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2578,7 +2578,7 @@
         <mxCell id="y6ZX-k-y6UV3CnEvCRo2-26" value="set response reference to result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8040" y="487" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y6ZX-k-y6UV3CnEvCRo2-32" value="&lt;h1&gt;Extract Response Code&lt;/h1&gt;&lt;p&gt;case 1: use the http status as response code&lt;/p&gt;&lt;p&gt;case 2: extract from response body in a specify single field&lt;/p&gt;&lt;p&gt;case 3: extract from respons body in multiple fields and combine them&lt;/p&gt;&lt;p&gt;case 4: specify a prefix for different endpoint and same response code&lt;/p&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="y6ZX-k-y6UV3CnEvCRo2-32" value="&lt;h1&gt;Extract Response Code&lt;/h1&gt;&lt;p&gt;case 1: use the http status as response code&lt;/p&gt;&lt;p&gt;case 2: extract from response body in a specify single field&lt;/p&gt;&lt;p&gt;case 3: extract from response body in multiple fields and combine them&lt;/p&gt;&lt;p&gt;case 4: specify a prefix for different endpoint and same response code&lt;/p&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="7630" y="135" width="400" height="150" as="geometry" />
         </mxCell>
         <mxCell id="y6ZX-k-y6UV3CnEvCRo2-33" value="Keep the sequence always like this" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
