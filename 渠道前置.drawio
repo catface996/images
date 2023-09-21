@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T07:55:45.521Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wMMfq-QPvZT5jPi-xZ6T" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T09:50:10.900Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ajZwzbAj-76_jJW0vN2-" version="21.7.5" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="4393" dy="2222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2632,6 +2632,23 @@
               <mxPoint x="-1654" y="100" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="C_WhmGZ73gEXkl2C0ZO0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C_WhmGZ73gEXkl2C0ZO0-17" target="C_WhmGZ73gEXkl2C0ZO0-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1654" y="530" />
+              <mxPoint x="-1380" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_WhmGZ73gEXkl2C0ZO0-17" value="record route decision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1714" y="268" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C_WhmGZ73gEXkl2C0ZO0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C_WhmGZ73gEXkl2C0ZO0-15" target="C_WhmGZ73gEXkl2C0ZO0-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_WhmGZ73gEXkl2C0ZO0-19" value="choose channel gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1440.5" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
