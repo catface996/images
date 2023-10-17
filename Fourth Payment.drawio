@@ -1,23 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T05:43:39.667Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="G1jPMucfq79CNFF_y2YU" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T05:48:22.379Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="i20ZfPQIAj_mEF7hvDv_" version="21.8.2" type="github">
   <diagram name="Page-1" id="z-tZdo9YfumDO6y8S2xv">
-    <mxGraphModel dx="2336" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1297" dy="259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5btWQWwLIaZkZKoqhnkt-2" value="Client A" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="239" y="170" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="221.75" y="170" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-3" target="5btWQWwLIaZkZKoqhnkt-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-3" value="Legal person A1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
-          <mxGeometry x="149" y="355" width="19.5" height="50" as="geometry" />
+          <mxGeometry x="131.75" y="355" width="19.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-2" target="5btWQWwLIaZkZKoqhnkt-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-5" target="5btWQWwLIaZkZKoqhnkt-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-5" value="Legal person A2" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
-          <mxGeometry x="253" y="355" width="19.5" height="50" as="geometry" />
+          <mxGeometry x="235.75" y="355" width="19.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-6" value="Legal person A3" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
-          <mxGeometry x="359" y="355" width="19.5" height="50" as="geometry" />
+          <mxGeometry x="341.75" y="355" width="19.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-2" target="5btWQWwLIaZkZKoqhnkt-5">
           <mxGeometry relative="1" as="geometry" />
@@ -46,33 +52,35 @@
         <mxCell id="5btWQWwLIaZkZKoqhnkt-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-10" target="5btWQWwLIaZkZKoqhnkt-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-17" target="5btWQWwLIaZkZKoqhnkt-19">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-17" target="5btWQWwLIaZkZKoqhnkt-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-17" target="5btWQWwLIaZkZKoqhnkt-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-17" value="Tenant A --&amp;gt; Channel X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;" vertex="1" parent="1">
-          <mxGeometry x="98.75" y="600" width="56" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-18" value="Credential AX1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;" vertex="1" parent="1">
-          <mxGeometry x="10" y="730" width="25.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-19" value="Credential AX2" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;" vertex="1" parent="1">
-          <mxGeometry x="114" y="730" width="25.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-20" value="Credential AX3" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;" vertex="1" parent="1">
-          <mxGeometry x="220" y="730" width="25.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-17" target="5btWQWwLIaZkZKoqhnkt-18">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=-0.049;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-17" target="5btWQWwLIaZkZKoqhnkt-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="63" y="680" as="sourcePoint" />
+            <mxPoint x="180" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-26" target="5btWQWwLIaZkZKoqhnkt-28">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-17" value="Tenant A --&amp;gt; Channel X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;" vertex="1" parent="1">
+          <mxGeometry x="48.75" y="600" width="56" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-18" value="A1-X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="730" width="25.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-19" value="A2-X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;" vertex="1" parent="1">
+          <mxGeometry x="64" y="730" width="25.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-20" value="A3-X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;" vertex="1" parent="1">
+          <mxGeometry x="170" y="730" width="25.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-17" target="5btWQWwLIaZkZKoqhnkt-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="13" y="680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-26" target="5btWQWwLIaZkZKoqhnkt-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-26" target="5btWQWwLIaZkZKoqhnkt-29">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-26" target="5btWQWwLIaZkZKoqhnkt-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-26" value="Tenant B --&amp;gt; Channel X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;" vertex="1" parent="1">
@@ -87,21 +95,32 @@
         <mxCell id="5btWQWwLIaZkZKoqhnkt-29" value="Credential BX3" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;" vertex="1" parent="1">
           <mxGeometry x="791.25" y="730" width="25.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-26" target="5btWQWwLIaZkZKoqhnkt-27">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-26" target="5btWQWwLIaZkZKoqhnkt-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="634.25" y="680" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-32" target="5btWQWwLIaZkZKoqhnkt-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="141" y="580" />
+              <mxPoint x="-27" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-32" value="Channel X" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/switch_out_of_band.svg;" vertex="1" parent="1">
-          <mxGeometry x="121" y="510" width="96" height="24" as="geometry" />
+          <mxGeometry x="93.5" y="510" width="96" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-33" target="5btWQWwLIaZkZKoqhnkt-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-33" value="Channel Y" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/switch_voyager.svg;" vertex="1" parent="1">
           <mxGeometry x="308.25" y="510" width="96" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-36" target="5btWQWwLIaZkZKoqhnkt-38">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-36" target="5btWQWwLIaZkZKoqhnkt-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-36" target="5btWQWwLIaZkZKoqhnkt-39">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-36" target="5btWQWwLIaZkZKoqhnkt-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-36" value="Tenant A --&amp;gt; Channel X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;" vertex="1" parent="1">
@@ -116,32 +135,32 @@
         <mxCell id="5btWQWwLIaZkZKoqhnkt-39" value="Credential AX3" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;" vertex="1" parent="1">
           <mxGeometry x="1070" y="730" width="25.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-36" target="5btWQWwLIaZkZKoqhnkt-37">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-36" target="5btWQWwLIaZkZKoqhnkt-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="913" y="680" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-43" target="5btWQWwLIaZkZKoqhnkt-45">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-43" target="5btWQWwLIaZkZKoqhnkt-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-43" target="5btWQWwLIaZkZKoqhnkt-46">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-43" target="5btWQWwLIaZkZKoqhnkt-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-43" value="Tenant A --&amp;gt; Channel X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;" vertex="1" parent="1">
-          <mxGeometry x="358.25" y="600" width="56" height="58" as="geometry" />
+          <mxGeometry x="361.25" y="600" width="56" height="58" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-44" value="Credential AX1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;" vertex="1" parent="1">
-          <mxGeometry x="269.5" y="730" width="25.5" height="50" as="geometry" />
+          <mxGeometry x="272.5" y="730" width="25.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-45" value="Credential AX2" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;" vertex="1" parent="1">
-          <mxGeometry x="373.5" y="730" width="25.5" height="50" as="geometry" />
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-45" value="Credential AY2" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;" vertex="1" parent="1">
+          <mxGeometry x="376.5" y="730" width="25.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-46" value="Credential AX3" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;" vertex="1" parent="1">
-          <mxGeometry x="479.5" y="730" width="25.5" height="50" as="geometry" />
+          <mxGeometry x="482.5" y="730" width="25.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-43" target="5btWQWwLIaZkZKoqhnkt-44">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-43" target="5btWQWwLIaZkZKoqhnkt-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="322.5" y="680" as="sourcePoint" />
+            <mxPoint x="325.5" y="680" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-48" value="Channel X" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/switch_out_of_band.svg;" vertex="1" parent="1">
@@ -167,6 +186,9 @@
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-55" value="Tenant B" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;" vertex="1" parent="1">
           <mxGeometry x="-120" y="280" width="56" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-62" value="Credentials" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;" vertex="1" parent="1">
+          <mxGeometry x="-259" y="450" width="25.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
