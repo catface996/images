@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T03:42:09.235Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="DeR5VDk4fvObQVq-PyxJ" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T03:43:30.840Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="cwCVWXctezTxQLC75OmJ" version="21.8.2" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="4901" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2766,19 +2766,14 @@
         <mxCell id="CELD9vxZqJvhF8fR5sNV-92" value="Trade&lt;br&gt;(old version)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="CELD9vxZqJvhF8fR5sNV-89">
           <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CELD9vxZqJvhF8fR5sNV-93" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="CELD9vxZqJvhF8fR5sNV-89" source="CELD9vxZqJvhF8fR5sNV-94" target="CELD9vxZqJvhF8fR5sNV-97">
+        <mxCell id="CELD9vxZqJvhF8fR5sNV-93" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.578;entryY=-0.067;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;entryPerimeter=0;" edge="1" parent="CELD9vxZqJvhF8fR5sNV-89" source="CELD9vxZqJvhF8fR5sNV-94" target="CELD9vxZqJvhF8fR5sNV-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CELD9vxZqJvhF8fR5sNV-94" value="Trade&lt;br&gt;(new version)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CELD9vxZqJvhF8fR5sNV-89">
           <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CELD9vxZqJvhF8fR5sNV-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="CELD9vxZqJvhF8fR5sNV-89" source="CELD9vxZqJvhF8fR5sNV-102" target="CELD9vxZqJvhF8fR5sNV-97">
+        <mxCell id="CELD9vxZqJvhF8fR5sNV-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="CELD9vxZqJvhF8fR5sNV-89" source="CELD9vxZqJvhF8fR5sNV-125" target="CELD9vxZqJvhF8fR5sNV-97">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CELD9vxZqJvhF8fR5sNV-96" value="new" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CELD9vxZqJvhF8fR5sNV-95">
-          <mxGeometry x="-0.243" relative="1" as="geometry">
-            <mxPoint x="-63" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="CELD9vxZqJvhF8fR5sNV-97" value="switch-center" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CELD9vxZqJvhF8fR5sNV-89">
           <mxGeometry x="380" y="510" width="120" height="60" as="geometry" />
@@ -2848,7 +2843,7 @@
         <mxCell id="CELD9vxZqJvhF8fR5sNV-121" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CELD9vxZqJvhF8fR5sNV-89" source="CELD9vxZqJvhF8fR5sNV-117" target="CELD9vxZqJvhF8fR5sNV-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CELD9vxZqJvhF8fR5sNV-117" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CELD9vxZqJvhF8fR5sNV-89">
+        <mxCell id="CELD9vxZqJvhF8fR5sNV-117" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CELD9vxZqJvhF8fR5sNV-89">
           <mxGeometry x="270" y="263" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CELD9vxZqJvhF8fR5sNV-118" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.326;entryY=0.074;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CELD9vxZqJvhF8fR5sNV-89" source="CELD9vxZqJvhF8fR5sNV-92" target="CELD9vxZqJvhF8fR5sNV-116">
@@ -2859,6 +2854,20 @@
         </mxCell>
         <mxCell id="CELD9vxZqJvhF8fR5sNV-122" value="&lt;h1&gt;Challenges&lt;/h1&gt;&lt;p&gt;1.Compatibility for old trade system and new trade system. Especially in a middle stage, the migration have not completed , the new trade system want use the new protocols.&lt;/p&gt;&lt;p&gt;2.The refactor for compatibility in pay-route system. Not only for the transaction traffic but also for the re-query traffic.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="CELD9vxZqJvhF8fR5sNV-89">
           <mxGeometry x="20" y="780" width="820" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CELD9vxZqJvhF8fR5sNV-125" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CELD9vxZqJvhF8fR5sNV-89">
+          <mxGeometry x="425" y="495" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CELD9vxZqJvhF8fR5sNV-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="CELD9vxZqJvhF8fR5sNV-89" source="CELD9vxZqJvhF8fR5sNV-102" target="CELD9vxZqJvhF8fR5sNV-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2800" y="-710" as="sourcePoint" />
+            <mxPoint x="-2620" y="-630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CELD9vxZqJvhF8fR5sNV-127" value="new" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CELD9vxZqJvhF8fR5sNV-126">
+          <mxGeometry x="-0.243" relative="1" as="geometry">
+            <mxPoint x="-63" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
