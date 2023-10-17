@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T14:51:23.651Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="7ZKs5Hw6DsP3UMbyf6FG" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T14:52:30.063Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4RlVY4O_RlgUdlbq3ZsR" version="21.8.2" type="github">
   <diagram name="Page-1" id="z-tZdo9YfumDO6y8S2xv">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,16 +48,16 @@
         <mxCell id="5btWQWwLIaZkZKoqhnkt-10" value="Client B" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#996185;fillColor=#e6d0de;shape=mxgraph.azure.user;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="783.25" y="170" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-11" value="Legal person B1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-11" value="Applicant B1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
           <mxGeometry x="693.25" y="355" width="19.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-10" target="5btWQWwLIaZkZKoqhnkt-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-13" value="Legal person B2" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-13" value="Applicant B2" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
           <mxGeometry x="797.25" y="355" width="19.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-14" value="Legal person B3" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-14" value="Applicant B3" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
           <mxGeometry x="903.25" y="355" width="19.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-10" target="5btWQWwLIaZkZKoqhnkt-13">
@@ -324,7 +324,10 @@
         <mxCell id="5btWQWwLIaZkZKoqhnkt-142" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.462;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-134" target="5btWQWwLIaZkZKoqhnkt-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-134" value="Legal person C1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-134" target="5btWQWwLIaZkZKoqhnkt-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-134" value="Applicant C1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
           <mxGeometry x="1290" y="354" width="19.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-135" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-133" target="5btWQWwLIaZkZKoqhnkt-134">
@@ -335,13 +338,13 @@
             <mxPoint x="1404" y="400" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-136" value="Legal person C2" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-136" value="Applicant C2" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
           <mxGeometry x="1394" y="354" width="19.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-144" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-137" target="5btWQWwLIaZkZKoqhnkt-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-137" value="Legal person C3" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-137" value="Applicant C3" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
           <mxGeometry x="1500" y="354" width="19.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-138" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-133" target="5btWQWwLIaZkZKoqhnkt-136">
