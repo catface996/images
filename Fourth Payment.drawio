@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T07:38:09.119Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WsIYb5313WDw7wtMjwWI" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T07:39:46.014Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VqwU03WXE6XrZ7dEAIZQ" version="21.8.2" type="github">
   <diagram name="Page-1" id="z-tZdo9YfumDO6y8S2xv">
     <mxGraphModel dx="2363" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-2" value="Client A" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-2" value="Client A" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.user;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="221.75" y="170" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-3" target="5btWQWwLIaZkZKoqhnkt-32">
@@ -36,7 +36,7 @@
         <mxCell id="5btWQWwLIaZkZKoqhnkt-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-2" target="5btWQWwLIaZkZKoqhnkt-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-10" value="Client B" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-10" value="Client B" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#996185;fillColor=#e6d0de;shape=mxgraph.azure.user;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="783.25" y="170" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-11" value="Legal person B1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
@@ -65,7 +65,7 @@
             <mxPoint x="180" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-17" value="Tenant A --&amp;gt; Channel X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-17" value="Tenant A --&amp;gt; Channel X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#d5e8d4;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="48.75" y="600" width="56" height="58" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-18" value="A1-X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#d5e8d4;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;gradientColor=#97d077;" vertex="1" parent="1">
@@ -141,7 +141,7 @@
             <mxPoint x="470" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-65" value="Tenant A --&amp;gt; Channel X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-65" value="Tenant A --&amp;gt; Channel X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#996185;fillColor=#e6d0de;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="338.75" y="600" width="56" height="58" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-66" value="A1-Y" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#996185;fillColor=#e6d0de;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;gradientColor=#d5739d;" vertex="1" parent="1">
@@ -166,7 +166,7 @@
             <mxPoint x="781.75" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-72" value="Tenant A --&amp;gt; Channel X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-72" value="Tenant A --&amp;gt; Channel X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#d5e8d4;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="650.5" y="600" width="56" height="58" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-73" value="B1-X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#d5e8d4;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;gradientColor=#97d077;" vertex="1" parent="1">
@@ -191,7 +191,7 @@
             <mxPoint x="1069.63" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-86" value="Tenant A --&amp;gt; Channel X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-86" value="Tenant A --&amp;gt; Channel X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#996185;fillColor=#e6d0de;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="938.38" y="600" width="56" height="58" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-87" value="B1-Y" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#996185;fillColor=#e6d0de;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;gradientColor=#d5739d;" vertex="1" parent="1">
