@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T03:06:09.409Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0Op03GozN-ZWyw-ctHj9" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T03:09:42.063Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lBPWL8rx8PB-hiFt5SxW" version="21.8.2" type="github">
   <diagram name="Page-1" id="z-tZdo9YfumDO6y8S2xv">
     <mxGraphModel dx="2133" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="5btWQWwLIaZkZKoqhnkt-49" value="Channel Y" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/switch_voyager.svg;" vertex="1" parent="1">
           <mxGeometry x="903.25" y="510" width="96" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-52" value="Client A" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.user;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-52" value="Client&lt;br&gt;Business Concept" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.user;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="-11.25" y="1430" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-53" target="5btWQWwLIaZkZKoqhnkt-55">
@@ -408,7 +408,7 @@
         <mxCell id="5btWQWwLIaZkZKoqhnkt-163" value="Client A" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.user;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="-398.75" y="183" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-164" value="Tenant B" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#996185;fillColor=#e6d0de;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;gradientColor=#d5739d;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-164" value="Tenant&lt;br&gt;Product &amp;amp; Technology Concept" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#996185;fillColor=#e6d0de;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="202.5" y="1426" width="56" height="58" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-165" target="5btWQWwLIaZkZKoqhnkt-166">
@@ -419,7 +419,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-165" value="Legal person&lt;br&gt;or&lt;br&gt;Applicant" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-165" value="Legal person&lt;br&gt;or&lt;br&gt;Applicant&lt;br&gt;Business Concept&lt;br&gt;Product &amp;amp; Technology Concept" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
           <mxGeometry x="410.5" y="1430" width="19.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-166" target="5btWQWwLIaZkZKoqhnkt-167">
@@ -430,10 +430,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-166" value="Payment Service Provider&lt;br&gt;PSP" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-166" value="Payment Service Provider&lt;br&gt;PSP&lt;br&gt;Business Concept" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" vertex="1" parent="1">
           <mxGeometry x="591.25" y="1415" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-167" value="Channel X" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/switch_out_of_band.svg;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-167" value="Channel" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/switch_out_of_band.svg;" vertex="1" parent="1">
           <mxGeometry x="793.75" y="1443" width="96" height="24" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5btWQWwLIaZkZKoqhnkt-168" target="5btWQWwLIaZkZKoqhnkt-166">
