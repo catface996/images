@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T08:00:40.061Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="U9av-FBrrb_P1rXsC6J3" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T08:00:57.265Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dTKTSqa92oxbn9wiqD4_" version="21.8.2" type="github">
   <diagram name="Page-1" id="z-tZdo9YfumDO6y8S2xv">
     <mxGraphModel dx="2620" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -536,16 +536,16 @@
         <mxCell id="5btWQWwLIaZkZKoqhnkt-210" value="Legal Entity&lt;br&gt;&lt;font color=&quot;#006b00&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Low Risk&lt;br&gt;&lt;/b&gt;&lt;/font&gt;LE1" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" vertex="1" parent="1">
           <mxGeometry x="2140.75" y="881" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-211" value="Channel X" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/switch_out_of_band.svg;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-211" value="Channel Y" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/switch_out_of_band.svg;" vertex="1" parent="1">
           <mxGeometry x="2524" y="1290" width="96" height="24" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-214" value="Legal&amp;nbsp; Entity&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;High Risk&lt;br&gt;&lt;/font&gt;&lt;/b&gt;LE2" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png" vertex="1" parent="1">
           <mxGeometry x="2412.75" y="880" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-215" value="Channel Y" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/switch_voyager.svg;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-215" value="Channel Z" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/switch_voyager.svg;" vertex="1" parent="1">
           <mxGeometry x="2834" y="1290" width="96" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="5btWQWwLIaZkZKoqhnkt-216" value="Channel Z" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/switch_bare_metal_empty.svg;" vertex="1" parent="1">
+        <mxCell id="5btWQWwLIaZkZKoqhnkt-216" value="Channel X" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/switch_bare_metal_empty.svg;" vertex="1" parent="1">
           <mxGeometry x="2226" y="1290" width="96" height="24" as="geometry" />
         </mxCell>
         <mxCell id="5btWQWwLIaZkZKoqhnkt-218" value="Legal Entity&lt;br&gt;LE 3" style="image;html=1;image=img/lib/clip_art/people/Telesales_Man_128x128.png;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
