@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T06:50:08.986Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KzHywmqvKFd5eljunhYm" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T07:13:26.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-D7jNNwbtq_J-ca5LESE" version="22.0.6" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="6266" dy="3056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3155,15 +3155,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=2;" edge="1" parent="1" source="laZlIgPmlIxugE_HcH_K-78" target="laZlIgPmlIxugE_HcH_K-80">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1504" y="-1820" />
+              <mxPoint x="-1504" y="-1850" />
+              <mxPoint x="-1351" y="-1850" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-121" value="decide channel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-119">
           <mxGeometry x="-0.1043" relative="1" as="geometry">
             <mxPoint x="29" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="laZlIgPmlIxugE_HcH_K-78" value="switch-order" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1774" y="-1850" width="234" height="60" as="geometry" />
+        <mxCell id="laZlIgPmlIxugE_HcH_K-78" value="switch-order" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=17;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-1774" y="-1850" width="234" height="120" as="geometry" />
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-118" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="laZlIgPmlIxugE_HcH_K-79" target="laZlIgPmlIxugE_HcH_K-98">
           <mxGeometry relative="1" as="geometry">
@@ -3180,7 +3186,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-80" value="switch-engine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-1468" y="-1850" width="234" height="60" as="geometry" />
+          <mxGeometry x="-1468" y="-1820" width="234" height="60" as="geometry" />
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-105" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=2;" edge="1" parent="1" source="laZlIgPmlIxugE_HcH_K-110" target="laZlIgPmlIxugE_HcH_K-95">
           <mxGeometry relative="1" as="geometry" />
@@ -3192,7 +3198,7 @@
           <mxGeometry x="-1731" y="-1870" width="30.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-85" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1984.75" y="-1630" width="30.5" height="30" as="geometry" />
+          <mxGeometry x="-1950" y="-1630" width="30.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-87" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1652.25" y="-1870" width="30.5" height="30" as="geometry" />
@@ -3210,9 +3216,6 @@
               <mxPoint x="-1528" y="-1930" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="laZlIgPmlIxugE_HcH_K-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.535;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=2;curved=1;dashed=1;" edge="1" parent="1" source="laZlIgPmlIxugE_HcH_K-78" target="laZlIgPmlIxugE_HcH_K-127">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-94" value="ng-mtn-channel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2060" y="-1420" width="120" height="60" as="geometry" />
@@ -3267,11 +3270,11 @@
         <mxCell id="laZlIgPmlIxugE_HcH_K-124" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.443;entryY=0.103;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=2;" edge="1" parent="1" source="laZlIgPmlIxugE_HcH_K-81" target="laZlIgPmlIxugE_HcH_K-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="laZlIgPmlIxugE_HcH_K-127" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1920.5" y="-1630" width="30.5" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-128" value="&lt;h1&gt;Route Policy&lt;/h1&gt;&lt;p&gt;1. System Route Policy （Pay Route or Switch Distribution）&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Channel Route Policy&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1520" y="-2020" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=-0.079;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;dashed=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="laZlIgPmlIxugE_HcH_K-78" target="laZlIgPmlIxugE_HcH_K-85">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
