@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T05:56:31.278Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6uEfpKD_oer2bQ7R_gYV" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T05:57:05.943Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="vcDSZi5uuHOZlNe5W1mO" version="22.0.6" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="6266" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2940,7 +2940,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="laZlIgPmlIxugE_HcH_K-5" value="session id = 123456789012345678&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#9933FF;" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-4">
+        <mxCell id="laZlIgPmlIxugE_HcH_K-5" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;session id =&lt;/font&gt; 123456789012345678&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#9933FF;fontStyle=1;fontSize=12;" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-4">
           <mxGeometry x="0.127" y="3" relative="1" as="geometry">
             <mxPoint x="-237" y="-17" as="offset" />
           </mxGeometry>
