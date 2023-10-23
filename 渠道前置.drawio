@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T03:54:55.911Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="l8LaUi4OMsN5SlXUM4Xa" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T03:59:39.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="kiIDtO2RKk1N6BNQK3OB" version="22.0.6" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="6266" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2953,13 +2953,24 @@
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="laZlIgPmlIxugE_HcH_K-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="54.05" as="sourcePoint" />
-            <mxPoint x="170" y="54.05" as="targetPoint" />
+            <mxPoint x="25" y="105" as="sourcePoint" />
+            <mxPoint x="175" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="laZlIgPmlIxugE_HcH_K-36" value="customer validation request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-35">
+        <mxCell id="laZlIgPmlIxugE_HcH_K-36" value="customer validation&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;trans Id = 9876543210987654321" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-35">
           <mxGeometry x="0.3948" relative="1" as="geometry">
-            <mxPoint x="-27" y="-20" as="offset" />
+            <mxPoint x="-30" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="laZlIgPmlIxugE_HcH_K-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="260" as="sourcePoint" />
+            <mxPoint x="175" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-51" value="&amp;nbsp;payment&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;sessionId =&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#9933ff&quot;&gt;1234567890987654321&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;trans Id = 9876543210987654327&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-50">
+          <mxGeometry x="0.3948" relative="1" as="geometry">
+            <mxPoint x="-30" y="-31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-29" value="Business System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="laZlIgPmlIxugE_HcH_K-25">
@@ -2967,11 +2978,11 @@
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="laZlIgPmlIxugE_HcH_K-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="54.049999999999976" as="sourcePoint" />
+            <mxPoint x="10" y="54" as="sourcePoint" />
             <mxPoint x="950" y="54.049999999999976" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="laZlIgPmlIxugE_HcH_K-34" value="session Id = 1234567890987654321" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-33">
+        <mxCell id="laZlIgPmlIxugE_HcH_K-34" value="session Id = &lt;font color=&quot;#9933ff&quot;&gt;1234567890987654321&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-33">
           <mxGeometry x="-0.1174" y="1" relative="1" as="geometry">
             <mxPoint y="-18" as="offset" />
           </mxGeometry>
@@ -2982,9 +2993,20 @@
             <mxPoint x="175" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="laZlIgPmlIxugE_HcH_K-39" value="customer validation&amp;nbsp; trans &lt;br&gt;Id = 9876543210987654321" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-38">
+        <mxCell id="laZlIgPmlIxugE_HcH_K-39" value="customer validation&amp;nbsp; &lt;br&gt;trans Id = 9876543210987654321" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-38">
           <mxGeometry x="0.3948" relative="1" as="geometry">
             <mxPoint x="-30" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-52" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="laZlIgPmlIxugE_HcH_K-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="260" as="sourcePoint" />
+            <mxPoint x="175" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-53" value="&amp;nbsp;payment&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;sessionId =&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#9933ff&quot;&gt;1234567890987654321&lt;/font&gt;&lt;br&gt;trans Id = 9876543210987654327&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-52">
+          <mxGeometry x="0.3948" relative="1" as="geometry">
+            <mxPoint x="-25" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-30" value="Trade System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="laZlIgPmlIxugE_HcH_K-25">
