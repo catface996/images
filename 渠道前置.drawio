@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T04:00:17.028Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Ht0jgwsxxh9uF88gpoMZ" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T05:48:48.389Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="SwgBEWSUPTX9KEkoy0Nw" version="22.0.6" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="6266" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2931,7 +2931,7 @@
             <mxPoint x="34" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="laZlIgPmlIxugE_HcH_K-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="laZlIgPmlIxugE_HcH_K-2">
+        <mxCell id="laZlIgPmlIxugE_HcH_K-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="laZlIgPmlIxugE_HcH_K-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="64" as="sourcePoint" />
             <mxPoint x="950" y="64" as="targetPoint" />
@@ -2946,10 +2946,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-25" value="Session Among Different System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4520" y="-560" width="1230" height="470" as="geometry" />
+          <mxGeometry x="-4760" y="-560" width="1480" height="600" as="geometry" />
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-26" value="App" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="laZlIgPmlIxugE_HcH_K-25">
-          <mxGeometry x="40" y="80" width="200" height="360" as="geometry" />
+          <mxGeometry x="40" y="80" width="200" height="480" as="geometry" />
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="laZlIgPmlIxugE_HcH_K-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2962,7 +2962,7 @@
             <mxPoint x="-30" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="laZlIgPmlIxugE_HcH_K-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="laZlIgPmlIxugE_HcH_K-26">
+        <mxCell id="laZlIgPmlIxugE_HcH_K-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="laZlIgPmlIxugE_HcH_K-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="25" y="260" as="sourcePoint" />
             <mxPoint x="175" y="260" as="targetPoint" />
@@ -2970,16 +2970,16 @@
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-51" value="&amp;nbsp;payment&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;sessionId =&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#9933ff&quot;&gt;1234567890987654321&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;trans Id = 9876543210987654327&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-50">
           <mxGeometry x="0.3948" relative="1" as="geometry">
-            <mxPoint x="-30" y="-31" as="offset" />
+            <mxPoint x="-30" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-29" value="Business System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="laZlIgPmlIxugE_HcH_K-25">
-          <mxGeometry x="280" y="80" width="200" height="360" as="geometry" />
+          <mxGeometry x="280" y="80" width="200" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="laZlIgPmlIxugE_HcH_K-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="laZlIgPmlIxugE_HcH_K-29">
+        <mxCell id="laZlIgPmlIxugE_HcH_K-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="laZlIgPmlIxugE_HcH_K-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="54" as="sourcePoint" />
-            <mxPoint x="950" y="54.049999999999976" as="targetPoint" />
+            <mxPoint x="1170" y="54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-34" value="session Id = &lt;font color=&quot;#9933ff&quot;&gt;1234567890987654321&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-33">
@@ -2998,7 +2998,7 @@
             <mxPoint x="-30" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="laZlIgPmlIxugE_HcH_K-52" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="laZlIgPmlIxugE_HcH_K-29">
+        <mxCell id="laZlIgPmlIxugE_HcH_K-52" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="laZlIgPmlIxugE_HcH_K-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="25" y="260" as="sourcePoint" />
             <mxPoint x="175" y="260" as="targetPoint" />
@@ -3010,7 +3010,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-30" value="Trade System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="laZlIgPmlIxugE_HcH_K-25">
-          <mxGeometry x="519" y="80" width="200" height="360" as="geometry" />
+          <mxGeometry x="519" y="80" width="200" height="480" as="geometry" />
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" edge="1" parent="laZlIgPmlIxugE_HcH_K-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3023,8 +3023,41 @@
             <mxPoint x="-25" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="laZlIgPmlIxugE_HcH_K-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="259" as="sourcePoint" />
+            <mxPoint x="175" y="259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-55" value="&amp;nbsp;payment&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;sessionId =&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#9933ff&quot;&gt;1234567890987654321&lt;/font&gt;&lt;br&gt;trans Id = 9876543210987654327&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-54">
+          <mxGeometry x="0.3948" relative="1" as="geometry">
+            <mxPoint x="-25" y="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-61" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="laZlIgPmlIxugE_HcH_K-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="340" as="sourcePoint" />
+            <mxPoint x="175" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-62" value="&amp;nbsp;balance deduct&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;sessionId =&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#9933ff&quot;&gt;1234567890987654321&lt;/font&gt;&lt;br&gt;trans Id = 9876543210987654328&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-61">
+          <mxGeometry x="0.3948" relative="1" as="geometry">
+            <mxPoint x="-25" y="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-63" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="laZlIgPmlIxugE_HcH_K-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="21" y="419.09000000000003" as="sourcePoint" />
+            <mxPoint x="171" y="419.09000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-64" value="&amp;nbsp;transfer&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;sessionId =&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#9933ff&quot;&gt;1234567890987654321&lt;/font&gt;&lt;br&gt;trans Id = 9876543210987654329&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-63">
+          <mxGeometry x="0.3948" relative="1" as="geometry">
+            <mxPoint x="-25" y="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-31" value="Route System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="laZlIgPmlIxugE_HcH_K-25">
-          <mxGeometry x="760" y="80" width="200" height="360" as="geometry" />
+          <mxGeometry x="1000" y="80" width="200" height="480" as="geometry" />
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="laZlIgPmlIxugE_HcH_K-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3048,8 +3081,19 @@
             <mxPoint x="-25" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-67" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="laZlIgPmlIxugE_HcH_K-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="410" as="sourcePoint" />
+            <mxPoint x="175" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-68" value="&amp;nbsp;transfer&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;sessionId =&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#9933ff&quot;&gt;1234567890987654321&lt;/font&gt;&lt;br&gt;trans Id = 9876543210987654329&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-67">
+          <mxGeometry x="0.3948" relative="1" as="geometry">
+            <mxPoint x="-25" y="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-32" value="Channel Gateway System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="laZlIgPmlIxugE_HcH_K-25">
-          <mxGeometry x="1000" y="80" width="200" height="360" as="geometry" />
+          <mxGeometry x="1240" y="80" width="200" height="480" as="geometry" />
         </mxCell>
         <mxCell id="laZlIgPmlIxugE_HcH_K-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="laZlIgPmlIxugE_HcH_K-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3071,6 +3115,31 @@
         <mxCell id="laZlIgPmlIxugE_HcH_K-49" value="customer validation&amp;nbsp; &lt;br&gt;trans Id = 9876543210987654326" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-48">
           <mxGeometry x="0.3948" relative="1" as="geometry">
             <mxPoint x="-25" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="laZlIgPmlIxugE_HcH_K-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="410" as="sourcePoint" />
+            <mxPoint x="175" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-70" value="&amp;nbsp;transfer&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;sessionId =&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#9933ff&quot;&gt;1234567890987654321&lt;/font&gt;&lt;br&gt;trans Id = 9876543210987654329&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-69">
+          <mxGeometry x="0.3948" relative="1" as="geometry">
+            <mxPoint x="-25" y="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-56" value="Balance System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="laZlIgPmlIxugE_HcH_K-25">
+          <mxGeometry x="760" y="80" width="200" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="laZlIgPmlIxugE_HcH_K-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="340" as="sourcePoint" />
+            <mxPoint x="175" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-66" value="&amp;nbsp;balance deduct&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;sessionId =&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#9933ff&quot;&gt;1234567890987654321&lt;/font&gt;&lt;br&gt;trans Id = 9876543210987654328&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-65">
+          <mxGeometry x="0.3948" relative="1" as="geometry">
+            <mxPoint x="-25" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
