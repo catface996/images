@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T06:49:51.680Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="m_WMy24FEh48xVlHwmwC" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T06:50:08.986Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KzHywmqvKFd5eljunhYm" version="22.0.6" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="6266" dy="3056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3270,7 +3270,7 @@
         <mxCell id="laZlIgPmlIxugE_HcH_K-127" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1920.5" y="-1630" width="30.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="laZlIgPmlIxugE_HcH_K-128" value="&lt;h1&gt;Route Policy&lt;/h1&gt;&lt;p&gt;1. System Route Policy （Pay Route or Switch Distribution）&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="laZlIgPmlIxugE_HcH_K-128" value="&lt;h1&gt;Route Policy&lt;/h1&gt;&lt;p&gt;1. System Route Policy （Pay Route or Switch Distribution）&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Channel Route Policy&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1520" y="-2020" width="380" height="120" as="geometry" />
         </mxCell>
       </root>
