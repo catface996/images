@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T03:36:26.644Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KX6LHOFnQRxiwlxhmhsk" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T03:38:17.183Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="38Hp7p14x9aOgkMefw1s" version="22.0.6" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="5439" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2884,7 +2884,7 @@
             <mxPoint x="270" y="154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="laZlIgPmlIxugE_HcH_K-8" value="customer validation Trans Id= 9876543210987654321" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#007FFF;" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-7">
+        <mxCell id="laZlIgPmlIxugE_HcH_K-8" value="customer validation Trans Id= 987654321098765432&lt;font color=&quot;#ff0000&quot;&gt;1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#007FFF;" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-7">
           <mxGeometry x="0.4364" relative="1" as="geometry">
             <mxPoint x="34" y="-30" as="offset" />
           </mxGeometry>
@@ -2898,7 +2898,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="laZlIgPmlIxugE_HcH_K-10" value="payment Trans Id = 9876543210987654322&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#007FFF;" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-9">
+        <mxCell id="laZlIgPmlIxugE_HcH_K-10" value="payment Trans Id = 987654321098765432&lt;font color=&quot;#ff0000&quot;&gt;2&lt;/font&gt;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#007FFF;" vertex="1" connectable="0" parent="laZlIgPmlIxugE_HcH_K-9">
           <mxGeometry x="0.4364" relative="1" as="geometry">
             <mxPoint x="34" y="-30" as="offset" />
           </mxGeometry>
@@ -2944,6 +2944,9 @@
           <mxGeometry x="0.127" y="3" relative="1" as="geometry">
             <mxPoint x="-237" y="-17" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="laZlIgPmlIxugE_HcH_K-25" value="Session Among Different System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4090" y="-560" width="1000" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
