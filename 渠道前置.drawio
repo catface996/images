@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T08:25:50.588Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="FRTKT7-No0Ke2jtfr7Ax" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T11:49:25.748Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Cu32YnGtands5VET36PT" version="22.0.6" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="6328" dy="3090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4044,6 +4044,12 @@
         </mxCell>
         <mxCell id="qq1qCgFUCKlk6vfdCNsT-81" value="Y-Channel-Gateway" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="7970" y="3030" width="250" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="qq1qCgFUCKlk6vfdCNsT-82" value="X-Channel" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8570" y="2960" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qq1qCgFUCKlk6vfdCNsT-83" value="Y-Channel" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8800" y="2960" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
