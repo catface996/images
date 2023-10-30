@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T16:13:09.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KYYZwU74NPWBWh4aXzZ1" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T16:58:51.819Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IzMraayPq_A4I0ZVGqiI" version="22.0.8" type="github">
   <diagram name="Page-1" id="ZhJsTrzo2kOuEfdslqHn">
     <mxGraphModel dx="2514" dy="2098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -264,7 +264,7 @@
         <mxCell id="Xs8tRFVnev4NREjE3jiT-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-90" target="Xs8tRFVnev4NREjE3jiT-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-90" value="Download &amp;amp; Upload Recon Files" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-90" value="Download &amp;amp; Upload Recon Files" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="70" y="1110" width="200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-97" value="download&amp;nbsp; files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-90">
@@ -279,7 +279,7 @@
         <mxCell id="Xs8tRFVnev4NREjE3jiT-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-91" target="Xs8tRFVnev4NREjE3jiT-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-91" value="Parse Files &amp;amp; Generate Standard Data" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-91" value="Parse Files &amp;amp; Generate Standard Data" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="350" y="1110" width="240" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-94" value="Create Parse Task" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-91">
@@ -294,7 +294,7 @@
         <mxCell id="Xs8tRFVnev4NREjE3jiT-99" value="submit task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-91">
           <mxGeometry x="60" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-92" value="Consume Standard Data" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-92" value="Consume Standard Data" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="690" y="1110" width="200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-110" value="choose a channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-92">
@@ -312,7 +312,7 @@
         <mxCell id="Xs8tRFVnev4NREjE3jiT-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-93" target="Xs8tRFVnev4NREjE3jiT-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-93" value="Create Parse Template" style="swimlane;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-93" value="Create Parse Template" style="swimlane;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-200" y="1110" width="200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-103" value="choose topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-93">
@@ -338,7 +338,7 @@
             <mxPoint x="-200" y="1315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-100" value="Create Standard Data Structure" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-100" value="Create Standard Data Structure" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-490" y="1110" width="200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-101" value="create topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-100">
