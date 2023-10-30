@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T16:06:16.685Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1KfhvU6xlbkV-s3sUAus" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T16:13:09.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KYYZwU74NPWBWh4aXzZ1" version="22.0.8" type="github">
   <diagram name="Page-1" id="ZhJsTrzo2kOuEfdslqHn">
     <mxGraphModel dx="2514" dy="2098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,7 +265,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-90" value="Download &amp;amp; Upload Recon Files" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1110" width="200" height="290" as="geometry" />
+          <mxGeometry x="70" y="1110" width="200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-97" value="download&amp;nbsp; files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-90">
           <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
@@ -280,7 +280,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-91" value="Parse Files &amp;amp; Generate Standard Data" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1110" width="240" height="360" as="geometry" />
+          <mxGeometry x="350" y="1110" width="240" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-94" value="Create Parse Task" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-91">
           <mxGeometry x="20" y="50" width="200" height="290" as="geometry" />
@@ -295,16 +295,19 @@
           <mxGeometry x="60" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-92" value="Consume Standard Data" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1110" width="200" height="360" as="geometry" />
+          <mxGeometry x="690" y="1110" width="200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-110" value="choose a channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-92">
-          <mxGeometry x="40" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-111" value="choose a time range" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-92">
-          <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-112" value="exec reconciliation task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-92">
-          <mxGeometry x="40" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-131" value="choose topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-92">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-93" target="Xs8tRFVnev4NREjE3jiT-90">
           <mxGeometry relative="1" as="geometry" />
@@ -336,7 +339,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-100" value="Create Standard Data Structure" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="1110" width="200" height="210" as="geometry" />
+          <mxGeometry x="-490" y="1110" width="200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-101" value="create topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-100">
           <mxGeometry x="40" y="49" width="120" height="60" as="geometry" />
@@ -344,35 +347,59 @@
         <mxCell id="Xs8tRFVnev4NREjE3jiT-102" value="create standard fields" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-100">
           <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-113" value="Reconciliation Team in HQ" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="970" width="80" height="80" as="geometry" />
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-115" target="Xs8tRFVnev4NREjE3jiT-93">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-115" value="Channel Product Manager" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="970" width="80" height="80" as="geometry" />
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-115" value="Channel Product Manager in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="970" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-117" value="Channel Product Manager" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="440" y="970" width="80" height="80" as="geometry" />
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-118" target="Xs8tRFVnev4NREjE3jiT-90">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-118" value="Reconciliation Team" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-118" value="Reconciliation Team in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="130" y="970" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-120" target="Xs8tRFVnev4NREjE3jiT-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-120" value="Channel API Integration&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-120" value="Channel API Integration&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="1640" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-126" value="debug report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-120">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-126" value="debug report" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-120">
           <mxGeometry x="40" y="50" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-127" value="channel integration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-120">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-127" value="channel integration" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-120">
           <mxGeometry x="40" y="113" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-122" value="Channel Integration Engineer" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-122" value="Channel Integration Engineer" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png;fontStyle=1;fontSize=13;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="1530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-128" value="Reconciliation Team In HQ" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_128x128.png;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-180" y="-210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-129" target="Xs8tRFVnev4NREjE3jiT-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-129" value="Reconciliation Team In HQ" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_128x128.png;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-430" y="970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-130" target="Xs8tRFVnev4NREjE3jiT-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-130" value="Reconciliation Team in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="430" y="970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-132" target="Xs8tRFVnev4NREjE3jiT-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-132" value="Reconciliation Team In HQ" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_128x128.png;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="630" y="970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-133" target="Xs8tRFVnev4NREjE3jiT-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-133" value="Reconciliation Team in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="880" y="970" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
