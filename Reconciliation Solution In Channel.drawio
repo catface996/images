@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T08:27:04.770Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IflPJOe3_M-JPBRz6C0a" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T08:35:57.596Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="TAtvZ9lNwGZyzrq-JTKf" version="22.0.8" type="github">
   <diagram name="Page-1" id="ZhJsTrzo2kOuEfdslqHn">
     <mxGraphModel dx="2363" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
         <mxCell id="Xs8tRFVnev4NREjE3jiT-3" value="Business System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="360" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-22" value="Reconciliation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-3">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-22" value="Reconciliation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-3">
           <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.966;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-5" target="Xs8tRFVnev4NREjE3jiT-16">
