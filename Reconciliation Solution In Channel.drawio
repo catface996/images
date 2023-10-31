@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T09:06:57.390Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="vAhT5z4j5rGWn2Wz3OG7" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T14:17:25.995Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="o1Nw4Tsr8gEy9uSvxA4m" version="22.0.8" type="github">
   <diagram name="Page-1" id="ZhJsTrzo2kOuEfdslqHn">
     <mxGraphModel dx="2514" dy="2098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -362,6 +362,14 @@
         <mxCell id="Xs8tRFVnev4NREjE3jiT-122" value="Channel Integration Engineer" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png;fontStyle=1;fontSize=13;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="1530" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-128" target="Xs8tRFVnev4NREjE3jiT-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-151" value="develop standard" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="Xs8tRFVnev4NREjE3jiT-149">
+          <mxGeometry x="-0.5548" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-128" value="Reconciliation Team In HQ" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_128x128.png;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-180" y="-390" width="80" height="80" as="geometry" />
         </mxCell>
@@ -389,20 +397,20 @@
         <mxCell id="Xs8tRFVnev4NREjE3jiT-133" value="Reconciliation Team in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="880" y="970" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-128" target="Xs8tRFVnev4NREjE3jiT-58">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-128" target="Xs8tRFVnev4NREjE3jiT-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-142" value="develop standard" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="Xs8tRFVnev4NREjE3jiT-140">
           <mxGeometry x="-0.0879" y="1" relative="1" as="geometry">
-            <mxPoint y="16" as="offset" />
+            <mxPoint x="-44" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-39" target="Xs8tRFVnev4NREjE3jiT-58">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-39" target="Xs8tRFVnev4NREjE3jiT-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-143" value="follow standard" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="Xs8tRFVnev4NREjE3jiT-141">
           <mxGeometry x="0.1151" y="-1" relative="1" as="geometry">
-            <mxPoint x="-15" y="16" as="offset" />
+            <mxPoint x="70" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.63;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-69" target="Xs8tRFVnev4NREjE3jiT-58">
@@ -410,8 +418,19 @@
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-145" value="implement" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xs8tRFVnev4NREjE3jiT-144">
           <mxGeometry x="-0.173" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-148" target="Xs8tRFVnev4NREjE3jiT-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-152" value="implement reconciliation&amp;nbsp; logic" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="Xs8tRFVnev4NREjE3jiT-150">
+          <mxGeometry x="-0.6343" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-148" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-730" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
