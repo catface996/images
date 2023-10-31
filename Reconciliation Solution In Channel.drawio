@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T16:15:03.349Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="XiOGLrmbLsG3yIkxC9EY" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T16:22:17.135Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="NgIAFRkgD_gIh82qDJIf" version="22.0.8" type="github">
   <diagram name="Page-1" id="ZhJsTrzo2kOuEfdslqHn">
     <mxGraphModel dx="3703" dy="2298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -557,7 +557,7 @@
         <mxCell id="Xs8tRFVnev4NREjE3jiT-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-196" target="Xs8tRFVnev4NREjE3jiT-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-196" value="Channel API Integration&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-196" value="Channel API Integration&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="3680" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-197" value="debug report" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-196">
@@ -715,7 +715,7 @@
         <mxCell id="Xs8tRFVnev4NREjE3jiT-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-248" target="Xs8tRFVnev4NREjE3jiT-216">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-248" value="Channel API Integration&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-248" value="Channel API Integration&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="5150" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-249" value="debug report" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-248">
@@ -771,6 +771,331 @@
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-266" value="Coding Modification" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-990" y="2730" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-319" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-320" target="Xs8tRFVnev4NREjE3jiT-327">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-320" value="Download &amp;amp; Upload Recon Files" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="6130" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-321" value="download&amp;nbsp; files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-320">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-322" value="upload files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-320">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-323" value="invoke channel API&lt;br&gt;download &amp;amp; upload" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-320">
+          <mxGeometry x="40" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-324" value="choose topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-320">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-325" value="choose channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-320">
+          <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-326" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-327" target="Xs8tRFVnev4NREjE3jiT-332">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-327" value="Parse Files &amp;amp; Generate Standard Data" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="320" y="6130" width="240" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-328" value="Create Parse Task" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-327">
+          <mxGeometry x="20" y="50" width="200" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-329" value="choose parse template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-327">
+          <mxGeometry x="60" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-330" value="choose file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-327">
+          <mxGeometry x="60" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-331" value="submit task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-327">
+          <mxGeometry x="60" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-332" value="Consume Standard Data" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="660" y="6130" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-333" value="choose a channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-332">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-334" value="choose a time range" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-332">
+          <mxGeometry x="40" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-335" value="exec reconciliation task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-332">
+          <mxGeometry x="40" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-336" value="choose topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-332">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-337" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-338" target="Xs8tRFVnev4NREjE3jiT-320">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-338" value="Create Parse Template" style="swimlane;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="6130" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-339" value="choose topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-338">
+          <mxGeometry x="40" y="49" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-340" value="choose a channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-338">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-341" value="add extract formula&lt;br&gt;for standard field" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-338">
+          <mxGeometry x="10" y="210" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-342" value="choose file demo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-338">
+          <mxGeometry x="40" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-343" value="choose&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;coordinate&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-338">
+          <mxGeometry x="40" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-344" value="develop formula" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-338">
+          <mxGeometry x="40" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-345" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-347" target="Xs8tRFVnev4NREjE3jiT-338">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="6335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-347" target="Xs8tRFVnev4NREjE3jiT-367">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-347" value="Create Standard Data Structure" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="5740" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-348" value="create topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-347">
+          <mxGeometry x="40" y="49" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-349" value="create standard fields" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-347">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-350" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-351" target="Xs8tRFVnev4NREjE3jiT-338">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-351" value="Channel Product Manager in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="5990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-353" target="Xs8tRFVnev4NREjE3jiT-320">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-353" value="Reconciliation Team in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="100" y="5990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-354" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-355" target="Xs8tRFVnev4NREjE3jiT-323">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-355" value="Channel API Integration&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="6710" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-356" value="debug report" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-355">
+          <mxGeometry x="40" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-357" value="channel integration" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-355">
+          <mxGeometry x="40" y="113" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-358" value="Channel Integration Engineer" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png;fontStyle=1;fontSize=13;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="6600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-360" target="Xs8tRFVnev4NREjE3jiT-347">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-360" value="Reconciliation Team In HQ" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_128x128.png;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-460" y="5600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-361" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-362" target="Xs8tRFVnev4NREjE3jiT-327">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-362" value="Reconciliation Team in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="400" y="5990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-363" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-364" target="Xs8tRFVnev4NREjE3jiT-332">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-364" value="Reconciliation Team In HQ" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_128x128.png;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="600" y="5990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-365" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-366" target="Xs8tRFVnev4NREjE3jiT-332">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-366" value="Reconciliation Team in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="850" y="5990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-367" value="Reconciliation System" style="swimlane;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="5650" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-368" value="Reconciliation&lt;br&gt;Business" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-367">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-369" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-370" target="Xs8tRFVnev4NREjE3jiT-367">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-370" value="Reconciliation Developer Team in HQ" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="5510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-371" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-372" target="Xs8tRFVnev4NREjE3jiT-379">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-372" value="Download &amp;amp; Upload Recon Files" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="3099" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-373" value="download&amp;nbsp; files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-372">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-374" value="upload files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-372">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-375" value="invoke channel API&lt;br&gt;download &amp;amp; upload" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-372">
+          <mxGeometry x="40" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-376" value="choose topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-372">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-377" value="choose channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-372">
+          <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-378" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-379" target="Xs8tRFVnev4NREjE3jiT-384">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-379" value="Parse Files &amp;amp; Generate Standard Data" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="3099" width="240" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-380" value="Create Parse Task" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-379">
+          <mxGeometry x="20" y="50" width="200" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-381" value="choose parse template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-379">
+          <mxGeometry x="60" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-382" value="choose file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-379">
+          <mxGeometry x="60" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-383" value="submit task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-379">
+          <mxGeometry x="60" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-384" value="Consume Standard Data" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="3099" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-385" value="choose a channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-384">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-386" value="choose a time range" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-384">
+          <mxGeometry x="40" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-387" value="exec reconciliation task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-384">
+          <mxGeometry x="40" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-388" value="choose topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-384">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-389" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-390" target="Xs8tRFVnev4NREjE3jiT-372">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-390" value="Create Parse Template" style="swimlane;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="3099" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-391" value="choose topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-390">
+          <mxGeometry x="40" y="49" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-392" value="choose a channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-390">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-393" value="add extract formula&lt;br&gt;for standard field" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-390">
+          <mxGeometry x="10" y="210" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-394" value="choose file demo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-390">
+          <mxGeometry x="40" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-395" value="choose&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;coordinate&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-390">
+          <mxGeometry x="40" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-396" value="develop formula" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-390">
+          <mxGeometry x="40" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-397" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-399" target="Xs8tRFVnev4NREjE3jiT-390">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="3304" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-398" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-399" target="Xs8tRFVnev4NREjE3jiT-419">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-399" value="Create Standard Data Structure" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="2709" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-400" value="create topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-399">
+          <mxGeometry x="40" y="49" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-401" value="create standard fields" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-399">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-402" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-403" target="Xs8tRFVnev4NREjE3jiT-390">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-403" value="Channel Product Manager in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="2959" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-404" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-405" target="Xs8tRFVnev4NREjE3jiT-372">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-405" value="Reconciliation Team in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="2959" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-406" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-407" target="Xs8tRFVnev4NREjE3jiT-375">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-407" value="Channel API Integration&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="3679" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-408" value="debug report" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-407">
+          <mxGeometry x="40" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-409" value="channel integration" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-407">
+          <mxGeometry x="40" y="113" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-410" value="Channel Integration Engineer" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png;fontStyle=1;fontSize=13;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="3569" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-411" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-412" target="Xs8tRFVnev4NREjE3jiT-399">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-412" value="Reconciliation Team In HQ" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_128x128.png;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1160" y="2569" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-413" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-414" target="Xs8tRFVnev4NREjE3jiT-379">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-414" value="Reconciliation Team in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="2959" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-415" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-416" target="Xs8tRFVnev4NREjE3jiT-384">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-416" value="Reconciliation Team In HQ" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_128x128.png;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2220" y="2959" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-417" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-418" target="Xs8tRFVnev4NREjE3jiT-384">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-418" value="Reconciliation Team in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="2959" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-419" value="Reconciliation System" style="swimlane;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="2619" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-420" value="Reconciliation&lt;br&gt;Business" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-419">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-421" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-422" target="Xs8tRFVnev4NREjE3jiT-419">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-422" value="Reconciliation Developer Team in HQ" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="2479" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-423" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;h2 style=&quot;font-size: 24px; line-height: 32px; margin: 21px 0 5px 0&quot; data-lake-index-type=&quot;2&quot; id=&quot;fDoZD&quot;&gt;3.1. &lt;span class=&quot;ne-text&quot;&gt;New Business Reconciliation (Base on Files)&lt;/span&gt;&lt;/h2&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="95" y="2789" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-424" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;h2 style=&quot;font-size: 24px; line-height: 32px; margin: 21px 0 5px 0&quot; data-lake-index-type=&quot;2&quot; id=&quot;T7Z3N&quot;&gt;3.2. &lt;span class=&quot;ne-text&quot;&gt;New Business Reconciliation (Base on APIs)&lt;/span&gt;&lt;/h2&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="2740" width="590" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-425" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;h2 style=&quot;font-size: 24px; line-height: 32px; margin: 21px 0 5px 0&quot; data-lake-index-type=&quot;2&quot; id=&quot;fDoZD&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;/div&gt;&lt;/h2&gt;&lt;h2 style=&quot;font-size: 24px; line-height: 32px; margin: 21px 0 5px 0&quot; data-lake-index-type=&quot;2&quot; id=&quot;Mk3rC&quot;&gt;3.3. &lt;span class=&quot;ne-text&quot;&gt;Changing of Existed Standard Data for Reconciliation&lt;/span&gt;&lt;/h2&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="30" y="4260" width="670" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
