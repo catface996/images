@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T16:22:17.135Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="NgIAFRkgD_gIh82qDJIf" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T16:25:16.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="wR1E-cxUn3qm_wJETOdw" version="22.0.8" type="github">
   <diagram name="Page-1" id="ZhJsTrzo2kOuEfdslqHn">
     <mxGraphModel dx="3703" dy="2298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -312,7 +312,7 @@
         <mxCell id="Xs8tRFVnev4NREjE3jiT-105" value="add extract formula&lt;br&gt;for standard field" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-93">
           <mxGeometry x="10" y="210" width="180" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-123" value="choose file demo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-93">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-123" value="file / api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-93">
           <mxGeometry x="40" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-124" value="choose&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;coordinate&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-93">
@@ -516,7 +516,7 @@
         <mxCell id="Xs8tRFVnev4NREjE3jiT-182" value="add extract formula&lt;br&gt;for standard field" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-179">
           <mxGeometry x="10" y="210" width="180" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-183" value="choose file demo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-179">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-183" value="file / api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-179">
           <mxGeometry x="40" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-184" value="choose&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;coordinate&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-179">
@@ -858,7 +858,7 @@
         <mxCell id="Xs8tRFVnev4NREjE3jiT-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xs8tRFVnev4NREjE3jiT-347" target="Xs8tRFVnev4NREjE3jiT-367">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-347" value="Create Standard Data Structure" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-347" value="Create Standard Data Structure" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-520" y="5740" width="200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-348" value="create topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-347">
@@ -918,7 +918,7 @@
         <mxCell id="Xs8tRFVnev4NREjE3jiT-366" value="Reconciliation Team in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_Black_128x128.png;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="850" y="5990" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8tRFVnev4NREjE3jiT-367" value="Reconciliation System" style="swimlane;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-367" value="Reconciliation System" style="swimlane;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-230" y="5650" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-368" value="Reconciliation&lt;br&gt;Business" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xs8tRFVnev4NREjE3jiT-367">
@@ -1096,6 +1096,9 @@
         </mxCell>
         <mxCell id="Xs8tRFVnev4NREjE3jiT-425" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;h2 style=&quot;font-size: 24px; line-height: 32px; margin: 21px 0 5px 0&quot; data-lake-index-type=&quot;2&quot; id=&quot;fDoZD&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;/div&gt;&lt;/h2&gt;&lt;h2 style=&quot;font-size: 24px; line-height: 32px; margin: 21px 0 5px 0&quot; data-lake-index-type=&quot;2&quot; id=&quot;Mk3rC&quot;&gt;3.3. &lt;span class=&quot;ne-text&quot;&gt;Changing of Existed Standard Data for Reconciliation&lt;/span&gt;&lt;/h2&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="30" y="4260" width="670" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs8tRFVnev4NREjE3jiT-426" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;h2 style=&quot;font-size: 24px; line-height: 32px; margin: 21px 0 5px 0&quot; data-lake-index-type=&quot;2&quot; id=&quot;fDoZD&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;/div&gt;&lt;/h2&gt;&lt;h2 style=&quot;font-size: 24px; line-height: 32px; margin: 21px 0 5px 0&quot; data-lake-index-type=&quot;2&quot; id=&quot;Mk3rC&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;/div&gt;&lt;/h2&gt;&lt;h2 style=&quot;font-size: 24px; line-height: 32px; margin: 21px 0 5px 0&quot; data-lake-index-type=&quot;2&quot; id=&quot;gNZsy&quot;&gt;3.4. &lt;span class=&quot;ne-text&quot;&gt;Format Changing of Existed Reconciliation File&lt;/span&gt;&lt;/h2&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="20" y="5820" width="670" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
