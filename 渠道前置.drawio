@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T14:48:21.897Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="b5iqWDZX7_-TpIPccT3a" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T14:56:47.145Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="sozaDSa52qLhFchfXtp5" version="22.0.8" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
-    <mxGraphModel dx="6555" dy="4385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7011" dy="4636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4388,6 +4388,12 @@
         </mxCell>
         <mxCell id="LEhVOe6EgTKsUxFW7PEj-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=2;" edge="1" parent="1" source="LEhVOe6EgTKsUxFW7PEj-59" target="LEhVOe6EgTKsUxFW7PEj-62">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LEhVOe6EgTKsUxFW7PEj-70" value="Switch Order" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="7080" y="2070" width="160" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="LEhVOe6EgTKsUxFW7PEj-71" value="&lt;b style=&quot;&quot;&gt;++SesionId&lt;br&gt;++TransactionId&lt;/b&gt;&lt;br&gt;+Business Order Voucher&lt;br&gt;+ID&lt;br&gt;+Country&lt;br&gt;+Tenant&lt;br&gt;+Business Type&lt;br&gt;+Institution&lt;br&gt;+Channel&lt;br&gt;+ChannelHistory&lt;br&gt;+Amount&lt;br&gt;+Transaction Status&lt;br&gt;+PpResponseCode&lt;br&gt;+ReTryTimes&lt;br&gt;+NoticeTimes&lt;br&gt;+ExtraParam {&lt;br&gt;&lt;br&gt;}&lt;br&gt;+CreatedTime" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="LEhVOe6EgTKsUxFW7PEj-70">
+          <mxGeometry y="50" width="160" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
