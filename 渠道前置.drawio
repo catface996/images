@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T03:32:36.965Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_ns-J0mFL8tohcA6EzLc" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T03:47:13.687Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JaAos7ZnTHlHllIhOkw1" version="22.0.8" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="6471" dy="4339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4404,11 +4404,14 @@
         <mxCell id="LEhVOe6EgTKsUxFW7PEj-74" value="Switch Center" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-3490" y="200" width="250" height="270" as="geometry" />
         </mxCell>
+        <mxCell id="LEhVOe6EgTKsUxFW7PEj-116" value="trigger callback" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LEhVOe6EgTKsUxFW7PEj-74" source="LEhVOe6EgTKsUxFW7PEj-78" target="LEhVOe6EgTKsUxFW7PEj-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LEhVOe6EgTKsUxFW7PEj-78" value="switch-order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LEhVOe6EgTKsUxFW7PEj-74">
           <mxGeometry x="65" y="57" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LEhVOe6EgTKsUxFW7PEj-100" value="switch-notification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LEhVOe6EgTKsUxFW7PEj-74">
-          <mxGeometry x="62" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="65" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LEhVOe6EgTKsUxFW7PEj-75" value="Channel Gateway" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="200" width="200" height="270" as="geometry" />
