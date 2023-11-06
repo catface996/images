@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T02:47:47.517Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="DfE31darBVMVO6s421iu" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T02:48:26.041Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="doImyEENKTiu6L7xtc0q" version="22.0.8" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="6065" dy="4115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4356,7 +4356,7 @@
         <mxCell id="LEhVOe6EgTKsUxFW7PEj-58" value="Aliyun ACK" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2430" y="-3242" width="480" height="392" as="geometry" />
         </mxCell>
-        <mxCell id="LEhVOe6EgTKsUxFW7PEj-59" value="Egress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LEhVOe6EgTKsUxFW7PEj-58">
+        <mxCell id="LEhVOe6EgTKsUxFW7PEj-59" value="Egress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="LEhVOe6EgTKsUxFW7PEj-58">
           <mxGeometry x="160" y="172" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LEhVOe6EgTKsUxFW7PEj-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LEhVOe6EgTKsUxFW7PEj-58" source="LEhVOe6EgTKsUxFW7PEj-63" target="LEhVOe6EgTKsUxFW7PEj-59">
@@ -4374,7 +4374,7 @@
         <mxCell id="LEhVOe6EgTKsUxFW7PEj-69" value="http://pay-route/xxxxx" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="LEhVOe6EgTKsUxFW7PEj-58">
           <mxGeometry x="229" y="142" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LEhVOe6EgTKsUxFW7PEj-62" value="switch-adapter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LEhVOe6EgTKsUxFW7PEj-58">
+        <mxCell id="LEhVOe6EgTKsUxFW7PEj-62" value="switch-adapter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="LEhVOe6EgTKsUxFW7PEj-58">
           <mxGeometry x="290" y="302" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LEhVOe6EgTKsUxFW7PEj-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=2;" edge="1" parent="LEhVOe6EgTKsUxFW7PEj-58" source="LEhVOe6EgTKsUxFW7PEj-59" target="LEhVOe6EgTKsUxFW7PEj-62">
