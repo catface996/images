@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T14:33:49.522Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="XxmklrOzEPIqb1SgM-vv" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T14:34:32.649Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="NE3nJ_VACKz_XkhiIMtY" version="22.0.8" type="github">
   <diagram id="64ADKAVjYD1-oNhS0CQX" name="第 1 页">
     <mxGraphModel dx="3628" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1540,6 +1540,11 @@
               <mxPoint x="-1799.5" y="100" />
               <mxPoint x="-1225.5" y="100" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-GBfIP4Aw8GbaEmHYj7I-25" value="IP Sec VPN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-GBfIP4Aw8GbaEmHYj7I-23">
+          <mxGeometry x="0.0723" y="-1" relative="1" as="geometry">
+            <mxPoint x="-22" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
