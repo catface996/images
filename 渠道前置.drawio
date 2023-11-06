@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T02:50:03.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="eLszW7cRecO6fHrGzrAm" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T03:03:21.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="LMCH9LoE2Vib2yc5F4Bx" version="22.0.8" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="10698" dy="6667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4356,7 +4356,7 @@
         <mxCell id="LEhVOe6EgTKsUxFW7PEj-58" value="Aliyun ACK" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="109" y="-3260" width="480" height="392" as="geometry" />
         </mxCell>
-        <mxCell id="LEhVOe6EgTKsUxFW7PEj-59" value="Egress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="LEhVOe6EgTKsUxFW7PEj-58" vertex="1">
+        <mxCell id="LEhVOe6EgTKsUxFW7PEj-59" value="Egress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="LEhVOe6EgTKsUxFW7PEj-58" vertex="1">
           <mxGeometry x="160" y="172" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LEhVOe6EgTKsUxFW7PEj-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="LEhVOe6EgTKsUxFW7PEj-58" source="LEhVOe6EgTKsUxFW7PEj-63" target="LEhVOe6EgTKsUxFW7PEj-59" edge="1">
