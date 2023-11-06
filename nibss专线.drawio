@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T15:09:18.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="mrZAPgqO1g34Hz4I7EDz" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T15:10:35.378Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Y0a5iSu5bWWaGNr561A1" version="22.0.8" type="github">
   <diagram id="64ADKAVjYD1-oNhS0CQX" name="第 1 页">
-    <mxGraphModel dx="2877" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3617" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1647,6 +1647,15 @@
         <mxCell id="LtAH9WKVQUCAW0JMJXTO-47" value="IP Sec VPN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LtAH9WKVQUCAW0JMJXTO-46">
           <mxGeometry x="0.0073" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtAH9WKVQUCAW0JMJXTO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="LtAH9WKVQUCAW0JMJXTO-37" target="LtAH9WKVQUCAW0JMJXTO-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1490" y="925" />
+              <mxPoint x="-1490" y="860" />
+              <mxPoint x="-1209" y="860" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
