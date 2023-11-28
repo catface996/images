@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T11:49:01.192Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Nqdj0Fe2koZp3LplIUow" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T11:54:32.615Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Ldz5WRaXno4jphQeXRw7" version="22.1.4" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
     <mxGraphModel dx="6109" dy="4139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4655,40 +4655,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZRCGDK_9ixn2feH6pBtz-1" value="Channel Gateway Base" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="-3320" width="680" height="600" as="geometry" />
+          <mxGeometry x="1670" y="-3320" width="690" height="580" as="geometry" />
         </mxCell>
         <mxCell id="ZRCGDK_9ixn2feH6pBtz-2" value="institution mapping" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="-3240" width="190" height="180" as="geometry" />
+          <mxGeometry x="1690" y="-3280" width="190" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ZRCGDK_9ixn2feH6pBtz-3" value="response code mapping" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1908" y="-3240" width="162" height="180" as="geometry" />
+        <mxCell id="ZRCGDK_9ixn2feH6pBtz-3" value="response code mapping" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1901.5" y="-3280" width="166" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ZRCGDK_9ixn2feH6pBtz-4" value="line choosing" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1904" y="-3000" width="166" height="270" as="geometry" />
+          <mxGeometry x="1904" y="-3030" width="166" height="270" as="geometry" />
         </mxCell>
         <mxCell id="ZRCGDK_9ixn2feH6pBtz-5" value="credential choosing" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="-3000" width="190" height="270" as="geometry" />
+          <mxGeometry x="1690" y="-3030" width="190" height="270" as="geometry" />
         </mxCell>
         <mxCell id="ZRCGDK_9ixn2feH6pBtz-6" value="switch line&lt;br&gt;base on percent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1927" y="-2970" width="120" height="60" as="geometry" />
+          <mxGeometry x="1927" y="-3000" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZRCGDK_9ixn2feH6pBtz-7" value="switch line&lt;br&gt;base particular API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1927" y="-2890" width="120" height="60" as="geometry" />
+          <mxGeometry x="1927" y="-2920" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZRCGDK_9ixn2feH6pBtz-8" value="switch line&lt;br&gt;CRUD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1927" y="-2810" width="120" height="60" as="geometry" />
+          <mxGeometry x="1927" y="-2840" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZRCGDK_9ixn2feH6pBtz-9" value="switch credential&lt;br&gt;base on percent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1725" y="-2970" width="120" height="60" as="geometry" />
+          <mxGeometry x="1725" y="-3000" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZRCGDK_9ixn2feH6pBtz-11" value="switch credential&lt;br&gt;base on random" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1725" y="-2890" width="120" height="60" as="geometry" />
+          <mxGeometry x="1725" y="-2920" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZRCGDK_9ixn2feH6pBtz-12" value="switch credential&lt;br&gt;base on ..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1725" y="-2810" width="120" height="60" as="geometry" />
+          <mxGeometry x="1725" y="-2840" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZRCGDK_9ixn2feH6pBtz-14" value="Channel Order" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2130" y="-3280" width="209" height="550" as="geometry" />
+          <mxGeometry x="2130" y="-3280" width="209" height="520" as="geometry" />
         </mxCell>
         <mxCell id="ZRCGDK_9ixn2feH6pBtz-15" value="standard institution" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="ZRCGDK_9ixn2feH6pBtz-14">
           <mxGeometry x="5.5" y="30" width="198" height="30" as="geometry" />
@@ -4733,10 +4733,22 @@
           <mxGeometry x="2.5" y="320" width="198" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZRCGDK_9ixn2feH6pBtz-31" value="standard -- &amp;gt; channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="-3210" width="120" height="60" as="geometry" />
+          <mxGeometry x="1720" y="-3250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZRCGDK_9ixn2feH6pBtz-32" value="channel -- &amp;gt; standard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="-3130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1720" y="-3180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRCGDK_9ixn2feH6pBtz-33" value="institution config&lt;br&gt;CRUD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-3111" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRCGDK_9ixn2feH6pBtz-34" value="single code mapping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="-3230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRCGDK_9ixn2feH6pBtz-35" value="compound code mapping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="-3170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRCGDK_9ixn2feH6pBtz-36" value="code mapping&lt;br&gt;CRUD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="-3111" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
