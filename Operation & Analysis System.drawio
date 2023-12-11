@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T11:49:21.704Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="bA-gDx1MZyw4U20yQpJC" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T11:50:27.300Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yf88vVI4sR6bc2zLX6iM" version="22.1.7" type="github">
   <diagram name="Page-1" id="mMLUF2c-9hiYjJC7ud2A">
     <mxGraphModel dx="2420" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -565,7 +565,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2wrgwD4EROoARU3xgVhD-246" value="Operator in HQ" style="image;html=1;image=img/lib/clip_art/people/Telesales_Man_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="440" y="2024" width="80" height="80" as="geometry" />
+          <mxGeometry x="440" y="1984" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2wrgwD4EROoARU3xgVhD-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2wrgwD4EROoARU3xgVhD-247" target="2wrgwD4EROoARU3xgVhD-250">
           <mxGeometry relative="1" as="geometry" />
@@ -609,7 +609,7 @@
             <mxPoint y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2wrgwD4EROoARU3xgVhD-268" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2wrgwD4EROoARU3xgVhD-280" target="2wrgwD4EROoARU3xgVhD-261">
+        <mxCell id="2wrgwD4EROoARU3xgVhD-268" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2wrgwD4EROoARU3xgVhD-280" target="2wrgwD4EROoARU3xgVhD-261">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="1920.0000000000005" as="targetPoint" />
           </mxGeometry>
@@ -635,7 +635,7 @@
           <mxGeometry x="75" y="160" width="60" height="59" as="geometry" />
         </mxCell>
         <mxCell id="2wrgwD4EROoARU3xgVhD-261" value="Metrics" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/48.Dashboard-128.png" vertex="1" parent="1">
-          <mxGeometry x="151" y="2000" width="128" height="128" as="geometry" />
+          <mxGeometry x="151" y="1960" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="2wrgwD4EROoARU3xgVhD-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fillColor=#008a00;strokeColor=#005700;dashed=1;strokeWidth=2;" edge="1" parent="1" source="2wrgwD4EROoARU3xgVhD-286" target="2wrgwD4EROoARU3xgVhD-284">
           <mxGeometry relative="1" as="geometry" />
@@ -670,7 +670,7 @@
           <mxGeometry x="440" y="2148" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2wrgwD4EROoARU3xgVhD-280" value="Software Engineer in HQ" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="440" y="1870" width="80" height="80" as="geometry" />
+          <mxGeometry x="-70" y="1984" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2wrgwD4EROoARU3xgVhD-284" value="SOP List" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="2510" width="200" height="200" as="geometry" />
