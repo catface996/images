@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T09:12:21.311Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EH92ztTyu40LyGqmcI3W" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T09:50:26.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="wkZ6KX-fL0grr6nuidAc" version="22.1.7" type="github">
   <diagram name="Page-1" id="mMLUF2c-9hiYjJC7ud2A">
     <mxGraphModel dx="3020" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -424,10 +424,10 @@
         <mxCell id="2wrgwD4EROoARU3xgVhD-195" value="Offline Metrics" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-5/50/ruler-measure-long-width-size-128.png" vertex="1" parent="2wrgwD4EROoARU3xgVhD-177">
           <mxGeometry x="387.12" y="304" width="59" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="2wrgwD4EROoARU3xgVhD-196" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mirror;" vertex="1" parent="2wrgwD4EROoARU3xgVhD-177">
+        <mxCell id="2wrgwD4EROoARU3xgVhD-196" value="Real Time Calculate" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mirror;" vertex="1" parent="2wrgwD4EROoARU3xgVhD-177">
           <mxGeometry x="240" y="124.5" width="60" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="2wrgwD4EROoARU3xgVhD-197" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mirror_witness_node;" vertex="1" parent="2wrgwD4EROoARU3xgVhD-177">
+        <mxCell id="2wrgwD4EROoARU3xgVhD-197" value="Offline Calculate" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mirror_witness_node;" vertex="1" parent="2wrgwD4EROoARU3xgVhD-177">
           <mxGeometry x="240" y="303.5" width="60" height="59" as="geometry" />
         </mxCell>
       </root>
