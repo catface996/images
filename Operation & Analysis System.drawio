@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T08:35:24.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="tDdR31E9mkNEBOX5iiJe" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T08:37:54.869Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="igUGCIly-hqOcsJ5TO6g" version="22.1.7" type="github">
   <diagram name="Page-1" id="mMLUF2c-9hiYjJC7ud2A">
     <mxGraphModel dx="2716" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -401,17 +401,21 @@
         <mxCell id="2wrgwD4EROoARU3xgVhD-189" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2wrgwD4EROoARU3xgVhD-177" source="2wrgwD4EROoARU3xgVhD-179" target="2wrgwD4EROoARU3xgVhD-184">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2wrgwD4EROoARU3xgVhD-190" value="Real Time Metrics" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11790;points=[[0,0,0],[0.5,0,0],[1,0,0],[1,0.5,0],[1,1,0],[0.5,1,0],[0,1,0],[0,0.5,0]]" vertex="1" parent="2wrgwD4EROoARU3xgVhD-177">
-          <mxGeometry x="400" y="145.13" width="46.12" height="27.74" as="geometry" />
+        <mxCell id="2wrgwD4EROoARU3xgVhD-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2wrgwD4EROoARU3xgVhD-177" source="2wrgwD4EROoARU3xgVhD-184" target="2wrgwD4EROoARU3xgVhD-194">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="159" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="2wrgwD4EROoARU3xgVhD-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2wrgwD4EROoARU3xgVhD-177" source="2wrgwD4EROoARU3xgVhD-184" target="2wrgwD4EROoARU3xgVhD-190">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2wrgwD4EROoARU3xgVhD-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2wrgwD4EROoARU3xgVhD-177" source="2wrgwD4EROoARU3xgVhD-185" target="2wrgwD4EROoARU3xgVhD-195">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="333" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="2wrgwD4EROoARU3xgVhD-192" value="Offline Metrics" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11790;points=[[0,0,0],[0.5,0,0],[1,0,0],[1,0.5,0],[1,1,0],[0.5,1,0],[0,1,0],[0,0.5,0]]" vertex="1" parent="2wrgwD4EROoARU3xgVhD-177">
-          <mxGeometry x="400" y="319.1300000000001" width="46.12" height="27.74" as="geometry" />
+        <mxCell id="2wrgwD4EROoARU3xgVhD-194" value="Real Time Metrics" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/48.Dashboard-128.png" vertex="1" parent="2wrgwD4EROoARU3xgVhD-177">
+          <mxGeometry x="372.12" y="122" width="74" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="2wrgwD4EROoARU3xgVhD-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2wrgwD4EROoARU3xgVhD-177" source="2wrgwD4EROoARU3xgVhD-185" target="2wrgwD4EROoARU3xgVhD-192">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2wrgwD4EROoARU3xgVhD-195" value="Offline Metrics" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-5/50/ruler-measure-long-width-size-128.png" vertex="1" parent="2wrgwD4EROoARU3xgVhD-177">
+          <mxGeometry x="387.12" y="304" width="59" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
