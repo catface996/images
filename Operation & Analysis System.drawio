@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T11:43:09.715Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="31c2TciZJIPjkynsvSzm" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T11:43:49.446Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="PgJfqJmAIPVfEGeZKWpB" version="22.1.7" type="github">
   <diagram name="Page-1" id="mMLUF2c-9hiYjJC7ud2A">
     <mxGraphModel dx="2420" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -562,11 +562,21 @@
         <mxCell id="2wrgwD4EROoARU3xgVhD-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2wrgwD4EROoARU3xgVhD-247" target="2wrgwD4EROoARU3xgVhD-250">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-283" value="config route" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2wrgwD4EROoARU3xgVhD-252">
+          <mxGeometry x="-0.1296" y="1" relative="1" as="geometry">
+            <mxPoint y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2wrgwD4EROoARU3xgVhD-247" value="Software Engineer in HQ" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-390" y="1770" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2wrgwD4EROoARU3xgVhD-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2wrgwD4EROoARU3xgVhD-248" target="2wrgwD4EROoARU3xgVhD-249">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-282" value="release channel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2wrgwD4EROoARU3xgVhD-251">
+          <mxGeometry x="-0.2778" relative="1" as="geometry">
+            <mxPoint x="17" y="-20" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2wrgwD4EROoARU3xgVhD-248" value="Software Engineer in Nigeria" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-390" y="1610" width="80" height="80" as="geometry" />
