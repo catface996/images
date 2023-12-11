@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T03:28:26.553Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ZJpmRxMn31KwqK8594o-" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T03:40:54.141Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="pcassOjZTTcbK-kilxGS" version="22.1.7" type="github">
   <diagram name="Page-1" id="mMLUF2c-9hiYjJC7ud2A">
-    <mxGraphModel dx="2739" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2757" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,7 +133,59 @@
           <mxGeometry x="-770" y="260" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2wrgwD4EROoARU3xgVhD-46" value="Data Source" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="80" width="240" height="660" as="geometry" />
+          <mxGeometry x="-320" y="80" width="240" height="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-53" value="Transaction Status History" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1610" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-54" value="Palmpay Standard Code History" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1640" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-55" value="Channel Response Code History" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1670" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-56" value="Transaction Status" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1520" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-57" value="Palmpay Standard Code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1550" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-58" value="Channel Response Code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1350" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2wrgwD4EROoARU3xgVhD-59" target="2wrgwD4EROoARU3xgVhD-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-67" value="to channel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2wrgwD4EROoARU3xgVhD-62">
+          <mxGeometry x="0.1989" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-59" value="Request Reference" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1230" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-60" value="Response Reference" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1290" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-61" value="Channel" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="1220" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2wrgwD4EROoARU3xgVhD-63" target="2wrgwD4EROoARU3xgVhD-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-68" value="from channel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2wrgwD4EROoARU3xgVhD-64">
+          <mxGeometry x="-0.2209" y="-2" relative="1" as="geometry">
+            <mxPoint x="5" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-63" value="Channel" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="1280" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2wrgwD4EROoARU3xgVhD-65" target="2wrgwD4EROoARU3xgVhD-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-65" value="Channel" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="1340" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
