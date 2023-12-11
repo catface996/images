@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T10:12:56.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="x-FpguCIF5dKTPTQDDMd" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T10:23:48.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="x_QbKUPKch4cYzHfIgqn" version="22.1.7" type="github">
   <diagram name="Page-1" id="mMLUF2c-9hiYjJC7ud2A">
     <mxGraphModel dx="3447" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -487,19 +487,43 @@
         <mxCell id="2wrgwD4EROoARU3xgVhD-222" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2wrgwD4EROoARU3xgVhD-202">
           <mxGeometry x="180" y="280" width="280" height="196" as="geometry" />
         </mxCell>
-        <mxCell id="2wrgwD4EROoARU3xgVhD-223" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.calculator;" vertex="1" parent="2wrgwD4EROoARU3xgVhD-202">
-          <mxGeometry x="210" y="356" width="32" height="46" as="geometry" />
+        <mxCell id="2wrgwD4EROoARU3xgVhD-223" value="9pm~ 9am (next day)" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.calculator;gradientColor=#7ea6e0;" vertex="1" parent="2wrgwD4EROoARU3xgVhD-202">
+          <mxGeometry x="220" y="293" width="32" height="46" as="geometry" />
         </mxCell>
         <mxCell id="2wrgwD4EROoARU3xgVhD-224" value="Particular Event" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffcccc;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;strokeColor=#36393d;" vertex="1" parent="2wrgwD4EROoARU3xgVhD-202">
           <mxGeometry x="340" y="351.75" width="100" height="54.5" as="geometry" />
         </mxCell>
-        <mxCell id="2wrgwD4EROoARU3xgVhD-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2wrgwD4EROoARU3xgVhD-202" source="2wrgwD4EROoARU3xgVhD-223" target="2wrgwD4EROoARU3xgVhD-224">
+        <mxCell id="2wrgwD4EROoARU3xgVhD-225" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2wrgwD4EROoARU3xgVhD-202" source="2wrgwD4EROoARU3xgVhD-223" target="2wrgwD4EROoARU3xgVhD-224">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2wrgwD4EROoARU3xgVhD-226" value="publish or not" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2wrgwD4EROoARU3xgVhD-225">
           <mxGeometry x="-0.3139" y="1" relative="1" as="geometry">
-            <mxPoint x="14" y="-10" as="offset" />
+            <mxPoint x="48" y="-4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-231" value="9am~9pm" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#d5e8d4;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.calculator;gradientColor=#97d077;" vertex="1" parent="2wrgwD4EROoARU3xgVhD-202">
+          <mxGeometry x="220" y="406.25" width="32" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-232" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2wrgwD4EROoARU3xgVhD-202" source="2wrgwD4EROoARU3xgVhD-231" target="2wrgwD4EROoARU3xgVhD-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-234" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="880" width="440" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-235" value="Particular Event" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffcccc;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;strokeColor=#36393d;" vertex="1" parent="2wrgwD4EROoARU3xgVhD-234">
+          <mxGeometry x="10" y="232.75" width="100" height="54.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-236" value="SOP List" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="2wrgwD4EROoARU3xgVhD-234">
+          <mxGeometry x="134" y="52" width="170" height="416" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-237" value="Alert" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;bpmnShapeType=subprocess;isLoopSub=1;outline=eventNonint;symbol=conditional;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="2wrgwD4EROoARU3xgVhD-236">
+          <mxGeometry x="20" y="55.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-238" value="Switch Channel" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;bpmnShapeType=subprocess;isLoopSub=1;outline=eventNonint;symbol=conditional;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="2wrgwD4EROoARU3xgVhD-236">
+          <mxGeometry x="20" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2wrgwD4EROoARU3xgVhD-239" value="Announcement" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;bpmnShapeType=subprocess;isLoopSub=1;outline=eventNonint;symbol=conditional;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="2wrgwD4EROoARU3xgVhD-236">
+          <mxGeometry x="20" y="295" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
