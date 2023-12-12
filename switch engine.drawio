@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T13:49:58.083Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="D2Hlna63i-rEFnEiVCOy" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T13:53:56.734Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="l7x4x-6306ZEc967C4Ex" version="22.1.7" type="github">
   <diagram name="Page-1" id="O5xp4HRn_wAVqwUjP3aK">
     <mxGraphModel dx="1247" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -227,8 +227,32 @@
         <mxCell id="kMprH6ETdgcOiTL6cREe-74" value="Smart Policy" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4200" y="-790" width="640" height="440" as="geometry" />
         </mxCell>
+        <mxCell id="kMprH6ETdgcOiTL6cREe-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kMprH6ETdgcOiTL6cREe-74" source="kMprH6ETdgcOiTL6cREe-76" target="kMprH6ETdgcOiTL6cREe-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMprH6ETdgcOiTL6cREe-76" value="detective order" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kMprH6ETdgcOiTL6cREe-74">
+          <mxGeometry x="280" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kMprH6ETdgcOiTL6cREe-77" value="Smart Logic" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="kMprH6ETdgcOiTL6cREe-74">
+          <mxGeometry x="40" y="190" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="kMprH6ETdgcOiTL6cREe-78" value="Detective Logic" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="kMprH6ETdgcOiTL6cREe-74">
+          <mxGeometry x="400" y="190" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="kMprH6ETdgcOiTL6cREe-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.535;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="kMprH6ETdgcOiTL6cREe-74" source="kMprH6ETdgcOiTL6cREe-76" target="kMprH6ETdgcOiTL6cREe-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMprH6ETdgcOiTL6cREe-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kMprH6ETdgcOiTL6cREe-75" target="kMprH6ETdgcOiTL6cREe-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kMprH6ETdgcOiTL6cREe-75" value="order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4460" y="-910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kMprH6ETdgcOiTL6cREe-82" value="Detective Logic" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4962" y="-790" width="528" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="kMprH6ETdgcOiTL6cREe-83" value="Smart Logic" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5580" y="-790" width="528" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
