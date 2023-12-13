@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T06:19:12.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="OyIT7aGrOhEtS94xmfmA" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T06:22:21.956Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4gfLHEjpCpx9Bmag3cVx" version="22.1.7" type="github">
   <diagram name="Page-1" id="O5xp4HRn_wAVqwUjP3aK">
     <mxGraphModel dx="1793" dy="2157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -251,6 +251,29 @@
         </mxCell>
         <mxCell id="kMprH6ETdgcOiTL6cREe-82" value="Detective Logic" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="4962" y="-790" width="528" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-25" value="Queue" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="kMprH6ETdgcOiTL6cREe-82">
+          <mxGeometry x="144" y="50" width="240" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="kMprH6ETdgcOiTL6cREe-82" source="kerzIb3wunF3lRtGdF_Q-26" target="kerzIb3wunF3lRtGdF_Q-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="108" y="130" />
+              <mxPoint x="108" y="371" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-26" value="Fidelity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kMprH6ETdgcOiTL6cREe-82">
+          <mxGeometry x="203" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-27" value="Etranzact" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kMprH6ETdgcOiTL6cREe-82">
+          <mxGeometry x="205" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-28" value="Access" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kMprH6ETdgcOiTL6cREe-82">
+          <mxGeometry x="205" y="261" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-29" value="Fidelity" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="kMprH6ETdgcOiTL6cREe-82">
+          <mxGeometry x="205" y="341" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kMprH6ETdgcOiTL6cREe-83" value="Smart Logic" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="5580" y="-790" width="528" height="440" as="geometry" />
