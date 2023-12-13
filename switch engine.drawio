@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T09:44:07.126Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="TRWRyzRxMuhVsbQR2uil" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T09:51:16.688Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="QpMsapl5JG9DLHVBiqUH" version="22.1.7" type="github">
   <diagram name="Page-1" id="O5xp4HRn_wAVqwUjP3aK">
     <mxGraphModel dx="1247" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -629,7 +629,7 @@
           <mxGeometry x="1" y="428" width="198" height="32" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-140" value="real time route info" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="583" y="-460" width="200" height="180" as="geometry" />
+          <mxGeometry x="583" y="-460" width="200" height="250" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-141" value="channel name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-140">
           <mxGeometry x="1" y="24" width="198" height="32" as="geometry" />
@@ -642,6 +642,9 @@
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-144" value="fee rate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-140">
           <mxGeometry x="1" y="148" width="198" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-158" value="Channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-140">
+          <mxGeometry y="210" width="198" height="32" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-151" value="manual route policy" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3400" y="270" width="200" height="250" as="geometry" />
