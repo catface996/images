@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T07:57:43.922Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="S4edTQe0AK91_Qu24KtW" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T08:03:00.380Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="RdtIB-d2VgFQg6NxgWim" version="22.1.7" type="github">
   <diagram name="Page-1" id="O5xp4HRn_wAVqwUjP3aK">
     <mxGraphModel dx="1366" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -301,6 +301,9 @@
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-40" value="MONEY POINT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-32">
           <mxGeometry x="22.5" y="310" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-50" value="threshold" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-32">
+          <mxGeometry x="15" y="240" width="120" height="10" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="kMprH6ETdgcOiTL6cREe-83" source="kerzIb3wunF3lRtGdF_Q-33" target="kerzIb3wunF3lRtGdF_Q-34">
           <mxGeometry relative="1" as="geometry" />
