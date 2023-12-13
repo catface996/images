@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T09:25:53.631Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="rbgqH1aGmUQNacUC2Tan" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T09:34:06.552Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="eRK3tfA_eLAvoNWIP_0s" version="22.1.7" type="github">
   <diagram name="Page-1" id="O5xp4HRn_wAVqwUjP3aK">
     <mxGraphModel dx="1024" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -590,7 +590,7 @@
           <mxGeometry x="1" y="120" width="198" height="32" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-129" value="real time route info" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="40" width="200" height="440" as="geometry" />
+          <mxGeometry x="720" y="40" width="200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-130" value="channel name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-129">
           <mxGeometry x="1" y="24" width="198" height="32" as="geometry" />
@@ -603,6 +603,24 @@
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-133" value="institution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-129">
           <mxGeometry x="1" y="120" width="198" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-134" value="1 minute success rate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-129">
+          <mxGeometry x="1" y="190" width="198" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-135" value="5 minute success rate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-129">
+          <mxGeometry x="1" y="222" width="198" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-136" value="total success rate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-129">
+          <mxGeometry x="1" y="254" width="198" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-137" value="1 minute 10s pending rate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-129">
+          <mxGeometry x="1" y="310" width="198" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-138" value="5 minute 10s pending rate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-129">
+          <mxGeometry x="1" y="342" width="198" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-139" value="total pending rate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-129">
+          <mxGeometry x="1" y="374" width="198" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
