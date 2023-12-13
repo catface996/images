@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T09:51:16.688Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="QpMsapl5JG9DLHVBiqUH" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T09:57:06.841Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3zBez5vxg0l_tGiQTs_V" version="22.1.7" type="github">
   <diagram name="Page-1" id="O5xp4HRn_wAVqwUjP3aK">
-    <mxGraphModel dx="1247" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="422" dy="1401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -647,9 +647,9 @@
           <mxGeometry y="210" width="198" height="32" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-151" value="manual route policy" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3400" y="270" width="200" height="250" as="geometry" />
+          <mxGeometry x="3730" y="360" width="200" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="kerzIb3wunF3lRtGdF_Q-152" value="Tags Condition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-151">
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-152" value="Tags Condition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-151">
           <mxGeometry x="1" y="140" width="198" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-153" value="Country" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-151">
@@ -660,6 +660,101 @@
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-155" value="Institution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-151">
           <mxGeometry x="1" y="84" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-181" value="Channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-151">
+          <mxGeometry x="1" y="200" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-159" value="Route Order" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3400" y="360" width="200" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-160" value="Palmpay Standard Code History" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="539.5" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-161" value="Channel Response Code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="569.5" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-162" value="Channel Response Code History" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="599.5" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-163" value="Route Order ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="24" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-164" value="Tenant ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="79" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-165" value="Session ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="109" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-166" value="Transaction ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="139" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-167" value="Country" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="193" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-168" value="Institution" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="223" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-169" value="Business Type" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="253" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-170" value="Business Params" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="283" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-171" value="Channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="400" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-172" value="Channel History" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="429" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-173" value="Transaction Status" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="479" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-174" value="Palmpay Standard Code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="509" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-175" value="Group Label" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="652" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-176" value="Tags" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-159">
+          <mxGeometry x="1" y="340" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kerzIb3wunF3lRtGdF_Q-177" target="kerzIb3wunF3lRtGdF_Q-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-185" value="step 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kerzIb3wunF3lRtGdF_Q-180">
+          <mxGeometry x="0.3069" relative="1" as="geometry">
+            <mxPoint x="4" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-177" value="Calculate Tags" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/calculator_finance_calculate_button_mathematics_calculation_office_technology_math_digital-128.png" vertex="1" parent="1">
+          <mxGeometry x="3270" y="575.25" width="54.75" height="54.75" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kerzIb3wunF3lRtGdF_Q-167" target="kerzIb3wunF3lRtGdF_Q-177">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3380" y="568" />
+              <mxPoint x="3380" y="603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kerzIb3wunF3lRtGdF_Q-170" target="kerzIb3wunF3lRtGdF_Q-177">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3380" y="658" />
+              <mxPoint x="3380" y="603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-184" value="step 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kerzIb3wunF3lRtGdF_Q-179">
+          <mxGeometry x="0.5444" y="-1" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="kerzIb3wunF3lRtGdF_Q-176" target="kerzIb3wunF3lRtGdF_Q-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kerzIb3wunF3lRtGdF_Q-181" target="kerzIb3wunF3lRtGdF_Q-171">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
