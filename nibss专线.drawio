@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T06:23:18.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1WHEWo-o7yzsvnZhxjXh" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T07:48:53.311Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bN05zcqJdjkwOomMCAaZ" version="22.1.11" type="github">
   <diagram id="64ADKAVjYD1-oNhS0CQX" name="第 1 页">
-    <mxGraphModel dx="4530" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5088" dy="1429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1736,7 +1736,7 @@
         <mxCell id="e4-cqlSLBsN5WBsNX5DO-39" value="two international&amp;nbsp; leased lines" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vpn;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="728" y="5938" width="77" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="e4-cqlSLBsN5WBsNX5DO-40" value="IP Sec VPN" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_globe.svg;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="e4-cqlSLBsN5WBsNX5DO-40" value="Internet IP Sec VPN" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_globe.svg;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="755" y="5630" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e4-cqlSLBsN5WBsNX5DO-42" value="nginx 10.220.1.2" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;fontSize=12;" vertex="1" parent="1">
