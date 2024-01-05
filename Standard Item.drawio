@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T10:41:02.891Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CSfzCvZsPPKjlFxNqZlE" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T10:42:31.998Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AzwW2A4bklRrcIBhewy8" version="22.1.15" type="github">
   <diagram name="Page-1" id="RwBjvzpkHHgibt-gjoze">
-    <mxGraphModel dx="2009" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="967" dy="1781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WxOcd5TwtlpuZQIKpukj-44" value="Channels" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-44" value="Channels" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="20" y="740" width="1100" height="200" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-4" value="channel&lt;br&gt;name: Glo Bucket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-44">
@@ -25,7 +25,7 @@
         <mxCell id="WxOcd5TwtlpuZQIKpukj-43" value="mapping" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;strokeWidth=2;" edge="1" parent="WxOcd5TwtlpuZQIKpukj-19" source="WxOcd5TwtlpuZQIKpukj-27" target="WxOcd5TwtlpuZQIKpukj-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WxOcd5TwtlpuZQIKpukj-27" value="S-Item&lt;br&gt;id: S-223&lt;br&gt;institution: Glo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-19">
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-27" value="S-Item&lt;br&gt;id: S-223&lt;br&gt;Data: 200M&lt;br&gt;institution: Glo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-19">
           <mxGeometry x="630" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;strokeWidth=2;" edge="1" parent="WxOcd5TwtlpuZQIKpukj-19" source="WxOcd5TwtlpuZQIKpukj-34" target="WxOcd5TwtlpuZQIKpukj-38">
@@ -37,7 +37,7 @@
         <mxCell id="WxOcd5TwtlpuZQIKpukj-34" value="S-Item&lt;br&gt;id: S-223&lt;br&gt;institution: MTN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-19">
           <mxGeometry x="850" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WxOcd5TwtlpuZQIKpukj-2" value="S-Item&lt;br&gt;id: S-221&lt;br&gt;institution: Glo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-19">
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-2" value="S-Item&lt;br&gt;id: S-221&lt;br&gt;Data: 100M&lt;br&gt;institution: Glo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-19">
           <mxGeometry x="170" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-38" value="C-Item&lt;br&gt;id: C-116&lt;br&gt;channel: MTN&lt;br&gt;channel param:{&lt;br&gt;}&lt;br&gt;..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-19">
@@ -107,7 +107,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WxOcd5TwtlpuZQIKpukj-11" value="S-Item&lt;br&gt;id: S-222&lt;br&gt;institution: Glo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-11" value="S-Item&lt;br&gt;id: S-222&lt;br&gt;AirTime: 10H&lt;br&gt;institution: Glo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="490" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-24" value="Business System" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
