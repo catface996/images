@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T10:14:02.548Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6h06kWQyrk2wAgtHmUBA" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T10:20:09.700Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WiBYp-JC07hZki7qk6BI" version="22.1.15" type="github">
   <diagram name="Page-1" id="RwBjvzpkHHgibt-gjoze">
     <mxGraphModel dx="1306" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,11 +13,23 @@
         <mxCell id="WxOcd5TwtlpuZQIKpukj-27" value="S-Item&lt;br&gt;id: S-223&lt;br&gt;institution: Glo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-19">
           <mxGeometry x="630" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WxOcd5TwtlpuZQIKpukj-19" source="WxOcd5TwtlpuZQIKpukj-34" target="WxOcd5TwtlpuZQIKpukj-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WxOcd5TwtlpuZQIKpukj-19" source="WxOcd5TwtlpuZQIKpukj-34" target="WxOcd5TwtlpuZQIKpukj-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-34" value="S-Item&lt;br&gt;id: S-223&lt;br&gt;institution: MTN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-19">
           <mxGeometry x="850" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-2" value="S-Item&lt;br&gt;id: S-221&lt;br&gt;institution: Glo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-19">
           <mxGeometry x="170" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-38" value="C-Item&lt;br&gt;id: C-115&lt;br&gt;channel: Glo&lt;br&gt;channel param:{&lt;br&gt;}&lt;br&gt;..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-19">
+          <mxGeometry x="730" y="310" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-39" value="C-Item&lt;br&gt;id: C-116&lt;br&gt;channel: Glo&lt;br&gt;channel param:{&lt;br&gt;}&lt;br&gt;..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-19">
+          <mxGeometry x="930" y="310" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WxOcd5TwtlpuZQIKpukj-1" target="WxOcd5TwtlpuZQIKpukj-11">
           <mxGeometry relative="1" as="geometry" />
