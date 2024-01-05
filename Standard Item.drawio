@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T11:57:44.109Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dUtqc9CAc1tlt3IFsvuG" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T12:00:13.212Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sSr7AW_9C2nko89EvwI9" version="22.1.15" type="github">
   <diagram name="Page-1" id="RwBjvzpkHHgibt-gjoze">
-    <mxGraphModel dx="1375" dy="2038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1088" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,13 +162,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-51" value="Business System" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="-60" width="1100" height="210" as="geometry" />
+          <mxGeometry x="1250" y="-60" width="630" height="210" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-56" value="Create/Edit B-Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-51">
           <mxGeometry x="90" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-57" value="On/Off shelf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-51">
           <mxGeometry x="260" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-58" value="Compose Standard Items as &lt;br&gt;Business Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-51">
+          <mxGeometry x="430" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-59" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="210" width="630" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-60" value="Create/Edit S-Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-59">
+          <mxGeometry x="70" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
