@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T13:21:04.538Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="l1BrAWvN91ahBT3XrYmV" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T13:25:21.235Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="G6tScCI2ripvl0NMX33U" version="22.1.15" type="github">
   <diagram name="Page-1" id="RwBjvzpkHHgibt-gjoze">
     <mxGraphModel dx="2363" dy="2141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -439,6 +439,9 @@
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-150" value="1:N:N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="963.5" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-152" value="&lt;h1&gt;Principles&lt;/h1&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;1. 1 Business Item 1 Business Order&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2.1 Standard Item 1 Route Order&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;3. 1 Channel Item (allow the times) 1 Channel Order&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;* Business system should implement the splitting order featue. Treat the pay-route system as a larger channel.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="-80" width="420" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
