@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T12:55:45.731Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7Rdb97qqzoSAZ9x-M5nQ" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T12:57:39.331Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Qi86yBR8pLf-MpBwEM9b" version="22.1.15" type="github">
   <diagram name="Page-1" id="RwBjvzpkHHgibt-gjoze">
     <mxGraphModel dx="1728" dy="1739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,13 +170,16 @@
           <mxGeometry x="1241" y="-80" width="630" height="210" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-56" value="Create/Edit B-Item" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-51">
-          <mxGeometry x="90" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="39" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-57" value="On/Off shelf" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-51">
-          <mxGeometry x="260" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="39" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-58" value="Compose Standard Items as &lt;br&gt;Business Item" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-51">
-          <mxGeometry x="430" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="199" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-112" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-51">
+          <mxGeometry x="199" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-59" value="Item Center" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1241" y="190" width="630" height="470" as="geometry" />
@@ -198,6 +201,9 @@
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-65" value="Sync C-Item" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-59">
           <mxGeometry x="70" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-113" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-59">
+          <mxGeometry x="255" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-66" value="Business Item&lt;br&gt;For Salling&lt;br&gt;(B-Item)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-200" y="-80" width="120" height="60" as="geometry" />
@@ -286,6 +292,11 @@
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WxOcd5TwtlpuZQIKpukj-92" target="WxOcd5TwtlpuZQIKpukj-93">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-111" value="split for fulfilling&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WxOcd5TwtlpuZQIKpukj-96">
+          <mxGeometry x="-0.1759" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-97" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WxOcd5TwtlpuZQIKpukj-92" target="WxOcd5TwtlpuZQIKpukj-94">
           <mxGeometry relative="1" as="geometry" />
