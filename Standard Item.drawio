@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T12:13:13.925Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QBmDiBNKE4GjP1fn1kkd" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T12:18:40.964Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mAfggNwS4tAkGzyoVGlt" version="22.1.15" type="github">
   <diagram name="Page-1" id="RwBjvzpkHHgibt-gjoze">
-    <mxGraphModel dx="2460" dy="2202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2836" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,7 +162,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-51" value="Business System" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="-60" width="630" height="210" as="geometry" />
+          <mxGeometry x="1241" y="-80" width="630" height="210" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-56" value="Create/Edit B-Item" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-51">
           <mxGeometry x="90" y="90" width="120" height="60" as="geometry" />
@@ -173,8 +173,8 @@
         <mxCell id="WxOcd5TwtlpuZQIKpukj-58" value="Compose Standard Items as &lt;br&gt;Business Item" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-51">
           <mxGeometry x="430" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WxOcd5TwtlpuZQIKpukj-59" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="210" width="630" height="470" as="geometry" />
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-59" value="Item Center" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="190" width="630" height="470" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-60" value="Create/Edit S-Item" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-59">
           <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
@@ -232,10 +232,16 @@
           <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-75" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry y="1360" width="200" height="200" as="geometry" />
+          <mxGeometry y="1320" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WxOcd5TwtlpuZQIKpukj-75" source="WxOcd5TwtlpuZQIKpukj-76" target="WxOcd5TwtlpuZQIKpukj-81">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-76" value="S-Item&lt;br&gt;id: S-221&lt;br&gt;Data: 100M&lt;br&gt;institution: Glo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-75">
-          <mxGeometry x="40" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-81" value="C-Item&lt;br&gt;iid: C-111&lt;br&gt;channel：Glo Bucket&lt;br&gt;channel param:{&lt;br&gt;planid:xxxx,&lt;br&gt;bucketId:abc&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-75">
+          <mxGeometry x="40" y="170" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-77" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry y="1640" width="200" height="200" as="geometry" />
@@ -246,8 +252,14 @@
         <mxCell id="WxOcd5TwtlpuZQIKpukj-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WxOcd5TwtlpuZQIKpukj-74" target="WxOcd5TwtlpuZQIKpukj-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WxOcd5TwtlpuZQIKpukj-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WxOcd5TwtlpuZQIKpukj-76" target="WxOcd5TwtlpuZQIKpukj-78">
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WxOcd5TwtlpuZQIKpukj-81" target="WxOcd5TwtlpuZQIKpukj-78">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-84" value="Business System" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="-80" width="630" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-88" value="Business Order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-84">
+          <mxGeometry x="255" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
