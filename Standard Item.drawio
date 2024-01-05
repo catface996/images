@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T12:02:05.837Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FRJ2luqs4YaFWI2zi23Q" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T12:03:55.599Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iDhg1TTvbPHyZFYY8SgU" version="22.1.15" type="github">
   <diagram name="Page-1" id="RwBjvzpkHHgibt-gjoze">
     <mxGraphModel dx="1088" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,13 +177,22 @@
           <mxGeometry x="1250" y="210" width="630" height="470" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-60" value="Create/Edit S-Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-59">
-          <mxGeometry x="70" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WxOcd5TwtlpuZQIKpukj-61" value="On/Off Shelf&lt;br&gt;(manual/auto)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-59">
-          <mxGeometry x="250" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-61" value="On/Off Shelf for S-Item&lt;br&gt;(manual/auto)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-59">
+          <mxGeometry x="250" y="50" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-62" value="Merge C-Item to Same S-Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-59">
-          <mxGeometry x="70" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-63" value="Get S-Item Stock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-59">
+          <mxGeometry x="70" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-64" value="Get C-Item Stock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-59">
+          <mxGeometry x="255" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-65" value="Sync C-Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-59">
+          <mxGeometry x="70" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
