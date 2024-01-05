@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T12:57:39.331Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Qi86yBR8pLf-MpBwEM9b" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T13:10:59.463Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iBwOn1cMT_9S39wj50zB" version="22.1.15" type="github">
   <diagram name="Page-1" id="RwBjvzpkHHgibt-gjoze">
-    <mxGraphModel dx="1728" dy="1739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1915" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,8 +178,11 @@
         <mxCell id="WxOcd5TwtlpuZQIKpukj-58" value="Compose Standard Items as &lt;br&gt;Business Item" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-51">
           <mxGeometry x="199" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WxOcd5TwtlpuZQIKpukj-112" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-51">
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-112" value="B-Item Stock Manage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-51">
           <mxGeometry x="199" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxOcd5TwtlpuZQIKpukj-114" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WxOcd5TwtlpuZQIKpukj-51">
+          <mxGeometry x="349" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WxOcd5TwtlpuZQIKpukj-59" value="Item Center" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1241" y="190" width="630" height="470" as="geometry" />
