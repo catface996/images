@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T15:05:48.021Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_h8WfdhUaEYGzq23IlcC" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T15:45:03.642Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7Bqw1zqRVkyVN6CcFm7x" version="22.1.16" type="github">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
-    <mxGraphModel dx="6413" dy="4425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6703" dy="4608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4888,6 +4888,12 @@
         </mxCell>
         <mxCell id="VyASH08Ce6VvnWNVuwd9-40" value="... service&lt;br&gt;domain module" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="VyASH08Ce6VvnWNVuwd9-35">
           <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VyASH08Ce6VvnWNVuwd9-41" value="rpc context management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="-2850" width="190" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VyASH08Ce6VvnWNVuwd9-42" value="build context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2185" y="-2800" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
