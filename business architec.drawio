@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T08:29:59.233Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="IZ2Ld7PW1mU4PFo4H_Tr" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-17T08:30:56.078Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nm00H8OmS-a6kTUknP1C" version="23.1.2" type="github">
   <diagram name="Page-1" id="M1yy-GvjyFfZm3IYTepG">
     <mxGraphModel dx="1306" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-Y6mkT-v8iXgjHk7GUST-32" value="使用方" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-32" value="使用方" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="1120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-Y6mkT-v8iXgjHk7GUST-2" value="PALMPAY" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
@@ -16,7 +16,7 @@
         <mxCell id="-Y6mkT-v8iXgjHk7GUST-4" value="四方支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Y6mkT-v8iXgjHk7GUST-5" value="金融网络" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-5" value="金融网络" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="210" width="1120" height="590" as="geometry" />
         </mxCell>
         <mxCell id="-Y6mkT-v8iXgjHk7GUST-6" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
@@ -70,7 +70,7 @@
         <mxCell id="-Y6mkT-v8iXgjHk7GUST-22" value="基金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Y6mkT-v8iXgjHk7GUST-33" value="路由能力" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-33" value="路由能力" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="460" width="1060" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-Y6mkT-v8iXgjHk7GUST-34" value="渠道路由/重路由" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -94,7 +94,7 @@
         <mxCell id="-Y6mkT-v8iXgjHk7GUST-40" value="租户路由..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Y6mkT-v8iXgjHk7GUST-41" value="渠道集成能力" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-41" value="渠道集成能力" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="630" width="1060" height="130" as="geometry" />
         </mxCell>
         <mxCell id="-Y6mkT-v8iXgjHk7GUST-42" value="标准化网关" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -117,6 +117,9 @@
         </mxCell>
         <mxCell id="-Y6mkT-v8iXgjHk7GUST-48" value="网关版本控制..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-49" value="外部渠道" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="820" width="1120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
