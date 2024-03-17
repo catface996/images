@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T07:42:28.501Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.2" etag="esvA6XvYYQP9LVqXkDhL" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-17T08:00:51.018Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TAA9BVnSJO7mzNtAKAXK" version="23.1.2" type="github">
   <diagram name="Page-1" id="M1yy-GvjyFfZm3IYTepG">
-    <mxGraphModel>
+    <mxGraphModel dx="1005" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-2" value="PALMPAY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-3" value="PALMPAY&lt;br&gt;大商户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-4" value="四方支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-5" value="金融网络" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="1120" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-6" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-7" value="SMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-8" value="KYC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-9" value="Biller" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-10" value="资金" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="590" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-11" value="话费/流量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-12" value="Betting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-13" value="电力充值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-14" value="其他..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-15" value="银行账户出/入金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-16" value="银行卡入金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-17" value="MMO钱包出/入金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-18" value="POS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-19" value="发卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="843" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-20" value="换汇" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="843" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-21" value="保险" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y6mkT-v8iXgjHk7GUST-22" value="基金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
