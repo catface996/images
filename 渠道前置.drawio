@@ -5109,6 +5109,21 @@
         <mxCell id="bmHb6t2_djg87D1-KwYC-51" value="渠道决策" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
           <mxGeometry x="170" y="138.25" width="90" height="44.5" as="geometry" />
         </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-56" value="渠道接入网关&lt;div&gt;注册&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
+          <mxGeometry x="465" y="120" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-57" value="渠道网关能力&lt;div&gt;管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
+          <mxGeometry x="600" y="120" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-58" value="渠道接入网关版本控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
+          <mxGeometry x="720" y="120" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-59" value="流量分发&lt;div&gt;灰度能力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
+          <mxGeometry x="600" y="180" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-60" value="非标渠道接入网关适配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
+          <mxGeometry x="465" y="180" width="90" height="44.5" as="geometry" />
+        </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.227;exitY=0.995;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;exitPerimeter=0;" edge="1" parent="1" source="bmHb6t2_djg87D1-KwYC-6" target="bmHb6t2_djg87D1-KwYC-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
