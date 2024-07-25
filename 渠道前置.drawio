@@ -5094,6 +5094,9 @@
         <mxCell id="bmHb6t2_djg87D1-KwYC-53" value="最优策略组计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
           <mxGeometry x="735" y="444" width="90" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-54" value="高频迭代" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+          <mxGeometry x="760" y="321" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-3" value="AWS-爱尔兰" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-5840" y="1760" width="870" height="451" as="geometry" />
         </mxCell>
