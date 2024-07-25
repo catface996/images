@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bmHb6t2_djg87D1-KwYC-109" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#9933FF;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-4870" y="1430" width="850" height="850" as="geometry" />
+        </mxCell>
         <mxCell id="qq1qCgFUCKlk6vfdCNsT-39" value="Institution" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="6690" y="2620" width="250" height="550" as="geometry" />
         </mxCell>
@@ -5061,7 +5064,7 @@
         <mxCell id="bmHb6t2_djg87D1-KwYC-36" value="路由单落单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
           <mxGeometry x="259" y="353" width="90" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-37" value="路由前缓冲" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-37" value="路由前队列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
           <mxGeometry x="364" y="353" width="90" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-39" value="渠道决策&lt;div&gt;（可视化）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
@@ -5070,7 +5073,7 @@
         <mxCell id="bmHb6t2_djg87D1-KwYC-40" value="分发前置条件&lt;div&gt;决策&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
           <mxGeometry x="635" y="405" width="90" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-41" value="路由后缓冲" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-41" value="路由后队列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
           <mxGeometry x="364" y="405" width="90" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-42" value="终态异步通知" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
@@ -5263,9 +5266,6 @@
           <mxGeometry x="-0.0466" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-109" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#9933FF;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-4870" y="1430" width="850" height="850" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-110" value="金融网络域" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#9933FF;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-5059.5" y="1510" width="90" height="50" as="geometry" />
