@@ -5011,7 +5011,7 @@
           <mxGeometry x="-4230.5" y="-1750" width="30.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-2" value="阿里云" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-5840" y="1239" width="870" height="461" as="geometry" />
+          <mxGeometry x="-5840" y="1239" width="870" height="511" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bmHb6t2_djg87D1-KwYC-2" source="bmHb6t2_djg87D1-KwYC-4" target="bmHb6t2_djg87D1-KwYC-6">
           <mxGeometry relative="1" as="geometry" />
@@ -5047,16 +5047,25 @@
           <mxGeometry x="605" y="195.5" width="90" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
-          <mxGeometry x="440" y="321" width="240" height="119" as="geometry" />
+          <mxGeometry x="240" y="321" width="440" height="169" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-35" value="Switch-Engine" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
-          <mxGeometry x="720" y="321" width="120" height="119" as="geometry" />
+          <mxGeometry x="720" y="321" width="120" height="169" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-36" value="路由单落单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
-          <mxGeometry x="460" y="341" width="90" height="44.5" as="geometry" />
+          <mxGeometry x="250" y="331" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-37" value="路由单缓冲" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+          <mxGeometry x="355" y="331" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-39" value="渠道决策" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+          <mxGeometry x="735" y="351" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-40" value="分发前置条件&lt;div&gt;决策&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+          <mxGeometry x="735" y="411" width="90" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-3" value="AWS" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-5840" y="1719" width="870" height="451" as="geometry" />
+          <mxGeometry x="-5840" y="1760" width="870" height="451" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-13" value="PayRoute（老版本路由）" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
           <mxGeometry x="40" y="81" width="360" height="159" as="geometry" />
