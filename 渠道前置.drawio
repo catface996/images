@@ -5229,7 +5229,7 @@
         <mxCell id="bmHb6t2_djg87D1-KwYC-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bmHb6t2_djg87D1-KwYC-66" target="bmHb6t2_djg87D1-KwYC-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-96" value="标准渠道接入网关" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-96" value="标准渠道接入网关" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-3920" y="2070" width="480" height="220" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-97" value="标准SPI&lt;div&gt;（业务维度）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
