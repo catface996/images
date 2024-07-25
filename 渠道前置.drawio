@@ -5085,7 +5085,7 @@
         <mxCell id="bmHb6t2_djg87D1-KwYC-44" value="通用指标&lt;div&gt;采集监控&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
           <mxGeometry x="474" y="405" width="90" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-47" value="模拟路由" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-47" value="模拟路由/巡检" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
           <mxGeometry x="735" y="351" width="90" height="39" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-48" value="成本试算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
