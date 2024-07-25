@@ -5223,6 +5223,33 @@
         <mxCell id="bmHb6t2_djg87D1-KwYC-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bmHb6t2_djg87D1-KwYC-66" target="bmHb6t2_djg87D1-KwYC-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-96" value="标准渠道接入网关" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-3940" y="2041" width="380" height="221" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-97" value="标准SPI&lt;div&gt;（业务维度）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3920.5" y="2076.75" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-98" value="机构吗转换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3920.5" y="2139" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-99" value="渠道订单&lt;div&gt;流程控制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3920.5" y="2200" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-100" value="渠道响应码映射&lt;div&gt;标准码&amp;amp;状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3797.25" y="2076.75" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-101" value="特定响应码&lt;div&gt;动作处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3797.25" y="2139" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-102" value="pending订单&lt;div&gt;轮询&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3797.25" y="2200" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-103" value="终态订单&lt;div&gt;状态同步&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3683.5" y="2076.75" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-104" value="原单重试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3683.5" y="2139" width="90" height="44.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
