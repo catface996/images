@@ -5235,7 +5235,7 @@
         <mxCell id="bmHb6t2_djg87D1-KwYC-97" value="标准SPI&lt;div&gt;（业务维度）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-3900.5" y="2105.75" width="90" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-98" value="机构吗转换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-98" value="机构码转换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-3900.5" y="2168" width="90" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-99" value="渠道订单&lt;div&gt;流程控制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
