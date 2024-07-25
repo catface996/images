@@ -5127,22 +5127,22 @@
         <mxCell id="bmHb6t2_djg87D1-KwYC-61" value="渠道接入网关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;verticalAlign=top;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
           <mxGeometry x="40" y="280" width="800" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-62" value="非标渠道接入网关&lt;div&gt;ng-xx-channel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-62" value="非标渠道接入网关&lt;div&gt;ng-xx-channel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
           <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-63" value="非标渠道接入网关&lt;div&gt;ng-yy-channel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-63" value="非标渠道接入网关&lt;div&gt;ng-yy-channel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
           <mxGeometry x="180" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-64" value="标准渠道接入网关&lt;div&gt;ng-nibss-channel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-64" value="标准渠道接入网关&lt;div&gt;ng-nibss-channel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
           <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-65" value="标准渠道接入网关&lt;div&gt;ng-mtn-channel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-65" value="标准渠道接入网关&lt;div&gt;ng-mtn-channel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
           <mxGeometry x="570" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-66" value="标准渠道接入网关&lt;div&gt;...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-66" value="标准渠道接入网关&lt;div&gt;...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
           <mxGeometry x="705" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-67" value="非标渠道接入网关&lt;div&gt;...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-67" value="非标渠道接入网关&lt;div&gt;...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
           <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.227;exitY=0.995;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;exitPerimeter=0;" edge="1" parent="1" source="bmHb6t2_djg87D1-KwYC-6" target="bmHb6t2_djg87D1-KwYC-13">
