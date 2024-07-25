@@ -5028,7 +5028,7 @@
         <mxCell id="bmHb6t2_djg87D1-KwYC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;exitX=0.47;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="bmHb6t2_djg87D1-KwYC-2" source="bmHb6t2_djg87D1-KwYC-6" target="bmHb6t2_djg87D1-KwYC-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-6" value="Switch Adapter" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-6" value="Switch Adapter" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
           <mxGeometry x="40" y="161" width="800" height="119" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-9" value="新老接口转换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
@@ -5049,13 +5049,13 @@
         <mxCell id="bmHb6t2_djg87D1-KwYC-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="bmHb6t2_djg87D1-KwYC-2" source="bmHb6t2_djg87D1-KwYC-18" target="bmHb6t2_djg87D1-KwYC-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-18" value="Switch-Order" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-18" value="Switch-Order" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
           <mxGeometry x="241" y="321" width="350" height="199" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="bmHb6t2_djg87D1-KwYC-2" source="bmHb6t2_djg87D1-KwYC-35" target="bmHb6t2_djg87D1-KwYC-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-35" value="Switch-Engine" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-35" value="Switch-Engine" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
           <mxGeometry x="620" y="321" width="220" height="199" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-36" value="路由单落单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
@@ -5130,7 +5130,7 @@
         <mxCell id="bmHb6t2_djg87D1-KwYC-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="bmHb6t2_djg87D1-KwYC-3" source="bmHb6t2_djg87D1-KwYC-15" target="bmHb6t2_djg87D1-KwYC-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-15" value="Switch-Distribution" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-15" value="Switch-Distribution" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
           <mxGeometry x="440" y="81" width="400" height="159" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-51" value="渠道决策" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
@@ -5263,6 +5263,12 @@
           <mxGeometry x="-0.0466" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-109" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#9933FF;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-4870" y="1430" width="850" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-110" value="金融网络域" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#9933FF;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-5059.5" y="1510" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
