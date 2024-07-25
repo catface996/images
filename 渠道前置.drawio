@@ -5178,7 +5178,7 @@
         <mxCell id="bmHb6t2_djg87D1-KwYC-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=2;" edge="1" parent="1" source="bmHb6t2_djg87D1-KwYC-18" target="bmHb6t2_djg87D1-KwYC-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmHb6t2_djg87D1-KwYC-77" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bmHb6t2_djg87D1-KwYC-77" value="外部渠道" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-4880" y="2310" width="870" height="200" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-83" value="xx" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" vertex="1" parent="bmHb6t2_djg87D1-KwYC-77">
