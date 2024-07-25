@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.4">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
-    <mxGraphModel dx="6936" dy="4136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7763" dy="4136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5011,25 +5011,66 @@
           <mxGeometry x="-4230.5" y="-1750" width="30.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-2" value="阿里云" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-5760" y="1239" width="730" height="451" as="geometry" />
+          <mxGeometry x="-5840" y="1239" width="870" height="461" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bmHb6t2_djg87D1-KwYC-2" source="bmHb6t2_djg87D1-KwYC-4" target="bmHb6t2_djg87D1-KwYC-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-4" value="交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
-          <mxGeometry x="160" y="41" width="120" height="60" as="geometry" />
+          <mxGeometry x="235" y="41" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bmHb6t2_djg87D1-KwYC-2" source="bmHb6t2_djg87D1-KwYC-5" target="bmHb6t2_djg87D1-KwYC-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-5" value="其他业务系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
-          <mxGeometry x="440" y="41" width="120" height="60" as="geometry" />
+          <mxGeometry x="515" y="41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;" edge="1" parent="bmHb6t2_djg87D1-KwYC-2" source="bmHb6t2_djg87D1-KwYC-6" target="bmHb6t2_djg87D1-KwYC-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-6" value="Switch Adapter" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
-          <mxGeometry x="80" y="161" width="560" height="120" as="geometry" />
+          <mxGeometry x="40" y="161" width="800" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-9" value="新老接口转换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+          <mxGeometry x="166" y="195.5" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-10" value="灰度控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+          <mxGeometry x="275" y="195.5" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-12" value="标准默认参数&lt;div&gt;补全&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+          <mxGeometry x="385" y="195.5" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-16" value="流量控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+          <mxGeometry x="495" y="195.5" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-17" value="流量监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+          <mxGeometry x="605" y="195.5" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+          <mxGeometry x="440" y="321" width="240" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-35" value="Switch-Engine" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+          <mxGeometry x="720" y="321" width="120" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-36" value="路由单落单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-2">
+          <mxGeometry x="460" y="341" width="90" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="bmHb6t2_djg87D1-KwYC-3" value="AWS" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-5760" y="1719" width="730" height="451" as="geometry" />
+          <mxGeometry x="-5840" y="1719" width="870" height="451" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-13" value="PayRoute（老版本路由）" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
+          <mxGeometry x="40" y="81" width="360" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-15" value="Switch-Distribution" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="bmHb6t2_djg87D1-KwYC-3">
+          <mxGeometry x="440" y="81" width="400" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="bmHb6t2_djg87D1-KwYC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;" edge="1" parent="1" source="bmHb6t2_djg87D1-KwYC-6" target="bmHb6t2_djg87D1-KwYC-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-5400" y="1540" />
+              <mxPoint x="-5620" y="1540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
