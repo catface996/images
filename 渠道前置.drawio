@@ -5306,11 +5306,17 @@
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-8" target="ocg1RNqOyUiUeMMVO5ut-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ocg1RNqOyUiUeMMVO5ut-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-8" target="ocg1RNqOyUiUeMMVO5ut-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-8" value="是否在路由前缓冲" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9410" y="-630" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-10" value="加入路由前缓冲队列，等待调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9570" y="-490" width="120" height="60" as="geometry" />
+          <mxGeometry x="9590" y="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocg1RNqOyUiUeMMVO5ut-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-11" target="ocg1RNqOyUiUeMMVO5ut-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-11" value="路由决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9390" y="-490" width="120" height="60" as="geometry" />
@@ -5318,8 +5324,20 @@
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-13" value="返回已经存在的订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9590" y="-745" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ocg1RNqOyUiUeMMVO5ut-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9880" y="-614" width="120" height="60" as="geometry" />
+        <mxCell id="ocg1RNqOyUiUeMMVO5ut-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-17" target="ocg1RNqOyUiUeMMVO5ut-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocg1RNqOyUiUeMMVO5ut-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-17" target="ocg1RNqOyUiUeMMVO5ut-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocg1RNqOyUiUeMMVO5ut-17" value="是否在路由后缓冲" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9411" y="-370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ocg1RNqOyUiUeMMVO5ut-19" value="加入路由后缓冲队列，等待调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9590" y="-240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocg1RNqOyUiUeMMVO5ut-21" value="分发到渠道接入网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9390" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
