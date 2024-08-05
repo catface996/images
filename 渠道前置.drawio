@@ -5286,7 +5286,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-2" value="幂等性检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9391" y="-1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="9391" y="-1013" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-3" target="ocg1RNqOyUiUeMMVO5ut-6">
           <mxGeometry relative="1" as="geometry" />
@@ -5295,13 +5295,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-3" value="是否是重复订单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9411" y="-880" width="80" height="80" as="geometry" />
+          <mxGeometry x="9411" y="-896" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-6" target="ocg1RNqOyUiUeMMVO5ut-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-6" value="保存订单到数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9391" y="-745" width="120" height="60" as="geometry" />
+          <mxGeometry x="9391" y="-759" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-8" target="ocg1RNqOyUiUeMMVO5ut-11">
           <mxGeometry relative="1" as="geometry" />
@@ -5310,7 +5310,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-8" value="是否在路由前缓冲" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9410" y="-630" width="80" height="80" as="geometry" />
+          <mxGeometry x="9410" y="-642" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-10" target="ocg1RNqOyUiUeMMVO5ut-29">
           <mxGeometry relative="1" as="geometry">
@@ -5328,7 +5328,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-11" value="路由决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9390" y="-490" width="120" height="60" as="geometry" />
+          <mxGeometry x="9390" y="-505" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-13" target="ocg1RNqOyUiUeMMVO5ut-29">
           <mxGeometry relative="1" as="geometry">
@@ -5349,7 +5349,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-17" value="是否在路由后缓冲" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9411" y="-370" width="80" height="80" as="geometry" />
+          <mxGeometry x="9411" y="-388" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-19" target="ocg1RNqOyUiUeMMVO5ut-29">
           <mxGeometry relative="1" as="geometry">
@@ -5367,25 +5367,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-21" value="分发到渠道接入网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9390" y="-240" width="120" height="60" as="geometry" />
+          <mxGeometry x="9390" y="-251" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-23" target="ocg1RNqOyUiUeMMVO5ut-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-23" value="根据返回结果更新路由单状态和凭证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9390" y="-120" width="120" height="60" as="geometry" />
+          <mxGeometry x="9390" y="-124" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-25" target="ocg1RNqOyUiUeMMVO5ut-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-25" value="是否要发送终态异步通知" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9410" width="80" height="80" as="geometry" />
+          <mxGeometry x="9410" y="-7" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-27" target="ocg1RNqOyUiUeMMVO5ut-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-27" value="发送终态异步通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9391" y="135" width="120" height="60" as="geometry" />
+          <mxGeometry x="9391" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-29" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9390" y="257" width="120" height="60" as="geometry" />
