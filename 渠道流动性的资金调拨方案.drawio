@@ -136,6 +136,9 @@
             <mxPoint x="-31" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-36" value="注意：&lt;div&gt;1.NIBSS的保证金以美金存款在FCMB&lt;/div&gt;&lt;div&gt;2.PalmPay的NIBSS结算账户，开设在FCMB&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="30" width="260" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
