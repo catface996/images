@@ -89,10 +89,10 @@
         <mxCell id="YbKHM1qgpRkM0NyHBMaA-8" value="财资银行账户：8888888888" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-3">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YbKHM1qgpRkM0NyHBMaA-12" value="内部户，在ACCESS的资金账户的镜像：&lt;div&gt;1234567890&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-3">
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-12" value="内部户，在ACCESS的资金账户的镜像：&lt;div&gt;1234567890&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-3">
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YbKHM1qgpRkM0NyHBMaA-25" value="内部户，在FCMB的NIBSS结算账户镜像：&lt;div&gt;6666666666&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-3">
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-25" value="内部户，在FCMB的NIBSS结算账户镜像：&lt;div&gt;6666666666&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-3">
           <mxGeometry x="35" y="120" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YbKHM1qgpRkM0NyHBMaA-6" value="FCMB（Bank &amp;amp; Channel）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
