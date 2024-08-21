@@ -95,7 +95,7 @@
         <mxCell id="YbKHM1qgpRkM0NyHBMaA-25" value="内部户，在FCMB的NIBSS结算账户镜像：&lt;div&gt;6666666666&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-3">
           <mxGeometry x="35" y="120" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YbKHM1qgpRkM0NyHBMaA-6" value="FCMB（Bank）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-6" value="FCMB（Bank &amp;amp; Channel）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="30" width="200" height="290" as="geometry" />
         </mxCell>
         <mxCell id="YbKHM1qgpRkM0NyHBMaA-7" value="&lt;div&gt;PalmPay在NIBSS的保证金：xx美元&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-6">
