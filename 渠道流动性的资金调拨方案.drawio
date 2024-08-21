@@ -139,6 +139,54 @@
         <mxCell id="YbKHM1qgpRkM0NyHBMaA-36" value="注意：&lt;div&gt;1.NIBSS的保证金以美金存款在FCMB&lt;/div&gt;&lt;div&gt;2.PalmPay的NIBSS结算账户，开设在FCMB&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="30" width="260" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-37" value="ACCESS（Bank）" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1330" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-38" value="PalmPay在ACCESS的资金账户&lt;div&gt;账号：1234567890&lt;/div&gt;&lt;div&gt;资金：1000,000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-37">
+          <mxGeometry x="13" y="60" width="175" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-39" value="FCMB（Bank）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="980" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-40" value="PalmPay在FCMB开设的结算账户&lt;div&gt;账号：6666666666&lt;/div&gt;&lt;div&gt;资金：0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-39">
+          <mxGeometry x="10" y="50" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-41" value="PalmPay" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1090" width="200" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-42" value="内部户&lt;div&gt;PalmPay在FCMB开设的结算账户&lt;div&gt;账号：6666666666&lt;/div&gt;&lt;div&gt;资金：0&lt;/div&gt;&lt;/div&gt;&lt;div&gt;资金变动：+ 60,000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-41">
+          <mxGeometry x="12.5" y="40" width="177.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-44" value="内部调账" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="YbKHM1qgpRkM0NyHBMaA-41" source="YbKHM1qgpRkM0NyHBMaA-43" target="YbKHM1qgpRkM0NyHBMaA-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-43" value="内部户&lt;div&gt;PalmPay在ACCESS的资金账户镜像&lt;div&gt;账号：1234567890&lt;/div&gt;&lt;div&gt;资金：1000,000&lt;/div&gt;&lt;/div&gt;&lt;div&gt;资金变动：- 60,000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-41">
+          <mxGeometry x="13.5" y="190" width="175" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="YbKHM1qgpRkM0NyHBMaA-38" target="YbKHM1qgpRkM0NyHBMaA-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-46" value="镜像" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YbKHM1qgpRkM0NyHBMaA-45">
+          <mxGeometry x="-0.0061" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="YbKHM1qgpRkM0NyHBMaA-40" target="YbKHM1qgpRkM0NyHBMaA-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-48" value="镜像" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YbKHM1qgpRkM0NyHBMaA-47">
+          <mxGeometry x="-0.068" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YbKHM1qgpRkM0NyHBMaA-38" target="YbKHM1qgpRkM0NyHBMaA-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-50" value="[资金流] 经过NIBSS对PalmPay做入金" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YbKHM1qgpRkM0NyHBMaA-49">
+          <mxGeometry x="0.1435" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
