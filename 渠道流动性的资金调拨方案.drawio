@@ -4,43 +4,78 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YbKHM1qgpRkM0NyHBMaA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YbKHM1qgpRkM0NyHBMaA-5" target="YbKHM1qgpRkM0NyHBMaA-2">
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="YbKHM1qgpRkM0NyHBMaA-5" target="YbKHM1qgpRkM0NyHBMaA-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="710" />
-              <mxPoint x="100" y="230" />
+              <mxPoint x="100" y="790" />
+              <mxPoint x="100" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YbKHM1qgpRkM0NyHBMaA-11" value="通过NIBSS行间转账（必须经过NIBSS）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YbKHM1qgpRkM0NyHBMaA-10">
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-11" value="②通过NIBSS行间转账（必须经过NIBSS）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YbKHM1qgpRkM0NyHBMaA-10">
           <mxGeometry x="0.3962" y="1" relative="1" as="geometry">
-            <mxPoint x="-83" y="121" as="offset" />
+            <mxPoint x="-95" y="61" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YbKHM1qgpRkM0NyHBMaA-1" value="ACCESS（Bank &amp;amp; Channel）" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="160" y="560" width="200" height="200" as="geometry" />
+          <mxGeometry x="160" y="560" width="200" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="YbKHM1qgpRkM0NyHBMaA-4" value="Bank&lt;div&gt;PalmPay的资金账户：&lt;/div&gt;&lt;div&gt;1234567890&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-1">
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="YbKHM1qgpRkM0NyHBMaA-1" source="YbKHM1qgpRkM0NyHBMaA-4" target="YbKHM1qgpRkM0NyHBMaA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-4" value="Bank&lt;div&gt;PalmPay的资金账户：&lt;/div&gt;&lt;div&gt;1234567890&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-1">
           <mxGeometry x="30" y="40" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YbKHM1qgpRkM0NyHBMaA-5" value="Channel&lt;div&gt;&lt;br&gt;&lt;div&gt;行间转账能力✅&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-1">
-          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YbKHM1qgpRkM0NyHBMaA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YbKHM1qgpRkM0NyHBMaA-2" target="YbKHM1qgpRkM0NyHBMaA-8">
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="YbKHM1qgpRkM0NyHBMaA-2" target="YbKHM1qgpRkM0NyHBMaA-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YbKHM1qgpRkM0NyHBMaA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" edge="1" parent="1" source="YbKHM1qgpRkM0NyHBMaA-2" target="YbKHM1qgpRkM0NyHBMaA-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-20" value="③向PalmPay发起入金" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YbKHM1qgpRkM0NyHBMaA-15">
+          <mxGeometry x="-0.3355" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YbKHM1qgpRkM0NyHBMaA-2" target="YbKHM1qgpRkM0NyHBMaA-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YbKHM1qgpRkM0NyHBMaA-18" value="T+1的资金流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YbKHM1qgpRkM0NyHBMaA-17">
           <mxGeometry x="-0.3" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YbKHM1qgpRkM0NyHBMaA-2" value="NIBSS" style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="480" y="130" width="200" height="200" as="geometry" />
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="YbKHM1qgpRkM0NyHBMaA-2" target="YbKHM1qgpRkM0NyHBMaA-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="390" />
+              <mxPoint x="740" y="540" />
+              <mxPoint x="260" y="540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="YbKHM1qgpRkM0NyHBMaA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YbKHM1qgpRkM0NyHBMaA-12" target="YbKHM1qgpRkM0NyHBMaA-5">
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-32" value="⑥向ACCESS发起入金" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YbKHM1qgpRkM0NyHBMaA-28">
+          <mxGeometry x="0.1662" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-2" value="NIBSS" style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-33" value="出金API" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-2">
+          <mxGeometry y="85" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-34" value="入金SPI" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-2">
+          <mxGeometry x="170" y="85" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="YbKHM1qgpRkM0NyHBMaA-2" source="YbKHM1qgpRkM0NyHBMaA-33" target="YbKHM1qgpRkM0NyHBMaA-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="YbKHM1qgpRkM0NyHBMaA-12" target="YbKHM1qgpRkM0NyHBMaA-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YbKHM1qgpRkM0NyHBMaA-14" value="①通过ACCESS-Other渠道，发起出金，收款账号为：PalmPay-8888888888" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YbKHM1qgpRkM0NyHBMaA-13">
@@ -48,23 +83,58 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YbKHM1qgpRkM0NyHBMaA-3" value="PalmPay" style="swimlane;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="827" y="560" width="200" height="200" as="geometry" />
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-3" value="PalmPay" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="827" y="560" width="200" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="YbKHM1qgpRkM0NyHBMaA-8" value="财资银行账户：8888888888" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-3">
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-8" value="财资银行账户：8888888888" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-3">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YbKHM1qgpRkM0NyHBMaA-12" value="内部户，在ACCESS的资金账户的镜像：&lt;div&gt;1234567890&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-3">
-          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-25" value="内部户，在FCMB的NIBSS结算账户镜像：&lt;div&gt;6666666666&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-3">
+          <mxGeometry x="35" y="120" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YbKHM1qgpRkM0NyHBMaA-6" value="FCMB（Bank）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="430" width="200" height="200" as="geometry" />
+          <mxGeometry x="827" y="30" width="200" height="290" as="geometry" />
         </mxCell>
         <mxCell id="YbKHM1qgpRkM0NyHBMaA-7" value="&lt;div&gt;PalmPay在NIBSS的保证金：xx美元&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-6">
-          <mxGeometry x="40" y="125" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YbKHM1qgpRkM0NyHBMaA-9" value="NIBSS结算账户&lt;div&gt;6666666666&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-6">
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="YbKHM1qgpRkM0NyHBMaA-6" source="YbKHM1qgpRkM0NyHBMaA-9" target="YbKHM1qgpRkM0NyHBMaA-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-9" value="NIBSS结算账户&lt;div&gt;6666666666&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-6">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-22" value="Channel&lt;div&gt;&lt;br&gt;&lt;div&gt;行间转账能力✅&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YbKHM1qgpRkM0NyHBMaA-6">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="YbKHM1qgpRkM0NyHBMaA-25" target="YbKHM1qgpRkM0NyHBMaA-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="710" />
+              <mxPoint x="1170" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-29" value="④通过FCMB-Other渠道，发起出金，收款账号为：ACCESS-1234567890" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YbKHM1qgpRkM0NyHBMaA-26">
+          <mxGeometry x="-0.0273" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YbKHM1qgpRkM0NyHBMaA-22" target="YbKHM1qgpRkM0NyHBMaA-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="190" />
+              <mxPoint x="370" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YbKHM1qgpRkM0NyHBMaA-30" value="⑤通过NIBSS行间转账（可以不经过NIBSS）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YbKHM1qgpRkM0NyHBMaA-27">
+          <mxGeometry x="-0.6278" y="-1" relative="1" as="geometry">
+            <mxPoint x="-48" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
