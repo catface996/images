@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="O5xp4HRn_wAVqwUjP3aK">
-    <mxGraphModel dx="2849" dy="2992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3247" dy="3210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1117,28 +1117,51 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-67" value="PalmPay" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/7b/37/f2/7b37f291-083c-0093-269d-019cabe3c236/source/512x512bb.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="-2200" width="70" height="70" as="geometry" />
+          <mxGeometry x="440" y="-2200" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-68" target="5479t9xR8tEWKfoJc-LU-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-68" value="ACCESS （Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="-2217.5" width="350" height="105" as="geometry" />
+          <mxGeometry x="720" y="-2217.5" width="350" height="105" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-69" value="Intra-bank Transfer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="-2195" width="270" height="30" as="geometry" />
+          <mxGeometry x="760" y="-2195" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-70" value="Inter-bank Transfer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="-2160" width="270" height="30" as="geometry" />
+          <mxGeometry x="760" y="-2160" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-71" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-2195" width="60" height="60" as="geometry" />
+          <mxGeometry x="1160" y="-2195" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-73" target="5479t9xR8tEWKfoJc-LU-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-73" value="Transfer Outward&lt;div&gt;（Business Type）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="-2195" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="-2195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-78" target="5479t9xR8tEWKfoJc-LU-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-78" value="PalmPay" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/7b/37/f2/7b37f291-083c-0093-269d-019cabe3c236/source/512x512bb.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-645" y="-2195" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-80" target="5479t9xR8tEWKfoJc-LU-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-80" value="Transfer Outward&lt;div&gt;（Business Type）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-545" y="-2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-82" target="5479t9xR8tEWKfoJc-LU-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="-2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-82" value="NIBSS（Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-375" y="-2180" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-83" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
+          <mxGeometry x="85" y="-2190" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
