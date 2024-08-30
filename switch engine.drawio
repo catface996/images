@@ -1125,10 +1125,10 @@
         <mxCell id="5479t9xR8tEWKfoJc-LU-68" value="ACCESS （Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="720" y="-2217.5" width="350" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="5479t9xR8tEWKfoJc-LU-69" value="Intra-bank Transfer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5479t9xR8tEWKfoJc-LU-69" value="Intra-bank Transfer （ability）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="-2195" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5479t9xR8tEWKfoJc-LU-70" value="Inter-bank Transfer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5479t9xR8tEWKfoJc-LU-70" value="Inter-bank Transfer（ability）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="-2160" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-71" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
