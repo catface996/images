@@ -1206,6 +1206,15 @@
         <mxCell id="5479t9xR8tEWKfoJc-LU-99" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
           <mxGeometry x="85" y="-1920" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-100" value="name enquiry (action)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-1970" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-101" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-1839" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-102" value="transaction status query" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-1799" width="270" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
