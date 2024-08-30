@@ -1172,6 +1172,40 @@
         <mxCell id="5479t9xR8tEWKfoJc-LU-86" value="transaction status query (action)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-335" y="-2130" width="270" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-88" target="5479t9xR8tEWKfoJc-LU-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-88" value="PalmPay" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/7b/37/f2/7b37f291-083c-0093-269d-019cabe3c236/source/512x512bb.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-1925" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-92" target="5479t9xR8tEWKfoJc-LU-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-92" target="5479t9xR8tEWKfoJc-LU-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-92" value="Transfer Outward&lt;div&gt;（Business Type）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="-1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-94" target="5479t9xR8tEWKfoJc-LU-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="69" y="-1923.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-94" value="Hydrogen（Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="-1879" width="350" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-96" target="5479t9xR8tEWKfoJc-LU-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="69" y="-1923.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-96" value="NIBSS（Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="-2003.5" width="350" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-99" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
+          <mxGeometry x="85" y="-1920" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
