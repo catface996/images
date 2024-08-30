@@ -974,9 +974,6 @@
         <mxCell id="kerzIb3wunF3lRtGdF_Q-256" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="kMprH6ETdgcOiTL6cREe-49" target="kerzIb3wunF3lRtGdF_Q-255" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5479t9xR8tEWKfoJc-LU-2" value="ACCESS Bank" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" vertex="1" parent="1">
-          <mxGeometry x="-910" y="-2200" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-3" target="5479t9xR8tEWKfoJc-LU-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -989,14 +986,13 @@
         <mxCell id="5479t9xR8tEWKfoJc-LU-5" value="Transfer Outward&lt;div&gt;（Business Type）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1520" y="-2195" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5479t9xR8tEWKfoJc-LU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-6" target="5479t9xR8tEWKfoJc-LU-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5479t9xR8tEWKfoJc-LU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-6" target="5479t9xR8tEWKfoJc-LU-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-900" y="-2165" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-6" value="NIBSS（Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-1350" y="-2185" width="350" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5479t9xR8tEWKfoJc-LU-10" value="ACCESS Bank" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" vertex="1" parent="1">
-          <mxGeometry x="-910" y="-1955" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-12" target="5479t9xR8tEWKfoJc-LU-14">
           <mxGeometry relative="1" as="geometry" />
@@ -1016,35 +1012,41 @@
         <mxCell id="5479t9xR8tEWKfoJc-LU-14" value="Transfer Outward&lt;div&gt;（Business Type）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1519" y="-1950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5479t9xR8tEWKfoJc-LU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-16" target="5479t9xR8tEWKfoJc-LU-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5479t9xR8tEWKfoJc-LU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-16" target="5479t9xR8tEWKfoJc-LU-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-900" y="-1920" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-16" value="NIBSS（Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-1349" y="-1940" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5479t9xR8tEWKfoJc-LU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-17" target="5479t9xR8tEWKfoJc-LU-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5479t9xR8tEWKfoJc-LU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-17" target="5479t9xR8tEWKfoJc-LU-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-900" y="-1920" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-17" value="Hydrogen（Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-1349" y="-2000" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5479t9xR8tEWKfoJc-LU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-18" target="5479t9xR8tEWKfoJc-LU-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5479t9xR8tEWKfoJc-LU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-18" target="5479t9xR8tEWKfoJc-LU-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-900" y="-1920" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-18" value="ACCESS（Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-1349" y="-1879" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-23" value="MTN Telecom Operator" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" vertex="1" parent="1">
-          <mxGeometry x="-910" y="-1788" width="70" height="70" as="geometry" />
+          <mxGeometry x="-900" y="-1710" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-25" value="PalmPay" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/7b/37/f2/7b37f291-083c-0093-269d-019cabe3c236/source/512x512bb.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1630" y="-1620" width="70" height="70" as="geometry" />
+          <mxGeometry x="-1610" y="-1502" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-29" target="5479t9xR8tEWKfoJc-LU-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-29" value="&lt;div&gt;Airtime&lt;/div&gt;&lt;div&gt;（Business Type）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1530" y="-1720" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1510" y="-1602" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-31" target="5479t9xR8tEWKfoJc-LU-23">
           <mxGeometry relative="1" as="geometry" />
@@ -1053,16 +1055,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-31" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22MTN%20Telecom%20Operator%22%20style%3D%22shape%3Dimage%3Bhtml%3D1%3BverticalAlign%3Dtop%3BverticalLabelPosition%3Dbottom%3BlabelBackgroundColor%3D%23ffffff%3BimageAspect%3D0%3Baspect%3Dfixed%3Bimage%3Dhttps%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2F48-bubbles%2F48%2F04.Bank-128.png%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-910%22%20y%3D%22-1788%22%20width%3D%2270%22%20height%3D%2270%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModeCoCCo&lt;/span&gt;CORAPAY（Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-1350" y="-1580" width="350" height="40" as="geometry" />
+          <mxGeometry x="-1330" y="-1462" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-36" target="5479t9xR8tEWKfoJc-LU-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-36" value="&lt;div&gt;Betting&lt;/div&gt;&lt;div&gt;（Business Type）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1530" y="-1590" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1510" y="-1472" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-37" target="5479t9xR8tEWKfoJc-LU-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-37" value="&lt;div&gt;Electricity&lt;/div&gt;&lt;div&gt;（Business Type）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1530" y="-1470" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1510" y="-1352" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-39" value="AIRTEL Telecom Operator" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" vertex="1" parent="1">
-          <mxGeometry x="-910" y="-1690" width="70" height="70" as="geometry" />
+          <mxGeometry x="-900" y="-1620" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-43" value="AIRTEL Telecom Operator" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" vertex="1" parent="1">
+          <mxGeometry x="-902.5" y="-1517" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-44" value="AIRTEL Telecom Operator" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" vertex="1" parent="1">
+          <mxGeometry x="-900" y="-1422" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-45" value="AIRTEL Telecom Operator" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" vertex="1" parent="1">
+          <mxGeometry x="-900" y="-1310" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-46" value="AIRTEL Telecom Operator" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" vertex="1" parent="1">
+          <mxGeometry x="-900" y="-1210" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-47" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="-1950" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5479t9xR8tEWKfoJc-LU-48" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="-2195" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
