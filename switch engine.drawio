@@ -1157,8 +1157,8 @@
             <mxPoint x="75" y="-2160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5479t9xR8tEWKfoJc-LU-82" value="NIBSS（Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-375" y="-2180" width="350" height="40" as="geometry" />
+        <mxCell id="5479t9xR8tEWKfoJc-LU-82" value="NIBSS（Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-375" y="-2240" width="350" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-83" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
           <mxGeometry x="85" y="-2190" width="60" height="60" as="geometry" />
