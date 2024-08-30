@@ -996,7 +996,7 @@
           <mxGeometry x="-1350" y="-2185" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-10" value="ACCESS Bank" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" vertex="1" parent="1">
-          <mxGeometry x="-919" y="-1955" width="70" height="70" as="geometry" />
+          <mxGeometry x="-910" y="-1955" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5479t9xR8tEWKfoJc-LU-12" target="5479t9xR8tEWKfoJc-LU-14">
           <mxGeometry relative="1" as="geometry" />
