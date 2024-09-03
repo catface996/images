@@ -1095,10 +1095,10 @@
         <mxCell id="5479t9xR8tEWKfoJc-LU-37" value="&lt;div&gt;Electricity&lt;/div&gt;&lt;div&gt;（Business Type）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1510" y="-1352" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5479t9xR8tEWKfoJc-LU-47" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" parent="1" vertex="1">
+        <mxCell id="5479t9xR8tEWKfoJc-LU-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" parent="1" vertex="1">
           <mxGeometry x="-890" y="-1920.5" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5479t9xR8tEWKfoJc-LU-48" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" parent="1" vertex="1">
+        <mxCell id="5479t9xR8tEWKfoJc-LU-48" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" parent="1" vertex="1">
           <mxGeometry x="-890" y="-2195" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-49" value="MTN Telecom Operator" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/mtn-icon-512x512-jvl0inah.png;" parent="1" vertex="1">
@@ -1134,7 +1134,7 @@
         <mxCell id="5479t9xR8tEWKfoJc-LU-70" value="Inter-bank Transfer（ability）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="-2160" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5479t9xR8tEWKfoJc-LU-71" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" parent="1" vertex="1">
+        <mxCell id="5479t9xR8tEWKfoJc-LU-71" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" parent="1" vertex="1">
           <mxGeometry x="1160" y="-2195" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5479t9xR8tEWKfoJc-LU-73" target="5479t9xR8tEWKfoJc-LU-68" edge="1">
@@ -1163,7 +1163,7 @@
         <mxCell id="5479t9xR8tEWKfoJc-LU-82" value="NIBSS（Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-375" y="-2240" width="350" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="5479t9xR8tEWKfoJc-LU-83" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" parent="1" vertex="1">
+        <mxCell id="5479t9xR8tEWKfoJc-LU-83" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" parent="1" vertex="1">
           <mxGeometry x="85" y="-2190" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-84" value="name enquiry (action)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1206,7 +1206,7 @@
         <mxCell id="5479t9xR8tEWKfoJc-LU-96" value="NIBSS（Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-380" y="-2003.5" width="350" height="83.5" as="geometry" />
         </mxCell>
-        <mxCell id="5479t9xR8tEWKfoJc-LU-99" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" parent="1" vertex="1">
+        <mxCell id="5479t9xR8tEWKfoJc-LU-99" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" parent="1" vertex="1">
           <mxGeometry x="85" y="-1920" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5479t9xR8tEWKfoJc-LU-100" value="name enquiry (action)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1236,7 +1236,7 @@
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-4" value="NIBSS （Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1644" y="-2185" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oxsMOvt3gv4ytDpPTbHX-7" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
+        <mxCell id="oxsMOvt3gv4ytDpPTbHX-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
           <mxGeometry x="2084" y="-2195" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oxsMOvt3gv4ytDpPTbHX-9" target="oxsMOvt3gv4ytDpPTbHX-4">
@@ -1269,7 +1269,7 @@
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-19" value="NIBSS （Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2607" y="-2264" width="350" height="198" as="geometry" />
         </mxCell>
-        <mxCell id="oxsMOvt3gv4ytDpPTbHX-20" value="ACCESS Bank" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
+        <mxCell id="oxsMOvt3gv4ytDpPTbHX-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
           <mxGeometry x="3040" y="-2195" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oxsMOvt3gv4ytDpPTbHX-22" target="oxsMOvt3gv4ytDpPTbHX-19">
