@@ -1423,6 +1423,14 @@
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1" source="oxsMOvt3gv4ytDpPTbHX-81" target="oxsMOvt3gv4ytDpPTbHX-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oxsMOvt3gv4ytDpPTbHX-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeColor=#fd0808;" edge="1" parent="1" source="oxsMOvt3gv4ytDpPTbHX-81" target="oxsMOvt3gv4ytDpPTbHX-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oxsMOvt3gv4ytDpPTbHX-96" value="❌" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oxsMOvt3gv4ytDpPTbHX-94">
+          <mxGeometry x="0.3413" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-81" value="Transfer Outward&lt;div&gt;（Business Type）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="-1920" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1450,6 +1458,17 @@
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-90" value="ACCESS Channel 0%" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="695" y="-1850.5" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oxsMOvt3gv4ytDpPTbHX-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeColor=#FF0000;" edge="1" parent="1" source="oxsMOvt3gv4ytDpPTbHX-93" target="oxsMOvt3gv4ytDpPTbHX-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oxsMOvt3gv4ytDpPTbHX-97" value="❌" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oxsMOvt3gv4ytDpPTbHX-95">
+          <mxGeometry x="-0.194" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxsMOvt3gv4ytDpPTbHX-93" value="XXX Channel" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-1793" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
