@@ -1440,7 +1440,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-83" value="Hydrogen Channel 20%" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="695" y="-1909.5" width="350" height="40" as="geometry" />
+          <mxGeometry x="695" y="-1942.5" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="oxsMOvt3gv4ytDpPTbHX-85" target="oxsMOvt3gv4ytDpPTbHX-86">
           <mxGeometry relative="1" as="geometry">
@@ -1448,7 +1448,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-85" value="NIBSS Channel 80%" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="695" y="-1970.5" width="350" height="40" as="geometry" />
+          <mxGeometry x="695" y="-2003.5" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-86" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
           <mxGeometry x="1160" y="-1920" width="60" height="60" as="geometry" />
@@ -1457,7 +1457,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-90" value="ACCESS Channel 0%" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="-1850.5" width="350" height="40" as="geometry" />
+          <mxGeometry x="695" y="-1883.5" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeColor=#FF0000;" edge="1" parent="1" source="oxsMOvt3gv4ytDpPTbHX-93" target="oxsMOvt3gv4ytDpPTbHX-86">
           <mxGeometry relative="1" as="geometry" />
@@ -1468,7 +1468,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-93" value="XXX Channel" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="695" y="-1793" width="350" height="40" as="geometry" />
+          <mxGeometry x="695" y="-1826" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
