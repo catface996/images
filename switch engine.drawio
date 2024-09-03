@@ -1420,6 +1420,9 @@
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="oxsMOvt3gv4ytDpPTbHX-81" target="oxsMOvt3gv4ytDpPTbHX-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oxsMOvt3gv4ytDpPTbHX-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1" source="oxsMOvt3gv4ytDpPTbHX-81" target="oxsMOvt3gv4ytDpPTbHX-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-81" value="Transfer Outward&lt;div&gt;（Business Type）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="-1920" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1429,7 +1432,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-83" value="Hydrogen Channel 20%" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="695" y="-1879" width="350" height="40" as="geometry" />
+          <mxGeometry x="695" y="-1909.5" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="oxsMOvt3gv4ytDpPTbHX-85" target="oxsMOvt3gv4ytDpPTbHX-86">
           <mxGeometry relative="1" as="geometry">
@@ -1437,10 +1440,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-85" value="NIBSS Channel 80%" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="695" y="-1940" width="350" height="40" as="geometry" />
+          <mxGeometry x="695" y="-1970.5" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-86" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
           <mxGeometry x="1160" y="-1920" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oxsMOvt3gv4ytDpPTbHX-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1" source="oxsMOvt3gv4ytDpPTbHX-90" target="oxsMOvt3gv4ytDpPTbHX-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oxsMOvt3gv4ytDpPTbHX-90" value="ACCESS Channel 0%" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-1850.5" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
