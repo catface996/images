@@ -1318,7 +1318,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-36" value="NIBSS （Channel）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="3595" y="-2259" width="350" height="198" as="geometry" />
+          <mxGeometry x="3595" y="-2210" width="350" height="100" as="geometry" />
         </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.processmaker.com/wp-content/uploads/2019/10/Access_Bank_Logo.png;" vertex="1" parent="1">
           <mxGeometry x="4028" y="-2190" width="60" height="60" as="geometry" />
