@@ -1399,9 +1399,6 @@
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-65" value="15%" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="4810" y="-2116.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oxsMOvt3gv4ytDpPTbHX-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oxsMOvt3gv4ytDpPTbHX-58" target="oxsMOvt3gv4ytDpPTbHX-58">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="oxsMOvt3gv4ytDpPTbHX-68" value="97 -- 65%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4820" y="-2263" width="100" height="20" as="geometry" />
         </mxCell>
