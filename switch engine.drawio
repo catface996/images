@@ -585,7 +585,7 @@
         <mxCell id="kerzIb3wunF3lRtGdF_Q-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kerzIb3wunF3lRtGdF_Q-93" target="kerzIb3wunF3lRtGdF_Q-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kerzIb3wunF3lRtGdF_Q-124" value="Basic Route Info" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-124" value="Static Route Table" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="-475" width="200" height="235" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-126" value="Country" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="kerzIb3wunF3lRtGdF_Q-124" vertex="1">
