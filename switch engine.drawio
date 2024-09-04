@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Page-1" id="O5xp4HRn_wAVqwUjP3aK">
-    <mxGraphModel dx="2958" dy="3052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="3021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
           <mxGeometry x="2010" y="-905" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kMprH6ETdgcOiTL6cREe-24" value="Route Order" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="425" y="-1150" width="200" height="630" as="geometry" />
+          <mxGeometry x="-1230" y="-1070" width="200" height="630" as="geometry" />
         </mxCell>
         <mxCell id="kMprH6ETdgcOiTL6cREe-25" value="Palmpay Standard Code History" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="kMprH6ETdgcOiTL6cREe-24" vertex="1">
           <mxGeometry x="2" y="530.5" width="198" height="30" as="geometry" />
@@ -119,22 +119,22 @@
           <mxGeometry y="350" width="198" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kMprH6ETdgcOiTL6cREe-40" value="Down Stream Identity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="165" y="-1055" width="200" height="30" as="geometry" />
+          <mxGeometry x="-1490" y="-975" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kMprH6ETdgcOiTL6cREe-41" value="Inner Identity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
-          <mxGeometry x="165" y="-1150" width="200" height="30" as="geometry" />
+          <mxGeometry x="-1490" y="-1070" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kMprH6ETdgcOiTL6cREe-42" value="Business Params" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="165" y="-960" width="200" height="30" as="geometry" />
+          <mxGeometry x="-1490" y="-880" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kMprH6ETdgcOiTL6cREe-43" value="Route Determination Result" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="165" y="-865" width="198" height="30" as="geometry" />
+          <mxGeometry x="-1490" y="-785" width="198" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kMprH6ETdgcOiTL6cREe-44" value="Generate In Channel Gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="166" y="-770" width="198" height="30" as="geometry" />
+          <mxGeometry x="-1489" y="-690" width="198" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kMprH6ETdgcOiTL6cREe-45" value="Get From Channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="167" y="-675" width="198" height="30" as="geometry" />
+          <mxGeometry x="-1488" y="-595" width="198" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kMprH6ETdgcOiTL6cREe-47" value="Particular Business Type (Example:Transfer)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="2580" y="-795" width="640" height="470" as="geometry" />
@@ -586,7 +586,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-124" value="Static Route Table" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="35" y="-475" width="200" height="275" as="geometry" />
+          <mxGeometry x="-999" y="-310" width="200" height="275" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-126" value="Country" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="kerzIb3wunF3lRtGdF_Q-124" vertex="1">
           <mxGeometry x="1" y="55" width="198" height="32" as="geometry" />
@@ -607,7 +607,7 @@
           <mxGeometry x="1" y="211" width="198" height="32" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-129" value="Real Time Channel Indicator" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="313" y="-475" width="200" height="470" as="geometry" />
+          <mxGeometry x="-721" y="-310" width="200" height="550" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-131" value="Country" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="kerzIb3wunF3lRtGdF_Q-129" vertex="1">
           <mxGeometry x="1" y="56" width="198" height="32" as="geometry" />
@@ -624,26 +624,29 @@
         <mxCell id="kerzIb3wunF3lRtGdF_Q-135" value="5 minute success rate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="kerzIb3wunF3lRtGdF_Q-129" vertex="1">
           <mxGeometry x="1" y="239" width="198" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="kerzIb3wunF3lRtGdF_Q-136" value="total success rate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="kerzIb3wunF3lRtGdF_Q-129" vertex="1">
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-136" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="kerzIb3wunF3lRtGdF_Q-129" vertex="1">
           <mxGeometry x="1" y="271" width="198" height="32" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-137" value="1 minute 10s pending rate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="kerzIb3wunF3lRtGdF_Q-129" vertex="1">
-          <mxGeometry x="1" y="322" width="198" height="32" as="geometry" />
+          <mxGeometry x="1" y="350" width="198" height="32" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-138" value="5 minute 10s pending rate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="kerzIb3wunF3lRtGdF_Q-129" vertex="1">
-          <mxGeometry x="1" y="354" width="198" height="32" as="geometry" />
+          <mxGeometry x="1" y="382" width="198" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="kerzIb3wunF3lRtGdF_Q-139" value="total pending rate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="kerzIb3wunF3lRtGdF_Q-129" vertex="1">
-          <mxGeometry x="1" y="386" width="198" height="32" as="geometry" />
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-139" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="kerzIb3wunF3lRtGdF_Q-129" vertex="1">
+          <mxGeometry x="1" y="414" width="198" height="32" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-157" value="Channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="kerzIb3wunF3lRtGdF_Q-129" vertex="1">
-          <mxGeometry x="1" y="437" width="198" height="32" as="geometry" />
+          <mxGeometry y="518" width="198" height="32" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-197" value="Tenant ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="kerzIb3wunF3lRtGdF_Q-129" vertex="1">
           <mxGeometry x="1" y="24" width="198" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="kerzIb3wunF3lRtGdF_Q-140" value="real time route info" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="588" y="-475" width="200" height="250" as="geometry" />
+        <mxCell id="ffwNvhV8qCpVE_66pgGk-4" value="Party" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-129">
+          <mxGeometry x="2" y="486" width="198" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="kerzIb3wunF3lRtGdF_Q-140" value="Channel Fee Rate" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-446" y="-310" width="200" height="300" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-142" value="Country" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="kerzIb3wunF3lRtGdF_Q-140" vertex="1">
           <mxGeometry x="1" y="56" width="198" height="32" as="geometry" />
@@ -655,10 +658,13 @@
           <mxGeometry x="1" y="155" width="198" height="32" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-158" value="Channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="kerzIb3wunF3lRtGdF_Q-140" vertex="1">
-          <mxGeometry x="1" y="218" width="198" height="32" as="geometry" />
+          <mxGeometry x="1" y="268" width="198" height="32" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-199" value="Tenant ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="kerzIb3wunF3lRtGdF_Q-140" vertex="1">
           <mxGeometry x="1" y="24" width="198" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ffwNvhV8qCpVE_66pgGk-5" value="Party" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="kerzIb3wunF3lRtGdF_Q-140">
+          <mxGeometry x="1" y="236" width="198" height="32" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-151" value="manual route policy" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="3852" y="230" width="200" height="240" as="geometry" />
