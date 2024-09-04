@@ -1599,6 +1599,15 @@
         <mxCell id="ffwNvhV8qCpVE_66pgGk-49" value="97- 50%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="5850" y="-2250" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ffwNvhV8qCpVE_66pgGk-50" value="61- 40%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="5750" y="-2174.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ffwNvhV8qCpVE_66pgGk-51" value="25 - 40%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="5750" y="-2094.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ffwNvhV8qCpVE_66pgGk-52" value="xx - x%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="5850" y="-2094.5" width="90" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
