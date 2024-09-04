@@ -700,7 +700,7 @@
           <mxGeometry x="3852" y="230" width="200" height="290" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-152" value="Tags Condition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="kerzIb3wunF3lRtGdF_Q-151" vertex="1">
-          <mxGeometry x="1" y="160" width="198" height="30" as="geometry" />
+          <mxGeometry y="170" width="198" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kerzIb3wunF3lRtGdF_Q-153" value="Country" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="kerzIb3wunF3lRtGdF_Q-151" vertex="1">
           <mxGeometry x="1" y="54" width="198" height="30" as="geometry" />
