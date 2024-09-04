@@ -1584,7 +1584,7 @@
         <mxCell id="ffwNvhV8qCpVE_66pgGk-43" value="Payment" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="5745" y="-2224" width="230" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="ffwNvhV8qCpVE_66pgGk-44" value="Payment" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ffwNvhV8qCpVE_66pgGk-44" value="TSQ" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="5745" y="-2144" width="230" height="74" as="geometry" />
         </mxCell>
       </root>
