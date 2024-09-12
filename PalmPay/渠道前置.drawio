@@ -534,13 +534,13 @@
         <mxCell id="NEtKtBejalxUPlMGCe4--5" value="K8S" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="2530" y="2659" width="520" height="501" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-42" value="call standard spi of channel gateway，from pay-route to paynet-switch-center" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-42" value="call standard spi of channel gateway from pay-route to paynet-switch-center" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="3308" y="-1144" width="900" height="560" as="geometry" />
         </mxCell>
         <mxCell id="Bh4iSGVp6Gnp6lTWyqyx-27" value="Nigeria" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1730" y="2986" width="570" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Bh4iSGVp6Gnp6lTWyqyx-24" value="channel order persistent，idempotent solution" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="Bh4iSGVp6Gnp6lTWyqyx-24" value="channel order persistent idempotent solution" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1730" y="2618" width="570" height="282" as="geometry" />
         </mxCell>
         <mxCell id="q5BtTwWZ9gBS2KeyRRET-94" value="x-channel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -1055,7 +1055,7 @@
         <mxCell id="coelvOtr9oTJT-cIlqe5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="coelvOtr9oTJT-cIlqe5-3" target="coelvOtr9oTJT-cIlqe5-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-18" value="step2：persistent ， idempotent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="coelvOtr9oTJT-cIlqe5-17" vertex="1" connectable="0">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-18" value="step2：persistent idempotent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="coelvOtr9oTJT-cIlqe5-17" vertex="1" connectable="0">
           <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
             <mxPoint x="18" y="-11" as="offset" />
           </mxGeometry>
@@ -1220,7 +1220,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="coelvOtr9oTJT-cIlqe5-69" value="step2：route order persistent，idempotent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="coelvOtr9oTJT-cIlqe5-68" vertex="1" connectable="0">
+        <mxCell id="coelvOtr9oTJT-cIlqe5-69" value="step2：route order persistent idempotent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="coelvOtr9oTJT-cIlqe5-68" vertex="1" connectable="0">
           <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
             <mxPoint x="18" y="-11" as="offset" />
           </mxGeometry>

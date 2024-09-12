@@ -112,7 +112,7 @@
         <mxCell id="6IT8jvheV-3be68Alm8Y-25" value="mysql&lt;br&gt;auto increment&lt;br&gt;offset：1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="575" y="660" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6IT8jvheV-3be68Alm8Y-28" value="Id=2，device=A" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="6IT8jvheV-3be68Alm8Y-28" value="Id=2 device=A" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="175" y="750" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6IT8jvheV-3be68Alm8Y-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.211;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;strokeWidth=3;fontSize=19;fontColor=#A9C4EB;startArrow=classic;startFill=1;exitX=0.222;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="6IT8jvheV-3be68Alm8Y-29" target="6IT8jvheV-3be68Alm8Y-34">
@@ -128,10 +128,10 @@
             <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6IT8jvheV-3be68Alm8Y-29" value="Id=2，device=A" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="6IT8jvheV-3be68Alm8Y-29" value="Id=2 device=A" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="750" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6IT8jvheV-3be68Alm8Y-34" value="Id=2，device=B" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#66CC00;fillColor=#66CC00;" vertex="1" parent="1">
+        <mxCell id="6IT8jvheV-3be68Alm8Y-34" value="Id=2 device=B" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#66CC00;fillColor=#66CC00;" vertex="1" parent="1">
           <mxGeometry x="645" y="750" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
