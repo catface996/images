@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
-    <mxGraphModel dx="7093" dy="4221" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6976" dy="4257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5378,6 +5378,15 @@
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ocg1RNqOyUiUeMMVO5ut-25" target="ocg1RNqOyUiUeMMVO5ut-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="G6QSel--4bNq892NT79J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ocg1RNqOyUiUeMMVO5ut-25" target="ocg1RNqOyUiUeMMVO5ut-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9800" y="33" />
+              <mxPoint x="9800" y="230" />
+              <mxPoint x="9450" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-25" value="是否要发送终态异步通知" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="9411" y="-7" width="80" height="80" as="geometry" />
         </mxCell>
@@ -5388,7 +5397,7 @@
           <mxGeometry x="9391" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-29" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="9390" y="257" width="120" height="60" as="geometry" />
+          <mxGeometry x="9391" y="257" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G6QSel--4bNq892NT79J-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G6QSel--4bNq892NT79J-1" target="G6QSel--4bNq892NT79J-2">
           <mxGeometry relative="1" as="geometry" />
