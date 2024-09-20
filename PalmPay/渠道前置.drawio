@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram id="OfbbpKo02JQphFTSLnsL" name="第 1 页">
-    <mxGraphModel dx="7995" dy="4715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7093" dy="4221" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5347,7 +5347,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-17" value="是否在路由后缓冲" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="9411" y="-388" width="80" height="80" as="geometry" />
+          <mxGeometry x="9410" y="-388" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ocg1RNqOyUiUeMMVO5ut-19" target="ocg1RNqOyUiUeMMVO5ut-29" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -5364,13 +5364,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-21" value="分发到渠道接入网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="9391" y="-251" width="120" height="60" as="geometry" />
+          <mxGeometry x="9390" y="-251" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ocg1RNqOyUiUeMMVO5ut-23" target="ocg1RNqOyUiUeMMVO5ut-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-23" value="根据返回结果更新路由单状态和凭证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="9391" y="-124" width="120" height="60" as="geometry" />
+          <mxGeometry x="9390" y="-124" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ocg1RNqOyUiUeMMVO5ut-25" target="ocg1RNqOyUiUeMMVO5ut-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -5384,16 +5384,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-25" value="是否要发送终态异步通知" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="9411" y="-7" width="80" height="80" as="geometry" />
+          <mxGeometry x="9410" y="-7" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ocg1RNqOyUiUeMMVO5ut-27" target="ocg1RNqOyUiUeMMVO5ut-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-27" value="发送终态异步通知" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="9391" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="9390" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocg1RNqOyUiUeMMVO5ut-29" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="9391" y="257" width="120" height="60" as="geometry" />
+          <mxGeometry x="9390" y="257" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G6QSel--4bNq892NT79J-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G6QSel--4bNq892NT79J-1" target="G6QSel--4bNq892NT79J-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -5406,6 +5406,7 @@
             <Array as="points">
               <mxPoint x="9190" y="-550" />
               <mxPoint x="9450" y="-550" />
+              <mxPoint x="9450" y="-505" />
             </Array>
           </mxGeometry>
         </mxCell>
