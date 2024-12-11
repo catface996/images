@@ -58,43 +58,43 @@
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-18" value="路由单落单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
           <mxGeometry x="259" y="353" width="90" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-19" value="路由前队列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-19" value="路由前队列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
           <mxGeometry x="364" y="353" width="90" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-20" value="渠道决策&lt;div&gt;（可视化）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-20" value="渠道决策&lt;div&gt;（可视化）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
           <mxGeometry x="635" y="351" width="90" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-21" value="分发前置条件&lt;div&gt;决策&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-21" value="分发前置条件&lt;div&gt;决策&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
           <mxGeometry x="635" y="405" width="90" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-22" value="路由后队列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-22" value="路由后队列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
           <mxGeometry x="364" y="405" width="90" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-23" value="终态异步通知" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
           <mxGeometry x="259" y="405" width="90" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-24" value="重路由" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-24" value="重路由" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
           <mxGeometry x="474" y="353" width="90" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-25" value="通用指标&lt;div&gt;采集监控&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-25" value="通用指标&lt;div&gt;采集监控&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
           <mxGeometry x="474" y="405" width="90" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-26" value="模拟路由/巡检" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-26" value="模拟路由/巡检" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
           <mxGeometry x="735" y="351" width="90" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-27" value="成本试算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-27" value="成本试算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
           <mxGeometry x="735" y="405" width="90" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-28" value="路由策略灰度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-28" value="路由策略灰度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
           <mxGeometry x="635" y="457.5" width="90" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-29" value="最优策略组计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-29" value="最优策略组计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
           <mxGeometry x="735" y="457.5" width="90" height="39" as="geometry" />
         </mxCell>
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-30" value="高频迭代" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
           <mxGeometry x="760" y="321" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-31" value="通用流动性&lt;div&gt;指标计算&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-31" value="通用流动性&lt;div&gt;指标计算&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
           <mxGeometry x="259" y="457.5" width="90" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-90" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-2">
@@ -112,19 +112,19 @@
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-42" value="渠道订单分发" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-32">
           <mxGeometry x="210" y="70" width="400" height="159" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-44" value="渠道接入网关&lt;div&gt;注册&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-32">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-44" value="渠道接入网关&lt;div&gt;注册&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-32">
           <mxGeometry x="235" y="109" width="90" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-45" value="渠道网关能力&lt;div&gt;管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-32">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-45" value="渠道网关能力&lt;div&gt;管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-32">
           <mxGeometry x="370" y="109" width="90" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-46" value="渠道接入网关版本控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-32">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-46" value="渠道接入网关版本控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-32">
           <mxGeometry x="490" y="109" width="90" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-47" value="流量分发&lt;div&gt;灰度能力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-32">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-47" value="流量分发&lt;div&gt;灰度能力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-32">
           <mxGeometry x="370" y="169" width="90" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-48" value="非标渠道接入网关适配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-32">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-48" value="非标渠道接入网关适配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-32">
           <mxGeometry x="235" y="169" width="90" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-51" value="标准渠道接入网关&lt;div&gt;yy-channel-gateway&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-32">
@@ -225,7 +225,25 @@
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-91" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-51" target="avMDx9u3WF0ZAJYoT9_1-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-92" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-52" target="avMDx9u3WF0ZAJYoT9_1-62">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-92" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-93" target="avMDx9u3WF0ZAJYoT9_1-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-94" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-52" target="avMDx9u3WF0ZAJYoT9_1-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4459" y="2240" as="sourcePoint" />
+            <mxPoint x="-4379" y="2450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-93" value="IPSec Site to Site VPN" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.site_to_site_vpn;" vertex="1" parent="1">
+          <mxGeometry x="-4560" y="2320" width="39" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-97" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-95" target="avMDx9u3WF0ZAJYoT9_1-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-95" value="Direct Connect" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.direct_connect;" vertex="1" parent="1">
+          <mxGeometry x="-4430" y="2319.5" width="39.5" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-52" target="avMDx9u3WF0ZAJYoT9_1-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
