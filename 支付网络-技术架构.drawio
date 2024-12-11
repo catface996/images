@@ -7,7 +7,7 @@
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#9933FF;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-4870" y="1430" width="850" height="850" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-2" value="阿里云-法兰克福" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-2" value="X云-法兰克福" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-4880" y="1290" width="870" height="530" as="geometry" />
         </mxCell>
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="avMDx9u3WF0ZAJYoT9_1-2" source="avMDx9u3WF0ZAJYoT9_1-4" target="avMDx9u3WF0ZAJYoT9_1-8">
@@ -210,6 +210,9 @@
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-88" value="多秘钥管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-3550" y="2135.75" width="90" height="44.5" as="geometry" />
         </mxCell>
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-103" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-104" target="avMDx9u3WF0ZAJYoT9_1-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-53" value="标准渠道接入网关&lt;div&gt;...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-4316" y="2180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -253,6 +256,15 @@
         </mxCell>
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-98" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.httpdns;" vertex="1" parent="1">
           <mxGeometry x="-4700" y="2319.5" width="50.099999999999994" height="36.3" as="geometry" />
+        </mxCell>
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-105" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-53" target="avMDx9u3WF0ZAJYoT9_1-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4256" y="2240" as="sourcePoint" />
+            <mxPoint x="-4115" y="2450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-104" value="IPSec Site to Site VPN" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.site_to_site_vpn;" vertex="1" parent="1">
+          <mxGeometry x="-4200.5" y="2319.5" width="39" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
