@@ -160,13 +160,13 @@
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-64" value="..." style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-58">
           <mxGeometry x="730" y="70" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-65" value="在完善" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-65" value="分发层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-5059.5" y="1361.25" width="90" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-66" value="已完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-66" value="路由成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-5059.5" y="1290" width="90" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-67" value="原有系统或功能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-67" value="渠道接入网关层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-5059.5" y="1432.5" width="90" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-74" value="标准渠道接入网关" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1" vertex="1" parent="1">
@@ -207,7 +207,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-86" value="金融网络域" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#9933FF;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-86" value="支付网络" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#9933FF;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-5059.5" y="1510" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-87" value="多线路管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
