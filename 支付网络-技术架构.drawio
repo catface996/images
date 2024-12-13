@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="9BB5iWTIzU-Hl_XkpuT6">
-    <mxGraphModel dx="6126" dy="-450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6295" dy="-446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,12 +219,9 @@
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-42" target="avMDx9u3WF0ZAJYoT9_1-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-91" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-98" target="avMDx9u3WF0ZAJYoT9_1-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-100" value="Internet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="avMDx9u3WF0ZAJYoT9_1-91">
-          <mxGeometry x="-0.5744" y="2" relative="1" as="geometry">
-            <mxPoint x="-7" y="-6" as="offset" />
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-91" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-113" target="avMDx9u3WF0ZAJYoT9_1-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4674.95" y="2355.8" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-92" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-93" target="avMDx9u3WF0ZAJYoT9_1-62">
@@ -248,14 +245,11 @@
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-52" target="avMDx9u3WF0ZAJYoT9_1-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-99" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-51" target="avMDx9u3WF0ZAJYoT9_1-98">
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-99" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-4670" y="2240" as="sourcePoint" />
-            <mxPoint x="-4639" y="2450" as="targetPoint" />
+            <mxPoint x="-4674.95" y="2319.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="avMDx9u3WF0ZAJYoT9_1-98" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.httpdns;" vertex="1" parent="1">
-          <mxGeometry x="-4700" y="2319.5" width="50.099999999999994" height="36.3" as="geometry" />
         </mxCell>
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-105" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="avMDx9u3WF0ZAJYoT9_1-53" target="avMDx9u3WF0ZAJYoT9_1-104">
           <mxGeometry relative="1" as="geometry">
@@ -277,6 +271,9 @@
         </mxCell>
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-109" value="Availability zone" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-2890" y="2190" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="avMDx9u3WF0ZAJYoT9_1-113" value="HTTPS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_gateway;" vertex="1" parent="1">
+          <mxGeometry x="-4698" y="2316" width="46" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
