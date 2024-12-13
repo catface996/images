@@ -101,7 +101,7 @@
           <mxGeometry x="679.5" y="198.25" width="90" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-32" value="AWS-爱尔兰" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-4880" y="1840" width="870" height="451" as="geometry" />
+          <mxGeometry x="-4880" y="1840" width="870" height="500" as="geometry" />
         </mxCell>
         <mxCell id="avMDx9u3WF0ZAJYoT9_1-33" value="渠道接入网关域" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;verticalAlign=top;" vertex="1" parent="avMDx9u3WF0ZAJYoT9_1-32">
           <mxGeometry x="40" y="280" width="800" height="140" as="geometry" />
