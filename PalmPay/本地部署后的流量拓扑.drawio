@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="vhnvMHrt_a1CEZoYM-v-">
-    <mxGraphModel dx="1997" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2762" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mci8jlUVSB_yOoJ_BDAq-101" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-101" value="期望尝试的方案" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="910" y="40" width="810" height="640" as="geometry" />
         </mxCell>
         <mxCell id="mci8jlUVSB_yOoJ_BDAq-66" value="Ireland" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#00A4A6;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="mci8jlUVSB_yOoJ_BDAq-96" value="异步业务系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mci8jlUVSB_yOoJ_BDAq-84">
           <mxGeometry x="135" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mci8jlUVSB_yOoJ_BDAq-100" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-100" value="现有方案" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="370" y="40" width="450" height="640" as="geometry" />
         </mxCell>
         <mxCell id="mci8jlUVSB_yOoJ_BDAq-36" value="洲际网络" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;verticalAlign=top;fontStyle=1;strokeColor=#FF9933;strokeWidth=2;" vertex="1" parent="1">
