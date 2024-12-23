@@ -203,12 +203,12 @@
         <mxCell id="mci8jlUVSB_yOoJ_BDAq-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mci8jlUVSB_yOoJ_BDAq-50" target="mci8jlUVSB_yOoJ_BDAq-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1039" y="380" />
-              <mxPoint x="1460" y="380" />
+              <mxPoint x="1039" y="360" />
+              <mxPoint x="1460" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mci8jlUVSB_yOoJ_BDAq-77" value="部署" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mci8jlUVSB_yOoJ_BDAq-76">
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-77" value="&lt;b&gt;部署&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mci8jlUVSB_yOoJ_BDAq-76">
           <mxGeometry x="-0.0499" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -306,6 +306,14 @@
         </mxCell>
         <mxCell id="mci8jlUVSB_yOoJ_BDAq-75" value="交易等&lt;div&gt;系统&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mci8jlUVSB_yOoJ_BDAq-67">
           <mxGeometry x="15" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="mci8jlUVSB_yOoJ_BDAq-84" target="mci8jlUVSB_yOoJ_BDAq-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-98" value="VPC 扩展" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mci8jlUVSB_yOoJ_BDAq-97">
+          <mxGeometry x="0.3242" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
