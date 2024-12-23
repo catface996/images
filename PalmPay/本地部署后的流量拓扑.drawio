@@ -55,7 +55,7 @@
         <mxCell id="mci8jlUVSB_yOoJ_BDAq-31" value="支付网络系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mci8jlUVSB_yOoJ_BDAq-9">
           <mxGeometry x="285" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mci8jlUVSB_yOoJ_BDAq-32" value="业务系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mci8jlUVSB_yOoJ_BDAq-9">
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-32" value="交易等&lt;div&gt;系统&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mci8jlUVSB_yOoJ_BDAq-9">
           <mxGeometry x="15" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mci8jlUVSB_yOoJ_BDAq-12" value="&amp;nbsp;Lagos, Nigeria" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
@@ -298,7 +298,7 @@
         <mxCell id="mci8jlUVSB_yOoJ_BDAq-74" value="支付网络系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mci8jlUVSB_yOoJ_BDAq-67">
           <mxGeometry x="285" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mci8jlUVSB_yOoJ_BDAq-75" value="业务系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mci8jlUVSB_yOoJ_BDAq-67">
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-75" value="交易等&lt;div&gt;系统&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mci8jlUVSB_yOoJ_BDAq-67">
           <mxGeometry x="15" y="50" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
