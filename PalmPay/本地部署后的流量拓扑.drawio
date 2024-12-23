@@ -1,25 +1,28 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="vhnvMHrt_a1CEZoYM-v-">
-    <mxGraphModel dx="1593" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2045" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-36" value="洲际网络" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="760" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="mci8jlUVSB_yOoJ_BDAq-1" value="Ireland" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#00A4A6;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="230" height="190" as="geometry" />
         </mxCell>
         <mxCell id="mci8jlUVSB_yOoJ_BDAq-3" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc2;strokeColor=#8C4FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="mci8jlUVSB_yOoJ_BDAq-1">
           <mxGeometry x="60" y="40" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mci8jlUVSB_yOoJ_BDAq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="mci8jlUVSB_yOoJ_BDAq-5" target="mci8jlUVSB_yOoJ_BDAq-1">
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.267;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mci8jlUVSB_yOoJ_BDAq-5" target="mci8jlUVSB_yOoJ_BDAq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mci8jlUVSB_yOoJ_BDAq-7" value="直线距离：5300公里&lt;div&gt;单程理论通信延时：26 ms&lt;/div&gt;&lt;div&gt;实测双程（ping - RTT）：150ms&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mci8jlUVSB_yOoJ_BDAq-6">
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-7" value="直线距离：5300公里&lt;div&gt;单程理论通信延时：26 ms&lt;/div&gt;&lt;div&gt;实测双程（ping - RTT）：150ms&lt;/div&gt;" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mci8jlUVSB_yOoJ_BDAq-6">
           <mxGeometry x="0.0154" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mci8jlUVSB_yOoJ_BDAq-5" value="&amp;nbsp;Lagos, Nigeria" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="520" width="130" height="130" as="geometry" />
+          <mxGeometry x="40" y="520" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="mci8jlUVSB_yOoJ_BDAq-8" value="Ireland" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#00A4A6;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="80" width="390" height="190" as="geometry" />
@@ -67,7 +70,8 @@
         <mxCell id="mci8jlUVSB_yOoJ_BDAq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mci8jlUVSB_yOoJ_BDAq-13" target="mci8jlUVSB_yOoJ_BDAq-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="595" />
+              <mxPoint x="490" y="480" />
+              <mxPoint x="450" y="480" />
               <mxPoint x="450" y="320" />
               <mxPoint x="498" y="320" />
             </Array>
@@ -75,49 +79,57 @@
         </mxCell>
         <mxCell id="mci8jlUVSB_yOoJ_BDAq-22" value="1 - 发起转账" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mci8jlUVSB_yOoJ_BDAq-21">
           <mxGeometry x="-0.1042" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="19" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mci8jlUVSB_yOoJ_BDAq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mci8jlUVSB_yOoJ_BDAq-20" target="mci8jlUVSB_yOoJ_BDAq-14">
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mci8jlUVSB_yOoJ_BDAq-20" target="mci8jlUVSB_yOoJ_BDAq-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="658" y="280" />
+              <mxPoint x="657" y="280" />
               <mxPoint x="658" y="280" />
               <mxPoint x="658" y="320" />
               <mxPoint x="610" y="320" />
-              <mxPoint x="610" y="592" />
+              <mxPoint x="610" y="480" />
+              <mxPoint x="660" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mci8jlUVSB_yOoJ_BDAq-26" value="Step 3: 调用支付通道付款" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mci8jlUVSB_yOoJ_BDAq-24">
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-26" value="3: 调用支付通道付款" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mci8jlUVSB_yOoJ_BDAq-24">
           <mxGeometry x="0.0919" y="1" relative="1" as="geometry">
-            <mxPoint x="26" y="-2" as="offset" />
+            <mxPoint x="39" y="-39" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mci8jlUVSB_yOoJ_BDAq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="mci8jlUVSB_yOoJ_BDAq-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="697" y="592" as="sourcePoint" />
             <mxPoint x="677.5" y="212" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="740" y="592" />
+              <mxPoint x="697" y="480" />
+              <mxPoint x="740" y="480" />
               <mxPoint x="740" y="320" />
-              <mxPoint x="678" y="320" />
+              <mxPoint x="677" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mci8jlUVSB_yOoJ_BDAq-28" value="Step 4: 返回付款结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mci8jlUVSB_yOoJ_BDAq-27">
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-28" value="4: 返回付款结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mci8jlUVSB_yOoJ_BDAq-27">
           <mxGeometry x="-0.2782" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-28" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mci8jlUVSB_yOoJ_BDAq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.018;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="mci8jlUVSB_yOoJ_BDAq-19" target="mci8jlUVSB_yOoJ_BDAq-13">
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="mci8jlUVSB_yOoJ_BDAq-19" target="mci8jlUVSB_yOoJ_BDAq-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="500" as="targetPoint" />
             <Array as="points">
               <mxPoint x="520" y="320" />
               <mxPoint x="570" y="320" />
-              <mxPoint x="570" y="596" />
+              <mxPoint x="570" y="480" />
+              <mxPoint x="520" y="480" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mci8jlUVSB_yOoJ_BDAq-35" value="6 - 转账结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mci8jlUVSB_yOoJ_BDAq-33">
+          <mxGeometry x="-0.0383" y="1" relative="1" as="geometry">
+            <mxPoint x="-21" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
